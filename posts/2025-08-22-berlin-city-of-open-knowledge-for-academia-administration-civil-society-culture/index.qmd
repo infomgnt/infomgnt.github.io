@@ -1,0 +1,31 @@
+---
+title: 'Berlin – City of Open Knowledge for Academia, Administration, Civil Society & Culture'
+author:
+- name: Heinz Pampel
+  url: https://heinzpampel.de/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: https://hu-berlin.de/infomgnt
+date: "2025-08-22"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/
+image: berlin_stadt_des_offenen_wissens.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I am pleased to share that our [research group](http://hu.berlin/infomgnt) is a partner of the [“Berlin – City of Open Knowledge for Academia, Administration, Civil Society & Culture”](https://www.berlin-university-alliance.de/commitments/research-quality/openx/berlin-stow/index.html) conference.
+
+The conference will take place on October 23, 2025, from 9:30 AM to 4:30 PM, as part of the international [Open Access Week 2025](https://www.openaccessweek.org/).
+
+This event will bring together experts, practitioners, and engaged citizens to explore the future of open knowledge-sharing in Berlin. Through a variety of interactive formats, participants will discuss strategies, present projects, and identify opportunities for cross-sector collaboration. A key element of the program is an Open Lab / Barcamp session, designed for self-organized discussions, project showcases, and idea exchanges.
+
+![](berlin_stadt_des_offenen_wissens.jpeg)
+
+Registration is [now open](https://www.berlin-university-alliance.de/commitments/research-quality/openx/berlin-stow/index.html). Please note, the conference will be held in German. The event will be hosted at the Seminarzentrum (Silberlaube) at Freie Universität Berlin.
+
+The conference, supported by the Berlin University Alliance (BUA), is organized by colleagues from BUA, Humboldt-Universität zu Berlin, Open Research Office Berlin, Stiftung Preußischer Kulturbesitz, Staatsbibliothek zu Berlin, Universität der Künste, and Weizenbaum Institut.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
