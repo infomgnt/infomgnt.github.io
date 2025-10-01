@@ -1,0 +1,43 @@
+---
+title: "Panel Discussion to Kick Off the International Open Access Week 2025"
+author:
+- name: Heinz Pampel
+  url: https://heinzpampel.de
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: http://hu-berlin.de/infomgnt
+date: "2025-10-01"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/
+image: OAWeek2025.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We are pleased to announce that the event series “Quo vadis Open Research in Berlin and Brandenburg” will continue throughout 2025 and 2026. This marks the fifth round of the series, bringing together experts and practitioners to discuss the future of Open Science in the Berlin-Brandenburg region.
+
+![](OAWeek2025.jpeg)
+
+An overview of all events and participating organizations can be found on the [official event website](https://open-access-brandenburg.de/quo-vadis-offene-wissenschaft-berlin-brandenburg-2025-2026/).
+
+The series will open with a kick-off event during the [International Open Access Week 2025](https://www.openaccessweek.org/).
+
+**Date and time:** October 20, 2025, 14:00–15:30 (CET)\
+**Theme:** Open Access 2025: Collaborations for Open Publications\
+**Program and registration:** [open-access-brandenburg.de](https://open-access-brandenburg.de/events/open-access-2025-kooperationen-fuer-offene-publikationen-quo-vadis-2025/)
+
+Experts will discuss the current state and future perspectives of open access, focusing on how collaborations can strengthen open publishing practices. Please note: the event will take place in German.
+
+The panel will include contributions from:
+
+-   Dr. Dagmar Meyer, European Research Council (ERC), Executive Agency (ERCEA)\
+-   Dr. Bernhard Mittermaier, Forschungszentrum Jülich, Central Library\
+-   Dr. Torsten Reimer, University of Chicago, Library
+
+The discussion is hosted by our research group at the Berlin School of Library and Information Science, Humboldt-Universität zu Berlin.
+
+Another contribution from our group to Open Access Week 2025 is the co-organization of the conference “Berlin – City of Open Knowledge for Academia, Administration, Civil Society & Culture.” The conference will take place on October 23, 2025. For more details, please see the [announcement in this blog](https://doi.org/10.59350/j9987-g2h67).
+
+Further information about our work can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labeled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
