@@ -9,7 +9,7 @@ author:
 date: "2025-10-01"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/
+  url: https://doi.org/10.59350/0mm4x-sma37
 image: OAWeek2025.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
