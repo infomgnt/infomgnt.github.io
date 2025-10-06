@@ -8,7 +8,7 @@ author:
 date: "2025-10-03"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-10-03-report-from-the-BUA-fellowship-metadata-flows-in-the-context-of-research-data/
+  url: https://doi.org/10.59350/fzz0a-wv919 
 image: Desmarais_Building.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references.bib
@@ -20,7 +20,7 @@ I recently returned from a research stay at the University of Ottawa: A grant by
 
 During my stay, I investigated how metadata describing research data flows from local to global contexts. I previously wrote about my research and why it matters on this blog [@strecker_bua_2025]. In the course of my stay, I was able to collect and prepare data for analysis. As a first step, I reviewed records of the registry of research data repositories [re3data](https://www.re3data.org) to check the status of OAI-PMH endpoints listed there. Next, I determined which endpoints expose metadata in specialized format using the [RDA Metadata Standards Catalog](https://rdamsc.bath.ac.uk), and checked which repositories have assigned DOIs to their resources. I selected 8 research data repositories - four from the social sciences and four from the geosciences. For each of these repositories, I retrieved metadata records based on (1) the specialized metadata schema, and (2) the DataCite Metadata Schema. The procedure I used ensures that these records describe the same resource, but in two different schemas. To prepare for the analysis, I updated and extended existing mappings between 3 specialized metadata schemas and the DataCite Metadata Schema. I am currently preparing a manuscript that will outline the results of this study.
 
-In the six weeks I spent in Ottawa, I was also able to participate in another research activity - I contributed to a data collection initiative at the Scholarly Communications Lab that contextualized a recent suggestion by the National Institutes of Health (NIH) in the USA to cap APC funding. The data was initially used in a Science news article [@brainard_nih_nodate]. After extending the dataset further to include more journals and articles, it was published [@haustein_apcs_2025] alongside two blog posts [@haustein_nih_2025 ; @the_scholarly_communications_lab_shaking_2025].
+In the six weeks I spent in Ottawa, I was also able to participate in another research activity - I contributed to a data collection initiative at the Scholarly Communications Lab that contextualized a recent suggestion by the National Institutes of Health (NIH) in the USA to cap APC funding. The data was initially used in a Science news article [@brainard_nih_nodate]. After extending the dataset further to include more journals and articles, it was published [@haustein_apcs_2025] alongside two blog posts [@haustein_nih_2025; @the_scholarly_communications_lab_shaking_2025].
 
 I was also able to present my research to members of the Scholarly Communications Lab and University of Ottawa faculty members, and to discuss shared interests throughout my stay. Prof. Haustein also invited me to contribute materials on metadata for research data to a knowledge organization course.
 
