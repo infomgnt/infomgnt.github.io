@@ -1,0 +1,59 @@
+---
+title: "Scholarly Blogs as an Integral Part of the Open Access Landscape"
+author:
+- name: Catharina Ochsner
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Heinz Pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz Association, Helmholtz Open Science Office 
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Björn Gebert
+  orcid: 0000-0002-9507-7363
+  affiliation: Georg-August-Universität Göttingen, Niedersächsische Staats- und Universitätsbibliothek Göttingen
+  affiliation-url: https://www.sub.uni-goettingen.de
+- name: Melanie Seltmann
+  orcid: 0000-0002-7588-4395
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Ulrike Wuttke
+  orcid: https://orcid.org/0000-0002-8217-4025
+  affiliation: Fachhochschule Potsdam / University of Applied Sciences Potsdam, Fachbereich Informationswissenschaften / Department of Information Sciences 
+  affiliation-url: http://www.fh-potsdam.de/  
+date: "2025-10-07"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/
+image: OA25Workshop.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: OAT25InfraWissBlogs.bib
+---
+
+![](OA25Workshop.jpeg)
+
+The Infra Wiss Blogs project by the Research Group Information Management was represented at this year's [Open Access Days](https://open-access-tage.de/open-access-tage-2025-konstanz) with the workshop “Scholarly blogs as an integral part of the open access landscape”. The workshop was organised by Catharina Ochsner and Heinz Pampel ([Humboldt Universität zu Berlin (HU Berlin)](https://www.hu-berlin.de/de), [Berlin School of Library and Information Science (IBI)](https://www.ibi.hu-berlin.de/de) in collaboration with Björn Gebert ([Mittelalterblog](https://mittelalter.hypotheses.org/) & [Niedersächsische Staats-und Universitätsbibliothek Göttingen](https://www.sub.uni-goettingen.de/sub-aktuell/)), Melanie Seltmann (HU, IBI) and Ulrike Wuttke ([University of Applied Sciences Potsdam, SeDOA](https://www.fh-potsdam.de/)).
+
+Guided by the question “How can science blogs be institutionally anchored as an integral part of the open access landscape?” participants examined the opportunities and challenges of institutionally linking scholarly blogs. Initial results from the Infra Wiss Blogs project were presented [@ochsner2025]. The aim of the workshop was to develop an understanding of the role of blogs as sustainable open access infrastructures, identify institutional challenges and develop solutions for the institutional integration of scholarly blogs in order to promote science blogs in the spirit of open access in a sustainable manner. This blog post documents the workshop from the organisers' perspective.
+
+# Discussion
+
+Based on two thesis participants discussed the role of scholarly blogs as open access tools.
+
+## Thesis 1
+
+**Information infrastructure facilities must offer the possibility of archiving and persistent addressing of science blogs.** On the one hand, participants emphasised that scholarly blogs are important for the visibility and accessibility of scientific content and should therefore be included in long-term archiving in a similar way to other forms of publication. On the other hand, participants pointed out that resources, responsibilities and technical standards still remain unclear. A recurring issue concerned the independence of bloggers. Many participants value the freedom to publish without institutional guidelines. Yet, it was also acknowledged that long-term archiving requires rules and processes. Scholarly blogs, described during the workshop as the “punk rock of publishing,” are spontaneous, independent, and unconventional—features not always compatible with formal requirements. Also, some bloggers wished to maintain a possibility to delete their posts in the future. As a possible solution, participants suggested plugins that make metadata easily reusable, among other things. Discussion also focused on which actors should be responsible for long-term availability: a mandatory deposit at the German National Library (DNB), state library repositories, consortia, or collaboratively maintained infrastructures. Federalism was identified as an obstacle in this context. Participants also opposed granting monopoly positions to single institutions, not least with regard to the researchers’ own academic journey from one institution to another, instead advocating for an independent infrastructure. Responsibility for the long-term availability of scholarly blogs was also assigned to scholarly blog platforms, in particular [Hypotheses](https://hypotheses.org/). According to the participants, these should develop an archiving strategy, also in cooperation with the German National Library (DNB). In contrast, those who host a blog themselves are responsible for its long-term availability, according to the participants.
+
+## Thesis 2
+
+**Scholarly bloggers are encouraged to ensure that they comply with open science practices and FAIR principles.**
+
+According to the participants, there were also differing perspectives on this topic. On the one hand, it was acknowledged that bloggers should bear a minimum degree of personal responsibility. On the other hand, the participants agreed that individual researchers could not be expected to have comprehensive technical or information science knowledge. The participants emphasised that the motivation of many bloggers lies primarily in making their topic accessible and bringing it into scientific discourse – not in systematically pursuing open science. According to the participants, libraries and information infrastructures could play an important role here: they could transfer skills, create technical frameworks and facilitate compliance with standards. Participants critically discussed the applicability of the FAIR principles [@FAIR]. Since the FAIR principles were originally developed for research data, they are not a "natural fit" for blogs and would need adaptation, according to statements made in the workshop. In addition, participants pointed out that not all bloggers want to make their content interoperable or reusable – especially with regard to its use by Artificial Intelligence (AI) processes. Instead of rigid requirements, it was therefore suggested that specific guidelines for blogs be developed, based, for example, on the principles of good scientific practice (GWP) that also names blogs as a publication medium [@GWP]. The contributions also made it clear that blanket demands carry the risk of reinforcing existing inequalities among bloggers. According to the participants, many scholars have neither the time nor the technical resources to comply with complex standards. It therefore remains important to respect the autonomy of bloggers while providing low-threshold support services.
+
+# Conclusion
+
+Scholarly blogs are already an important part of open science communication today: they create visibility, increase accessibility and enable a low-threshold form of scientific exchange. At the same time, numerous open questions arise with regard to institutional embedding, for example, questions about responsibilities, resources and technical standards.
+
+Further information about the research group Information Management can be found on the [official website](http://hu.berlin/infomgnt) at Humboldt-Universität zu Berlin.
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

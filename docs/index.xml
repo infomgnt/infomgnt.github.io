@@ -10,7 +10,77 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 02 Oct 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Oct 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Scholarly Blogs as an Integral Part of the Open Access Landscape</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Björn Gebert</dc:creator>
+  <dc:creator>Melanie Seltmann</dc:creator>
+  <dc:creator>Ulrike Wuttke</dc:creator>
+  <link>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" class="img-fluid"></p>
+<p>The Infra Wiss Blogs project by the Research Group Information Management was represented at this year’s <a href="https://open-access-tage.de/open-access-tage-2025-konstanz">Open Access Days</a> with the workshop “Scholarly blogs as an integral part of the open access landscape”. The workshop was organised by Catharina Ochsner and Heinz Pampel (<a href="https://www.hu-berlin.de/de">Humboldt Universität zu Berlin (HU Berlin)</a>, <a href="https://www.ibi.hu-berlin.de/de">Berlin School of Library and Information Science (IBI)</a> in collaboration with Björn Gebert (<a href="https://mittelalter.hypotheses.org/">Mittelalterblog</a> &amp; <a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Niedersächsische Staats-und Universitätsbibliothek Göttingen</a>), Melanie Seltmann (HU, IBI) and Ulrike Wuttke (<a href="https://www.fh-potsdam.de/">University of Applied Sciences Potsdam, SeDOA</a>).</p>
+<p>Guided by the question “How can science blogs be institutionally anchored as an integral part of the open access landscape?” participants examined the opportunities and challenges of institutionally linking scholarly blogs. Initial results from the Infra Wiss Blogs project were presented <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>. The aim of the workshop was to develop an understanding of the role of blogs as sustainable open access infrastructures, identify institutional challenges and develop solutions for the institutional integration of scholarly blogs in order to promote science blogs in the spirit of open access in a sustainable manner. This blog post documents the workshop from the organisers’ perspective.</p>
+<section id="discussion" class="level1">
+<h1>Discussion</h1>
+<p>Based on two thesis participants discussed the role of scholarly blogs as open access tools.</p>
+<section id="thesis-1" class="level2">
+<h2 class="anchored" data-anchor-id="thesis-1">Thesis 1</h2>
+<p><strong>Information infrastructure facilities must offer the possibility of archiving and persistent addressing of science blogs.</strong> On the one hand, participants emphasised that scholarly blogs are important for the visibility and accessibility of scientific content and should therefore be included in long-term archiving in a similar way to other forms of publication. On the other hand, participants pointed out that resources, responsibilities and technical standards still remain unclear. A recurring issue concerned the independence of bloggers. Many participants value the freedom to publish without institutional guidelines. Yet, it was also acknowledged that long-term archiving requires rules and processes. Scholarly blogs, described during the workshop as the “punk rock of publishing,” are spontaneous, independent, and unconventional—features not always compatible with formal requirements. Also, some bloggers wished to maintain a possibility to delete their posts in the future. As a possible solution, participants suggested plugins that make metadata easily reusable, among other things. Discussion also focused on which actors should be responsible for long-term availability: a mandatory deposit at the German National Library (DNB), state library repositories, consortia, or collaboratively maintained infrastructures. Federalism was identified as an obstacle in this context. Participants also opposed granting monopoly positions to single institutions, not least with regard to the researchers’ own academic journey from one institution to another, instead advocating for an independent infrastructure. Responsibility for the long-term availability of scholarly blogs was also assigned to scholarly blog platforms, in particular <a href="https://hypotheses.org/">Hypotheses</a>. According to the participants, these should develop an archiving strategy, also in cooperation with the German National Library (DNB). In contrast, those who host a blog themselves are responsible for its long-term availability, according to the participants.</p>
+</section>
+<section id="thesis-2" class="level2">
+<h2 class="anchored" data-anchor-id="thesis-2">Thesis 2</h2>
+<p><strong>Scholarly bloggers are encouraged to ensure that they comply with open science practices and FAIR principles.</strong></p>
+<p>According to the participants, there were also differing perspectives on this topic. On the one hand, it was acknowledged that bloggers should bear a minimum degree of personal responsibility. On the other hand, the participants agreed that individual researchers could not be expected to have comprehensive technical or information science knowledge. The participants emphasised that the motivation of many bloggers lies primarily in making their topic accessible and bringing it into scientific discourse – not in systematically pursuing open science. According to the participants, libraries and information infrastructures could play an important role here: they could transfer skills, create technical frameworks and facilitate compliance with standards. Participants critically discussed the applicability of the FAIR principles <span class="citation" data-cites="FAIR">(Wilkinson et al. 2016)</span>. Since the FAIR principles were originally developed for research data, they are not a “natural fit” for blogs and would need adaptation, according to statements made in the workshop. In addition, participants pointed out that not all bloggers want to make their content interoperable or reusable – especially with regard to its use by Artificial Intelligence (AI) processes. Instead of rigid requirements, it was therefore suggested that specific guidelines for blogs be developed, based, for example, on the principles of good scientific practice (GWP) that also names blogs as a publication medium <span class="citation" data-cites="GWP">(Forschungsgemeinschaft 2025)</span>. The contributions also made it clear that blanket demands carry the risk of reinforcing existing inequalities among bloggers. According to the participants, many scholars have neither the time nor the technical resources to comply with complex standards. It therefore remains important to respect the autonomy of bloggers while providing low-threshold support services.</p>
+</section>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<p>Scholarly blogs are already an important part of open science communication today: they create visibility, increase accessibility and enable a low-threshold form of scientific exchange. At the same time, numerous open questions arise with regard to institutional embedding, for example, questions about responsibilities, resources and technical standards.</p>
+<p>Further information about the research group Information Management can be found on the <a href="http://hu.berlin/infomgnt">official website</a> at Humboldt-Universität zu Berlin.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-GWP" class="csl-entry">
+Forschungsgemeinschaft, Deutsche. 2025. <span>“Guidelines for <span>Safeguarding</span> <span>Good</span> <span>Research</span> <span>Practice</span>. <span>Code</span> of <span>Conduct</span>,”</span> January. <a href="https://doi.org/10.5281/zenodo.14281892">https://doi.org/10.5281/zenodo.14281892</a>.
+</div>
+<div id="ref-ochsner2025" class="csl-entry">
+Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025. <span>“Scholarly <span>Blogs</span>: <span>An</span> <span>Analysis</span> of <span>Infrastructural</span> <span>Aspects</span> <span>Based</span> on <span>German</span> <span>Scholarly</span> <span>Blogs</span>.”</span> <em>Journal of Documentation [In Press]</em>. <a href="https://doi.org/10.1108/JD-02-2025-0053">https://doi.org/10.1108/JD-02-2025-0053</a>.
+</div>
+<div id="ref-FAIR" class="csl-entry">
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The <span>FAIR</span> <span>Guiding</span> <span>Principles</span> for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (1): 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+  author = {Ochsner, Catharina and Pampel, Heinz and Gebert, Björn and
+    Seltmann, Melanie and Wuttke, Ulrike},
+  title = {Scholarly {Blogs} as an {Integral} {Part} of the {Open}
+    {Access} {Landscape}},
+  date = {2025-10-07},
+  url = {https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, Heinz Pampel, Björn Gebert, Melanie Seltmann, and
+Ulrike Wuttke. 2025. <span>“Scholarly Blogs as an Integral Part of the
+Open Access Landscape.”</span> October 7, 2025. <a href="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/">https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</guid>
+  <pubDate>Mon, 06 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Report from the BUA fellowship: Metadata flows in the context of research data</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1306,58 +1376,6 @@ Publikationskosten.”</span> April 14, 2025. <a href="https://doi.org/10.59350/
   <guid>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/</guid>
   <pubDate>Sun, 13 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>The Information Management Research Group at the BID Kongress 2025</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are pleased to announce that the projects <a href="https://oa-datenpraxis.de/index.html">OA Datenpraxis</a> and <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> of the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Information Management Research Group</a> from the <a href="https://www.ibi.hu-berlin.de/de">Berlin School of Library and Information Science</a> at the <a href="https://www.hu-berlin.de/de">Humboldt-Universität zu Berlin</a> will be represented at this year’s BID Congress. Furthermore, Heinz Pampel will be involved in several other events during the BID Congress.</p>
-<section id="oa-datenpraxis" class="level1">
-<h1>OA Datenpraxis</h1>
-<p>The Hands-on Lab titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/sessions/79">Open-Access-Monitoring-Dashboards mit Quarto</a>’ will take place on June 24th from 16:00–18:00 in Salon London. <a href="https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/sophia-doerner/">Sophia Dörner</a> will give a practical introduction to the development of a simple dashboard for the (open access) publication output of research institutions using Quarto, an open-source publication system. Previous knowledge of the R programming language or Quarto is not required, but helpful. Please bring a laptop and create a <a href="https://posit.cloud/plans/free">Posit Cloud account</a> in advance.</p>
-<p>The lecture titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/presentations/273">Recording of publication costs at scientific institutions in Germany</a>’ will take place on June 27th from 11 to 11:30 in the Focke-Wulf Saal. Dorothea Strecker, Heinz Pampel and Jonas Höfting will present the results of a survey conducted in 2024 as part of the OA Datenpraxis project. The survey investigated how data on publication costs are currently recorded at scientific institutions in Germany. Representatives of universities, universities of applied sciences, institutes of non-university research organisations (Fraunhofer Society, Helmholtz Association, Leibniz Association and Max Planck Society) and federal departmental research institutions were addressed.</p>
-</section>
-<section id="infra-wiss-blogs" class="level1">
-<h1>Infra Wiss Blogs</h1>
-<p>The lecture titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/presentations/307">Mapping German scholarly blogs - results and impulses</a>’ will take place on June 26th from 11 to 11:30 in Hall 4.1/Room II. Catharina Ochsner, Heinz Pampel and Jonas Höfting from the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Chair of Information Management</a> of the <a href="https://www.ibi.hu-berlin.de/de">Institute of Library and Information Science</a> at <a href="https://www.hu-berlin.de/de">Humboldt-Universität zu Berlin</a> (HU Berlin), will present the results of a data collection of over 800 German scholarly blogs, which were analysed for infrastructural aspects. In addition, impulses will be given for academic libraries to make a contribution to ensuring the long-term accessibility of blogs.</p>
-<p>The Hands-on Lab titled ‘<a href="https://bid2025.abstractserver.com/program/#/details/sessions/84">Libraries as operating and preserving institutions for scholarly blogs</a>’ will also take place on June 26th from 2 to 4 pm in the Salon Oslo. In the hands-on lab, participants will discuss the role of libraries in the development, dissemination and preservation of scholarly blogs under the organisation and moderation of experts from the scholarly blog landscape. Aspects of technology, organisation and framework conditions for safeguarding blogs will be discussed in round tables. The Hands-on Lab will be led by <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">Catharina Ochsner</a> (HU Berlin) and supported by <a href="https://heinzpampel.de/">Heinz Pampel</a> (HU Berlin), <a href="https://verfassungsblog.de/author/elena-di-rosa/">Elena Di Rosa</a> (<a href="https://verfassungsblog.de/">Verfassungsblog</a>), <a href="https://front-matter.io/team">Martin Fenner</a> (<a href="https://front-matter.%20io/">Front Matter</a>), Sven Ködel (<a href="https://www.dhi-paris.fr/home.html">German Historical Institute Paris</a>), <a href="https://www.gesis.org/institut/ueber-uns/mitarbeitendenverzeichnis/person/Charmaine.Voigt">Charmaine Voigt</a> (<a href="https://www.gesis.org/home">GESIS: Leibniz Institute for Social Sciences</a>) and <a href="https://www.dnb.de/SharedDocs/Kontaktdaten/DE/wolderingBritta.html">Britta Woldering</a> from the <a href="https://www.dnb.de/DE/Home/home_node.html">German National Library</a>. To register for the workshop, please send an E-Mail to Catharina Ochsner.</p>
-</section>
-<section id="other-work" class="level1">
-<h1>Other Work</h1>
-<p>Furthermore Heinz Pampel will be part of two lectures and a Hands-on-Lab. Together with <a href="https://vivo.tib.eu/fis/display/n0000-0001-5322-0478">Judith Luwdig</a> (<a href="https://www.tib.eu/de/">Technische Informationsbibliothek Hannover</a>) and <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>) Prof.&nbsp;Pampel will give a talk on ‘AI clauses in licence agreements’. The talk will take place on thursday June, 26th between 10 and 10:30 am in the Hanse Saal. Additionally Prof.&nbsp;Pampel will be part of the lecture ‘Strategic approaches to intensify the OA transformation: perspectives for science organisations’ alongside <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Lea Maria Ferguson</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>), <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Marc Lange</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>), <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>) and <a href="https://os.helmholtz.de/ueber-uns/team-und-kontakt/">Meistring</a> (<a href="https://os.helmholtz.de/">Helmholtz Open Science Office</a>). The talk will take place on June 26th from 9 to 9:30 am in Room 5 in hall 4.1. Lastly Prof.&nbsp;Pampel will lead the Hands-on Lab ‘Sustainably financing open access infrastructures’ at the 26th of June from 4:30 to 6 pm in the Salon London. Together with <a href="https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-olaf-siegert">Olaf Siegert</a> (<a href="https://www.zbw.eu/de/">ZBW - Leibniz Information Centre for Economics</a>), <a href="https://www.fz-juelich.de/de/zb/kontakt/zb-leitung">Bernhard Mittermaier</a> (<a href="https://www.fz-juelich.de/de">Research Center Jülich</a>), <a href="https://www.dfg.de/de/ueber-uns/geschaeftsstelle/personen/michael-geuenich-165456">Michael Geuenich</a> (<a href="https://www.dfg.de/de">German Research Foundation</a>), <a href="https://www.zib.de/members/rusch">Beate Rusch</a> (<a href="https://www.zib.de/index.php/">Zuse Institute Berlin</a>) and Silke Weisheit (<a href="https://www.uni-regensburg.de/bibliothek/startseite/index.html">University Library Regensburg</a>) the participants will discuss developments and practical reports on sustainable Open Access financing. To register for the workshop, please send an E-Mail to Heinz Pampel.</p>
-<p>We look forward to seeing you at this year’s BID Congress and to discuss our projects with you. If you have any questions regarding the BID Congress or the events, please do not hesitate to contact Dorothea Strecker and Catharina Ochsner.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
-  author = {Ochsner, Catharina and Strecker, Dorothea and Pampel, Heinz},
-  title = {The {Information} {Management} {Research} {Group} at the
-    {BID} {Kongress} 2025},
-  date = {2025-03-14},
-  url = {https://doi.org/10.59350/txet3-efm12},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, Dorothea Strecker, and Heinz Pampel. 2025.
-<span>“The Information Management Research Group at the BID Kongress
-2025.”</span> March 14, 2025. <a href="https://doi.org/10.59350/txet3-efm12">https://doi.org/10.59350/txet3-efm12</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/</guid>
-  <pubDate>Thu, 13 Mar 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/BID.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>
