@@ -10,7 +10,72 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 06 Oct 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Oct 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Praktiken und Infrastrukturen des Open-Access-Monitorings</title>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Lisa-Marie Stein</dc:creator>
+  <dc:creator>Bernhard Mittermaier</dc:creator>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Bianca Schweighofer</dc:creator>
+  <dc:creator>Gernot Deinzer</dc:creator>
+  <link>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Am 19. September 2025 führten die DFG-geförderten Projekte <a href="https://oa-datenpraxis.de">OA Datenpraxis</a>, <a href="https://www.opencost.de/projekt/">openCost</a> und <a href="https://www.transform2open.de">Transform2Open</a> gemeinsam den Workshop „Praktiken und Infrastrukturen des Open-Access-Monitorings“ auf den Open-Access-Tagen 2025 durch <span class="citation" data-cites="pampel_praktiken_2025">(Pampel et al. 2025)</span>. Nach einer kurzen Vorstellung der beteiligten Projekte diskutierten mehr als 30 Teilnehmende aktuelle Fragestellungen des Open-Access-Monitorings im Format World Café. Dabei wurden die folgenden Handlungsfelder in den Blick genommen: (1) die Stärkung der Standardisierung im Bereich des Monitorings, (2) die Förderung von Transparenzinitiativen in diesem Bereich, (3) die Weiterentwicklung der Nachnutzungsmöglichkeiten offener Daten – auch im Kontext der Barcelona Declaration.</p>
+<p><img src="https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/oat.png" class="img-fluid"></p>
+<section id="standardisierung" class="level2">
+<h2 class="anchored" data-anchor-id="standardisierung">Standardisierung</h2>
+<p>An der Station „Standardisierung“ diskutierten die Teilnehmenden, welchen Herausforderungen sie im Hinblick auf die Vereinheitlichung von Prozessen in ihren Einrichtungen begegnen. Dabei zeigte sich, dass über klassische Publikationsformate hinaus auch weitere Objekte und Formen zunehmend relevant werden. Genannt wurden u. a. Konferenzbeiträge, die Publikationsgebühren in der Teilnahmegebühr enthalten, Einreichungsgebühren, Beiträge zu Diamond-Open-Access-Formaten sowie experimentelle Langform-Publikationen und Bücher im weiteren Sinne. Für letztere wurden zusätzliche Kostenaspekte wie Layout, Lektorat, Videoschnitt, Programmierung (z. B. für Publikationswebseiten), Archivierung oder Disseminationsgebühren hervorgehoben. Dies verdeutlicht, dass je nach Disziplin spezifische Erfahrungen und Bedarfe existieren, die für die Weiterentwicklung eines Metadatenstandards zur Erfassung von Publikationskosten berücksichtigt werden müssen. In Bezug auf die Kostendatenerfassung wurde deutlich, dass an vielen Einrichtungen noch erheblicher Unterstützungsbedarf besteht. Genannt wurden insbesondere die Herausforderung, Daten aus unterschiedlichen Quellen abzugleichen, die Weiterentwicklung bestehender Systeme oder Kostenmodule sowie Fragen des Rechtemanagements. Diskutiert wurde auch die Nutzung einrichtungsindividueller Tabellen und Formate, etwa im Kontext der Ablieferung an OpenAPC, sowie die Notwendigkeit, community-geleitet gemeinsame Standards für mehr Effizienz und Vergleichbarkeit zu entwickeln. Der Bedarf an Standardisierung wurde somit klar als Mittel zur individuellen Arbeitserleichterung und zur Bewältigung gemeinsamer Herausforderungen identifiziert. Dies unterstreicht zugleich die Relevanz, in der weiteren Projektphase von openCost verstärkt am internen Kostenmanagement wissenschaftlicher Einrichtungen zu arbeiten. Schließlich befasste sich die Diskussion mit der Frage, wie Publikationen zuverlässig als vertragsfinanziert identifiziert werden können. Hierbei wurde die Elektronische Zeitschriftenbibliothek (EZB) als möglicher Referenzpunkt für einrichtungsindividuelle Vertragsinformationen hervorgehoben. Diskutiert wurde, welche bestehenden Systeme bereits genutzt werden, welche Synergien möglich sind und wie sich Schnittstellen – etwa zu LAS:eR, FOLIO oder über API-Abgleiche – künftig bestmöglich gestalten lassen. Auch die Erwartungen an eine künftige Vertrags-Registry wurden thematisiert, insbesondere in Hinblick auf Funktionen, Zugriffsebenen und die Integration in bestehende Workflows.</p>
+</section>
+<section id="transparenz" class="level2">
+<h2 class="anchored" data-anchor-id="transparenz">Transparenz</h2>
+<p>Die Station „Transparenz“ lud Teilnehmende dazu ein, über Maßnahmen zur Förderung von Kostentransparenz an ihren Einrichtungen zu sprechen. Teilnehmende betonten, dass es zunächst wichtig sei, den Adressatenkreis der Transparenzinitiative zu definieren: Für wen und zu welchem Zweck soll Transparenz geschaffen werden, und auf welcher Ebene? Daraus können Anforderungen an die Datengrundlage abgeleitet werden, etwa die Aggregationstiefe. In den Gesprächen stellte sich heraus, dass Transparenzbestrebungen an den Einrichtungen variieren. Ihr Erfolg ist häufig abhängig von der Ausgestaltung der Zusammenarbeit der beteiligten Einheiten, beispielsweise ob die datensammelnde Stelle Einsicht in das Finanzmanagementsystem erhält. Teilnehmende berichteten, dass Transparenz als Steuerungsmittel von Hochschulleitungen gewünscht ist. Die Erfahrung zeigt, dass ein Auftrag der Hochschulleitung Bibliotheken dabei hilft, dezentrale Kosten zu erfassen; er kann jedoch auch für Spannungen zwischen der Bibliothek und Fakultäten sorgen. Teilnehmende betonen, dass Transparenz nicht nur zur Kommunikation nach außen wichtig ist - Transparenz über die Aufteilung der Kosten innerhalb der Einrichtung ist ebenfalls wichtig. Mit Blick auf die Transparenz seitens der Verlage stellten die Teilnehmenden fest, dass sich einige Verlage bereits um Transparenz bemühen. Preise alleine seien jedoch schwer zu beurteilen, ohne auch die Produktionskosten zu kennen und einschätzen zu können, z.B. welche Ausgaben für Marketing angemessen sind. In Verhandlungen wäre ein vollständiger Überblick über die informationsbezogenen Finanzströme einer Einrichtung ideal, Non-Disclosure-Agreements stehen dem jedoch entgegen. Teilnehmende stellten fest, dass Non-Disclosure-Agreements vermieden werden können, wenn dies Teil des Mandats in Verhandlungen ist, wie ein Beispiel aus der Schweiz zeigt.</p>
+</section>
+<section id="offene-daten" class="level2">
+<h2 class="anchored" data-anchor-id="offene-daten">Offene Daten</h2>
+<p>Im Mittelpunkt der Diskussion an Station 3 stand die Nutzung offener Datenquellen für das Open-Access-Monitoring, insbesondere im Hinblick auf Publikationsaufkommen und -kosten. Die Teilnehmenden tauschten Erfahrungen, Herausforderungen und Perspektiven für die zukünftige Nutzung aus. Dabei zeigte sich, dass offene Daten bereits vielfältig eingesetzt werden, ihre Qualität und Verlässlichkeit jedoch stark variieren. Einige Teilnehmende berichteten, dass an ihren Einrichtungen offene Datenquellen genutzt werden – zum Beispiel OpenAlex für das Publikationsmonitoring. Die Erfahrungen zeigen, dass die Nutzung von OpenAlex einige Limitationen mit sich bringt. So variiert beispielsweise die Abdeckung der Disziplinen. OpenAlex erfasst außerdem eine Vielzahl an Publikationstypen, was zu einem „Overreporting“ führen kann. Eine weitere Herausforderung stellt die Datenqualität dar; etwa erschweren fehlende Affiliationsangaben eine effektive Nutzung. Teilnehmende betonten zudem, dass OpenAlex nur aktuelle Verlagslistenpreise abbildet, nicht jedoch die tatsächlich angefallenen Kosten. Der Dienst ist daher für das Kostenmonitoring nicht geeignet. Weitere genutzte offene Datenquellen sind unter anderem Unpaywall, Crossref, Sherpa/Romeo, DOAJ, Wikidata, DataCite und DBLP (insbesondere für die Informatik). Einige Einrichtungen ergänzen offene Daten durch Verlagsdashboards oder Verwaltungsdaten, um ein vollständigeres Bild zu erhalten. Über die Diskussion zum Thema Datenqualität hinaus wurde auch die Veränderlichkeit offener Datenquellen thematisiert: Angemerkt wurde, dass Aktualisierungen der Daten eine Herausforderung darstellen können. Betont wurde jedoch das Potenzial offener Daten. Sie, so die Teilnehmenden, können wesentlich zur Transparenz, Vergleichbarkeit und Effizienz in der Open-Access-Berichterstattung beitragen – vorausgesetzt, ihre Qualität, Pflege und Integration in institutionelle Infrastrukturen werden weiter verbessert. Damit offene Daten im Monitoring künftig eine tragende Rolle spielen können, nannten die Teilnehmenden mehrere Voraussetzungen: die Verbesserung der Datenqualität und Standardisierung, die Nachvollziehbarkeit von Änderungen und die Einführung einer Versionierung, die Verknüpfbarkeit mit institutionellen Datenquellen, transparente Governance-Strukturen für die Pflege und Weiterentwicklung der Daten sowie eine Community-basierte Qualitätssicherung und den Austausch zwischen Einrichtungen über Nutzungsperspektiven.</p>
+</section>
+<section id="fazit" class="level2">
+<h2 class="anchored" data-anchor-id="fazit">Fazit</h2>
+<p>Die Diskussionen an den drei Stationen verdeutlichten, dass die Komplexität von Open-Access-Modellen und Kostenstrukturen eine zentrale Herausforderung für das Monitoring darstellt. Zwar müssen organisatorische und technische Lösungen – wie die Etablierung geeigneter Workflows, die Zuweisung von Rollen oder die Anbindung von Schnittstellen – in jeder Einrichtung individuell umgesetzt werden. Zugleich wurde deutlich, dass alle Einrichtungen vor vergleichbaren Herausforderungen stehen, insbesondere im Bereich der Kostenerfassung. Daraus ergibt sich ein klarer Auftrag, gemeinsame Standards und Werkzeuge weiterzuentwickeln, die lokal angepasst werden können, aber dennoch einheitliche und vergleichbare Lösungen ermöglichen. Die Beiträge der Teilnehmenden zeigten auch, dass Zweck und Adressat*innen von Transparenzinitiativen definiert werden sollten, damit Maßnahmen zielgerichtet geplant werden können. Die Nutzung offener Datenquellen könnte durch Hilfestellungen zum Umgang mit Limitationen und zur Datenbereinigung gefördert werden. Für die drei Projekte OA Datenpraxis, openCost und Transform2Open wurden in dem sehr anregenden und informativen Workshop weitere Handlungsfelder für die weitere Arbeit identifiziert.</p>
+<p>Hinweis: Dieser Post wird parallel bei <a href="https://www.opencost.de">openCost</a> veröffentlicht.</p>
+<p>Weitere Informationen über die Forschungsgruppe Information Management an der Humboldt-Universität zu Berlin finden sich auf der <a href="http://hu.berlin/infomgnt">offiziellen Website</a> der Gruppe.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-pampel_praktiken_2025" class="csl-entry">
+Pampel, Heinz, Lisa-Marie Stein, Bernhard Mittermaier, Dorothea Strecker, Bianca Schweighofer, and Gernot Deinzer. 2025. <span>“Praktiken Und <span>Infrastrukturen</span> Des <span>Open</span>-<span>Access</span>-<span>Monitorings</span>.”</span> Konstanz. <a href="https://doi.org/10.5281/zenodo.17198826">https://doi.org/10.5281/zenodo.17198826</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+  author = {Pampel, Heinz and Stein, Lisa-Marie and Mittermaier,
+    Bernhard and Strecker, Dorothea and Schweighofer, Bianca and
+    Deinzer, Gernot},
+  title = {Praktiken Und {Infrastrukturen} Des
+    {Open-Access-Monitorings}},
+  date = {2025-10-27},
+  url = {https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monitoring/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
+Pampel, Heinz, Lisa-Marie Stein, Bernhard Mittermaier, Dorothea
+Strecker, Bianca Schweighofer, and Gernot Deinzer. 2025.
+<span>“Praktiken Und Infrastrukturen Des
+Open-Access-Monitorings.”</span> October 27, 2025. <a href="https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monitoring/">https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monitoring/</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/</guid>
+  <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/oat.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
 <item>
   <title>Scholarly Blogs as an Integral Part of the Open Access Landscape</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -1307,75 +1372,6 @@ Driver for Open Science?”</span> April 17, 2025. <a href="https://doi.org/10.5
   <guid>https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/</guid>
   <pubDate>Wed, 16 Apr 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/PSE_Blogpost_image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten</title>
-  <dc:creator>Jonas Höfting</dc:creator>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Karin Ilg</dc:creator>
-  <link>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Am 28.03.2025 veranstaltete das Projekt OA Datenpraxis <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span> das erste Webinar zum Thema ”Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland”. In dem Webinar wurden Ergebnisse einer Umfrage vorgestellt, die im Jahr 2024 durchgeführt wurde. Die Umfrage, die im Dialog mit Vertreter<em>innen von <a href="https://deal-konsortium.de/">DEAL</a> entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter</em>innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland. An der Veranstaltung nahmen erfreulicherweise über 200 Personen aus Wissenschaft, Verwaltung, Informationsinfrastruktur und Forschungsförderung teil.</p>
-<p>In diesem Beitrag werden kurz einige zentrale Punkte der Veranstaltung zusammengefasst: Ergebnisse der Umfrage, Fragen aus dem Kreis der Teilnehmenden, sowie einige Diskussionspunkte aus der abschließenden Paneldiskussion.</p>
-<section id="ergebnisse-der-umfrage" class="level2">
-<h2 class="anchored" data-anchor-id="ergebnisse-der-umfrage">Ergebnisse der Umfrage</h2>
-<p>Nach der Begrüßung und Einführung wurden zentrale Ergebnisse der Studie vorgestellt: Während die systematische Erfassung von Publikationen und Publikationskosten an wissenschaftlichen Einrichtungen durchaus verbreitet ist, haben viele Einrichtungen diese noch nicht fest etabliert und nutzen zudem das Potenzial dieser Daten noch nicht voll aus. Für die Finanzierung von Open-Access-Publikationen stellen Publikationsfonds eine tragende Säule dar. Die Etablierung von Informationsbudgets dagegen befindet sich noch in der Aufbauphase. Zur Förderung der Open-Access-Transformation sollte die Finanzierung weiter untersucht werden. Diese und weitere Ergebnisse können den Vortragsfolien <span class="citation" data-cites="strecker_oa_2025">(Strecker, Pampel, and Höfting 2025)</span> entnommen werden. Eine Publikation dazu ist in Vorbereitung.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
-</figure>
-</div>
-</section>
-<section id="fragen-der-teilnehmenden" class="level2">
-<h2 class="anchored" data-anchor-id="fragen-der-teilnehmenden">Fragen der Teilnehmenden</h2>
-<p>Im Anschluss an die Ergebnispräsentation hatten die Teilnehmer:innen des Webinars die Gelegenheit, Nachfragen zu stellen. Interesse weckten beispielsweise die für das Monitoring in den Einrichtungen genutzten Tools und die Verwendung der Daten für die strategische Planung. Kritisch diskutiert wurde die Belastbarkeit von bestehenden Datensammlungen zu Open Access. Mehrere Fragen adressierten die Notwendigkeit von Standardisierung in diesem Bereich.</p>
-</section>
-<section id="paneldiskussion-mit-mitgliedern-der-deal-gruppe" class="level2">
-<h2 class="anchored" data-anchor-id="paneldiskussion-mit-mitgliedern-der-deal-gruppe">Paneldiskussion mit Mitgliedern der DEAL-Gruppe</h2>
-<p>An der Paneldiskussion nahm seitens der DEAL-Gruppe Karin Ilg (Hochschule Bielefeld) teil (weitere Mitglieder der DEAL-Gruppe mussten ihre Teilnahme kurzfristig absagen) . und teilte ihre Perspektive auf die Ergebnisse. Sie hob positiv hervor, dass einige Einrichtungen trotz schwieriger Rahmenbedingungen – wie der teilweise dezentralen Erfassung durch mehrere Abteilungen in verschiedenen Systemen – bereits einen systematischen Überblick über ihre Publikationskosten erreicht haben. Gleichzeitig betonte sie, dass flächendeckende Monitoringaktivitäten noch fehlten. In dieser Phase der Open-Access-Transformation sei eine aktivere Rolle der Leitungsebenen sowie eine stärkere Vernetzung zwischen Einrichtungen erforderlich. Auf die Herausforderungen bei der Etablierung von Informationsbudgets angesprochen verwies sie auf erhebliche Hürden, stellte aber auch die strukturbildenden Effekte von Programmen wie <a href="https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/open-access-publikationskosten">Open-Access-Publikationskosten</a> der DFG und von DEAL heraus. Die communitybasierte Entwicklung einheitlicher Standards der Datenerfassung stelle einen dringenden Handlungsbedarf dar.</p>
-</section>
-<section id="weitere-informationen-zu-oa-datenpraxis" class="level2">
-<h2 class="anchored" data-anchor-id="weitere-informationen-zu-oa-datenpraxis">Weitere Informationen zu OA Datenpraxis</h2>
-<p><a href="https://www.oadatenpraxis.de">OA Datenpraxis</a> ist ein gemeinsames DFG-Projekt des <a href="https://www.ibi.hu-berlin.de">Instituts für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin</a>, des <a href="https://os.helmholtz.de">Helmholtz Open Science Office</a> und der <a href="https://www.sub.uni-goettingen.de">Niedersächsischen Staats- und Universitätsbibliothek Göttingen</a>.</p>
-<p>Weitere Informationen zu OA Datenpraxis finden Sie auf der <a href="https://oa-datenpraxis.de/events.html">Webseite</a> des Projektes. Weitere Informationen zu unserer Arbeit am Lehrstuhl Information Management finden Sie auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Webseite</a>.</p>
-<p>Dieser Text - mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen - ist lizenziert unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-pampel_datenpraxis_2024" class="csl-entry">
-Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/ZENODO.10794298">https://doi.org/10.5281/ZENODO.10794298</a>.
-</div>
-<div id="ref-strecker_oa_2025" class="csl-entry">
-Strecker, Dorothea, Heinz Pampel, and Jonas Höfting. 2025. <span>“<span>OA</span> <span>Datenpraxis</span> <span>Webinar</span>: <span>Erfassung</span> von <span>Publikationskosten</span> an Wissenschaftlichen <span>Einrichtungen</span> in <span>Deutschland</span>.”</span> <a href="https://doi.org/10.5281/zenodo.15076512">https://doi.org/10.5281/zenodo.15076512</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
-  author = {Höfting, Jonas and Strecker, Dorothea and Pampel, Heinz and
-    Ilg, Karin},
-  title = {Rückblick: {OA} {Datenpraxis} {Webinar} Zur {Erfassung} von
-    {Publikationskosten}},
-  date = {2025-04-14},
-  url = {https://doi.org/10.59350/c7d5j-rw005},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2025" class="csl-entry quarto-appendix-citeas">
-Höfting, Jonas, Dorothea Strecker, Heinz Pampel, and Karin Ilg. 2025.
-<span>“Rückblick: OA Datenpraxis Webinar Zur Erfassung von
-Publikationskosten.”</span> April 14, 2025. <a href="https://doi.org/10.59350/c7d5j-rw005">https://doi.org/10.59350/c7d5j-rw005</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/</guid>
-  <pubDate>Sun, 13 Apr 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

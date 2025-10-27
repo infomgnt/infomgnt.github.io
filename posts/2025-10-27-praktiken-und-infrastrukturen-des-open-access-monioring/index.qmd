@@ -1,0 +1,61 @@
+---
+title: "Praktiken und Infrastrukturen des Open-Access-Monitorings"
+author:
+- name: Heinz Pampel
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Lisa-Marie Stein
+  orcid: 0000-0001-7905-0462
+  affiliation: Deutsches Elektronen-Synchrotron DESY
+  affiliation-url: https://desy.de
+- name: Bernhard Mittermaier
+  orcid: 0000-0002-3412-6168
+  affiliation: Forschungszentrum Jülich
+  affiliation-url: https://www.fz-juelich.de/de
+- name: Dorothea Strecker
+  orcid: 0000-0002-9754-3807
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Bianca Schweighofer
+  orcid: 0000-0002-9416-9311
+  affiliation: Universität Regensburg
+  affiliation-url: https://www.uni-regensburg.de
+- name: Gernot Deinzer
+  orcid: 0000-0002-7462-3847
+  affiliation: Universität Regensburg
+  affiliation-url: https://www.uni-regensburg.de
+date: "2025-10-27"
+categories: [Research] 
+citation:
+  url: https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monitoring/
+image: oat.png
+draft: false
+bibliography: references.bib
+---
+
+Am 19. September 2025 führten die DFG-geförderten Projekte [OA Datenpraxis](https://oa-datenpraxis.de), [openCost](https://www.opencost.de/projekt/) und [Transform2Open](https://www.transform2open.de) gemeinsam den Workshop „Praktiken und Infrastrukturen des Open-Access-Monitorings“ auf den Open-Access-Tagen 2025 durch [@pampel_praktiken_2025]. Nach einer kurzen Vorstellung der beteiligten Projekte diskutierten mehr als 30 Teilnehmende aktuelle Fragestellungen des Open-Access-Monitorings im Format World Café. Dabei wurden die folgenden Handlungsfelder in den Blick genommen: (1) die Stärkung der Standardisierung im Bereich des Monitorings, (2) die Förderung von Transparenzinitiativen in diesem Bereich, (3) die Weiterentwicklung der Nachnutzungsmöglichkeiten offener Daten – auch im Kontext der Barcelona Declaration.
+
+![](oat.png)
+
+## Standardisierung
+
+An der Station „Standardisierung“ diskutierten die Teilnehmenden, welchen Herausforderungen sie im Hinblick auf die Vereinheitlichung von Prozessen in ihren Einrichtungen begegnen. Dabei zeigte sich, dass über klassische Publikationsformate hinaus auch weitere Objekte und Formen zunehmend relevant werden. Genannt wurden u. a. Konferenzbeiträge, die Publikationsgebühren in der Teilnahmegebühr enthalten, Einreichungsgebühren, Beiträge zu Diamond-Open-Access-Formaten sowie experimentelle Langform-Publikationen und Bücher im weiteren Sinne. Für letztere wurden zusätzliche Kostenaspekte wie Layout, Lektorat, Videoschnitt, Programmierung (z. B. für Publikationswebseiten), Archivierung oder Disseminationsgebühren hervorgehoben. Dies verdeutlicht, dass je nach Disziplin spezifische Erfahrungen und Bedarfe existieren, die für die Weiterentwicklung eines Metadatenstandards zur Erfassung von Publikationskosten berücksichtigt werden müssen. In Bezug auf die Kostendatenerfassung wurde deutlich, dass an vielen Einrichtungen noch erheblicher Unterstützungsbedarf besteht. Genannt wurden insbesondere die Herausforderung, Daten aus unterschiedlichen Quellen abzugleichen, die Weiterentwicklung bestehender Systeme oder Kostenmodule sowie Fragen des Rechtemanagements. Diskutiert wurde auch die Nutzung einrichtungsindividueller Tabellen und Formate, etwa im Kontext der Ablieferung an OpenAPC, sowie die Notwendigkeit, community-geleitet gemeinsame Standards für mehr Effizienz und Vergleichbarkeit zu entwickeln. Der Bedarf an Standardisierung wurde somit klar als Mittel zur individuellen Arbeitserleichterung und zur Bewältigung gemeinsamer Herausforderungen identifiziert. Dies unterstreicht zugleich die Relevanz, in der weiteren Projektphase von openCost verstärkt am internen Kostenmanagement wissenschaftlicher Einrichtungen zu arbeiten. Schließlich befasste sich die Diskussion mit der Frage, wie Publikationen zuverlässig als vertragsfinanziert identifiziert werden können. Hierbei wurde die Elektronische Zeitschriftenbibliothek (EZB) als möglicher Referenzpunkt für einrichtungsindividuelle Vertragsinformationen hervorgehoben. Diskutiert wurde, welche bestehenden Systeme bereits genutzt werden, welche Synergien möglich sind und wie sich Schnittstellen – etwa zu LAS:eR, FOLIO oder über API-Abgleiche – künftig bestmöglich gestalten lassen. Auch die Erwartungen an eine künftige Vertrags-Registry wurden thematisiert, insbesondere in Hinblick auf Funktionen, Zugriffsebenen und die Integration in bestehende Workflows.
+
+## Transparenz
+
+Die Station „Transparenz“ lud Teilnehmende dazu ein, über Maßnahmen zur Förderung von Kostentransparenz an ihren Einrichtungen zu sprechen. Teilnehmende betonten, dass es zunächst wichtig sei, den Adressatenkreis der Transparenzinitiative zu definieren: Für wen und zu welchem Zweck soll Transparenz geschaffen werden, und auf welcher Ebene? Daraus können Anforderungen an die Datengrundlage abgeleitet werden, etwa die Aggregationstiefe. In den Gesprächen stellte sich heraus, dass Transparenzbestrebungen an den Einrichtungen variieren. Ihr Erfolg ist häufig abhängig von der Ausgestaltung der Zusammenarbeit der beteiligten Einheiten, beispielsweise ob die datensammelnde Stelle Einsicht in das Finanzmanagementsystem erhält. Teilnehmende berichteten, dass Transparenz als Steuerungsmittel von Hochschulleitungen gewünscht ist. Die Erfahrung zeigt, dass ein Auftrag der Hochschulleitung Bibliotheken dabei hilft, dezentrale Kosten zu erfassen; er kann jedoch auch für Spannungen zwischen der Bibliothek und Fakultäten sorgen. Teilnehmende betonen, dass Transparenz nicht nur zur Kommunikation nach außen wichtig ist - Transparenz über die Aufteilung der Kosten innerhalb der Einrichtung ist ebenfalls wichtig. Mit Blick auf die Transparenz seitens der Verlage stellten die Teilnehmenden fest, dass sich einige Verlage bereits um Transparenz bemühen. Preise alleine seien jedoch schwer zu beurteilen, ohne auch die Produktionskosten zu kennen und einschätzen zu können, z.B. welche Ausgaben für Marketing angemessen sind. In Verhandlungen wäre ein vollständiger Überblick über die informationsbezogenen Finanzströme einer Einrichtung ideal, Non-Disclosure-Agreements stehen dem jedoch entgegen. Teilnehmende stellten fest, dass Non-Disclosure-Agreements vermieden werden können, wenn dies Teil des Mandats in Verhandlungen ist, wie ein Beispiel aus der Schweiz zeigt.
+
+## Offene Daten
+
+Im Mittelpunkt der Diskussion an Station 3 stand die Nutzung offener Datenquellen für das Open-Access-Monitoring, insbesondere im Hinblick auf Publikationsaufkommen und -kosten. Die Teilnehmenden tauschten Erfahrungen, Herausforderungen und Perspektiven für die zukünftige Nutzung aus. Dabei zeigte sich, dass offene Daten bereits vielfältig eingesetzt werden, ihre Qualität und Verlässlichkeit jedoch stark variieren. Einige Teilnehmende berichteten, dass an ihren Einrichtungen offene Datenquellen genutzt werden – zum Beispiel OpenAlex für das Publikationsmonitoring. Die Erfahrungen zeigen, dass die Nutzung von OpenAlex einige Limitationen mit sich bringt. So variiert beispielsweise die Abdeckung der Disziplinen. OpenAlex erfasst außerdem eine Vielzahl an Publikationstypen, was zu einem „Overreporting“ führen kann. Eine weitere Herausforderung stellt die Datenqualität dar; etwa erschweren fehlende Affiliationsangaben eine effektive Nutzung. Teilnehmende betonten zudem, dass OpenAlex nur aktuelle Verlagslistenpreise abbildet, nicht jedoch die tatsächlich angefallenen Kosten. Der Dienst ist daher für das Kostenmonitoring nicht geeignet. Weitere genutzte offene Datenquellen sind unter anderem Unpaywall, Crossref, Sherpa/Romeo, DOAJ, Wikidata, DataCite und DBLP (insbesondere für die Informatik). Einige Einrichtungen ergänzen offene Daten durch Verlagsdashboards oder Verwaltungsdaten, um ein vollständigeres Bild zu erhalten. Über die Diskussion zum Thema Datenqualität hinaus wurde auch die Veränderlichkeit offener Datenquellen thematisiert: Angemerkt wurde, dass Aktualisierungen der Daten eine Herausforderung darstellen können. Betont wurde jedoch das Potenzial offener Daten. Sie, so die Teilnehmenden, können wesentlich zur Transparenz, Vergleichbarkeit und Effizienz in der Open-Access-Berichterstattung beitragen – vorausgesetzt, ihre Qualität, Pflege und Integration in institutionelle Infrastrukturen werden weiter verbessert. Damit offene Daten im Monitoring künftig eine tragende Rolle spielen können, nannten die Teilnehmenden mehrere Voraussetzungen: die Verbesserung der Datenqualität und Standardisierung, die Nachvollziehbarkeit von Änderungen und die Einführung einer Versionierung, die Verknüpfbarkeit mit institutionellen Datenquellen, transparente Governance-Strukturen für die Pflege und Weiterentwicklung der Daten sowie eine Community-basierte Qualitätssicherung und den Austausch zwischen Einrichtungen über Nutzungsperspektiven.
+
+## Fazit
+
+Die Diskussionen an den drei Stationen verdeutlichten, dass die Komplexität von Open-Access-Modellen und Kostenstrukturen eine zentrale Herausforderung für das Monitoring darstellt. Zwar müssen organisatorische und technische Lösungen – wie die Etablierung geeigneter Workflows, die Zuweisung von Rollen oder die Anbindung von Schnittstellen – in jeder Einrichtung individuell umgesetzt werden. Zugleich wurde deutlich, dass alle Einrichtungen vor vergleichbaren Herausforderungen stehen, insbesondere im Bereich der Kostenerfassung. Daraus ergibt sich ein klarer Auftrag, gemeinsame Standards und Werkzeuge weiterzuentwickeln, die lokal angepasst werden können, aber dennoch einheitliche und vergleichbare Lösungen ermöglichen. Die Beiträge der Teilnehmenden zeigten auch, dass Zweck und Adressat\*innen von Transparenzinitiativen definiert werden sollten, damit Maßnahmen zielgerichtet geplant werden können. Die Nutzung offener Datenquellen könnte durch Hilfestellungen zum Umgang mit Limitationen und zur Datenbereinigung gefördert werden. Für die drei Projekte OA Datenpraxis, openCost und Transform2Open wurden in dem sehr anregenden und informativen Workshop weitere Handlungsfelder für die weitere Arbeit identifiziert.
+
+Hinweis: Dieser Post wird parallel bei [openCost](https://www.opencost.de) veröffentlicht.
+
+Weitere Informationen über die Forschungsgruppe Information Management an der Humboldt-Universität zu Berlin finden sich auf der [offiziellen Website](http://hu.berlin/infomgnt) der Gruppe.
+
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
