@@ -28,7 +28,7 @@ author:
 date: "2025-10-27"
 categories: [Research] 
 citation:
-  url: https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monitoring/
+  url: https://doi.org/10.59350/g6jdg-ejp06
 image: oat.png
 draft: false
 bibliography: references.bib
