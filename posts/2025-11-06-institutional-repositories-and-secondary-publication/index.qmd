@@ -19,7 +19,7 @@ author:
 date: "2025-11-06"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-seconndary-publication/
+  url: https://doi.org/10.59350/k8v8h-evr11 
 image: Blogpost_Zweitveröffentlichung_Handreichung.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: Zweitveröffentlichung_Handreichung_Blogpost.bib
