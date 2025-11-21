@@ -1,0 +1,46 @@
+---
+title: "Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures"
+author:
+- name: Laura Rothfritz
+  orcid: 0000-0001-7525-0635
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: http://hu.berlin/infomgnt
+- name: Dorothea Strecker
+  orcid: 0000-0002-9754-3807
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: http://hu.berlin/infomgnt
+date: "2025-11-19"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-times-of-crisis/
+image: 2025_Leiden.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: references.bib
+---
+
+On November 6 2025, we participated in the Workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures” at the CWTS in Leiden.
+
+The workshop made reference to the UNESCO Recommendation on Open Science [@unesco2021], which presented an extensive and inclusive vision for Open Science when they were published in 2021. In the geopolitical climate of 2025, the values in the UNESCO Recommendation on Open Science are threatened. Throughout the day, 20-30 participants discussed influences of geopolitics on Open Science, areas that require (more) awareness, and strategies to make Open Science more resilient.
+
+In her keynote, [Lynda Kellam](https://www.library.upenn.edu/staff/lynda-kellam) from the University of Pennsylvania Libraries introduced the [Data Rescue Project](https://www.datarescueproject.org). Following the keynote, invited speakers offered their thoughts on the resilience of Open Science practices and infrastructures. [Hugh Shanahan](https://pure.royalholloway.ac.uk/en/persons/hugh-shanahan/) from Royal Holloway, University of London talked about factors that can put preprint servers at risk: the strong involvement of US institutions and a reliance on commercial internet service providers. [Molly Hardy](https://www.molly-hardy.com) from the Library Innovation Lab at Harvard Law School introduced the [Public Data Project](https://lil.law.harvard.edu/our-work/public-data-project/), which applies curation practices to data rescue initiatives. [Laura Rothfritz](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement) from our research group at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin presented results from her PhD thesis on the Data Rescue movement in 2017 and 2018 - read more about her contribution below. [Joseph Gum](https://geotraces-gp15.com/joseph-gum/) discussed potential business models of open data infrastructures and risks associated with them. He also presented the [Repository Crisis Scorecard](https://doi.org/10.5281/zenodo.15208172), a tool that can be used to assess the resilience of a repository during a crisis. [Jeroen Bosman](https://www.uu.nl/staff/JMBosman) from Utrecht University offered a categorization of threats to Open Science as well as strategies to increase resilience. His slides are published [here](https://doi.org/10.5281/zenodo.17558233).
+
+## Laura Rothfritz - Rescuing data, resisting loss
+
+In her lightning talk, Laura shared results from her PhD research [@rothfritzWhatHappensWhen2025] which focuses on the first Data Rescue movement in 2017/2018 and asked when actions that feel resilient actually build resilience. Drawing on interview material she has collected for her thesis, she framed earlier data rescue efforts as “emergency curation”, which she defines as a form of first aid data duplication. This practice offered relief from fears around supposed data deletion but often produced redundancies of datasets without their contextual information, leading to unsustainable data practices. In her research, and in this talk, she is making a point to stress the importance of the affective consequences this sort of data activism might have, defined as such by my interviewees. These consequences range from feeling empowered and regaining agency in (politically) taxing times, to overwhelm and burnout.
+
+In her research, Laura proposes the concept of anticipatory maintenance, defined as a preventive, future-oriented form of (infrastructural) care that turns imagined disruption into present routines aimed at sustaining continuity under uncertainty. She argues that in large parts this is what both iterations of the Data Rescue movement, in 2017/2018 and 2024/2025 respectively, might be seen as. In line with Jackson [-@jacksonRethinkingRepair2014a] and Rubio [-@rubioIntroductionAvowingFragility2025c], she draws on broken-world thinking, which can be defined as a mindset of thinking with fragility and treating it as a normal, relational condition we live with. If fragility is seen as ordinary, then resilience is not a set goal but should be understood as a practice that must continually be negotiated. This is where future-oriented anticipatory maintenance might help with feeling resilient and simultaneously building resilience.
+
+The slides from Laura's presentation are available on Zendodo at:
+
+Rothfritz, L. (2025, November 6). Rescuing Data, Resisting Loss - Emergency Curation, Anticipatory Maintenance And The Limits Of Feeling Resilient. Resilience in times of crisis: Strengthening Open Science against geopolitical pressures, Leiden, Netherlands. <https://doi.org/10.5281/zenodo.17570709>
+
+![Laura Rothfritz presenting at the workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures”](2025_Leiden.png)
+
+Further information about our research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: |
+  @*
+---
