@@ -12,7 +12,7 @@ author:
 date: "2025-11-19"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-times-of-crisis/
+  url: https://doi.org/10.59350/js8da-36a98 
 image: 2025_Leiden.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: references.bib
