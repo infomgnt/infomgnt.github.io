@@ -1,0 +1,73 @@
+---
+title: "New Guide on Publication and Cost Monitoring through Institutional Repositories"
+author:
+- name: Lisa Matthias
+  url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+  orcid: 0000-0002-2612-2132
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+- name: Heinz Pampel
+  url: https://heinzpampel.de/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: https://hu-berlin.de/infomgnt
+- name: Christopher Onzie Khamis
+  url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+  orcid: 0009-0003-0654-2839
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+date: "2025-11-26"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/ 
+image: Blogpost_Monitoring_Handreichung.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: Monitoring_Handreichung_Blogpost.bib
+---
+
+We are pleased to announce the publication of our fourth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access Repositorien” (available in German only).
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). Publikations- und Kostenmonitoring: Handlungsfeld für institutionelle Open-Access Repositorien. Pro OAR DE Handreichung. Zenodo. <https://doi.org/10.5281/zenodo.17357984>
+
+![](Blogpost_Monitoring_Handreichung.jpg)
+
+This guide documents the outcomes of our networking forum “[Publikations- und Kostenmonitoring mit institutionellen Repositorien](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/prooarde-monitoring),” held on March 10, 2025, with 100 Open Access professionals from across Germany. Drawing on their collaborative work, the guide offers concrete, practice-based recommendations for advancing publication and cost monitoring through institutional repositories. Experts Dirk Pieper and Julia Bartlewski (Universität Bielefeld), as well as Colin Sippl and Gernot Deinzer (Universität Regensburg), presented concrete action options for publication and cost monitoring. Building on these presentations, participants worked together in a "world café" setting to share institutional experiences and develop practical approaches to common challenges. Presentation slides are available [online](https://doi.org/10.5281/zenodo.15056242). The guide synthesizes these collective insights into practical recommendations organized around five critical areas for institutional repository management:
+
+### Definitions of Publication and Cost Data
+
+Publication data encompasses all information about published scientific works, including authors, titles, abstracts, and persistent identifiers (PIDs) such as DOIs. Cost data refers to the financial aspects of publication, such as publication fees, processing fees, and value-added tax. The diversity of categories, lack of glossaries, currency, completeness, and inconsistencies between disciplines were identified as central challenges. Clear definitions and collection of these data are essential for effective monitoring. Different departments within an institution, such as libraries, finance departments, and university management, have varying requirements for this information. Close collaboration and regular communication are therefore crucial to establish efficient and transparent workflows.
+
+### Integration of External Data Sources
+
+The integration of various data sources into repositories poses significant technical challenges. A fundamental issue is avoiding duplicates, which regularly occur during data aggregation from multiple sources. Services like OpenAIRE can help aggregate data and remove duplicates, though the completeness and effectiveness of these functions remain under continuous development. Another challenge involves integrating proprietary research information systems (CRIS). The lack of standardization and limited interoperability of these systems significantly complicate automated data exchange. Many steps still need to be performed manually, limiting both scalability and data quality. In addition to establishing standard interfaces, participants recommended the data service [DeepGreen](https://info.oa-deepgreen.de/en/) for Open Access and secondary publications, noting that data verification workflows remain necessary.
+
+### Partners for Cooperation within the Institution and Beyond
+
+Successful collaboration requires clear role descriptions and appropriate involvement of various stakeholders within the institution, such as faculties, libraries, IT departments, financial controlling, and other administrative units. Cross-institutional cooperation, including state initiatives, information infrastructure networks, and standardization projects, is equally important. Regular exchange with all stakeholders helps ensure that strategic considerations are coordinated and consistently developed. To this end, participants recommended the strategic selection of cost monitoring tools based on established standards and consistent alignment with best practices from other institutions.
+
+### Standards for Monitoring
+
+Establishing uniform standards for recording and evaluating publication and cost data is essential. A controlled vocabulary for different data categories, such as cost and publication types, can improve the comparability of monitoring results. Projects like COAR and openCost offer promising approaches for developing such standards. Another complex area is the representation of costs for individual publications versus contract costs. Linking individual publications to overarching contracts poses an additional hurdle, particularly in transformative agreements where publication costs cannot be directly assigned to individual articles. To address the challenges posed by currently missing standards, participants recommended several practical solutions: systematic metadata comparisons between different sources, clear documentation of cost types, and the identification of net and gross amounts.
+
+### Workflows within the Institution and the Role of the Repository
+
+Integrating publication and cost monitoring into existing institutional processes requires close cooperation between different stakeholders and departments. The use of different systems for various aspects of publication and cost monitoring, combined with heterogeneous cost data, pose central challenges. Participants recommended integrating all relevant functions into a single system, as this would make the processes significantly more efficient. The traditionally separate areas of cataloging, repository operation, and cost recording are gradually converging but remain far from full integration. Close cooperation between these areas for comprehensive cost and research reporting is seen as essential.
+
+### Additional Challenges
+
+Beyond the challenges already mentioned, several additional issues can arise when implementing publication and cost monitoring systems. Communication with various stakeholders is often complex and can lead to uncertainties regarding fundamental questions, such as eligible publication costs and the role of the corresponding author. The continuous training of researchers and other involved parties also presents a challenge. Information events and training sessions are time-consuming to prepare and must be offered regularly. The high resource requirements for the comprehensive recording of all publications and their associated costs were also identified as challenges. The transition of cost management from Excel-based solutions to repositories or bibliographic systems poses a technical hurdle. Recommended solutions include direct presentations in scientific working groups, information offerings at events for early career researchers, and positioning as a central point of contact for publication-related matters.
+
+------------------------------------------------------------------------
+
+This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for establishing effective publication and cost monitoring workflows within their institutions.
+
+We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.
+
+For more information about Pro OAR DE and our upcoming activities, please visit our [website](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de).
+
+This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.
+
+---
+nocite: |
+  @*
+---
