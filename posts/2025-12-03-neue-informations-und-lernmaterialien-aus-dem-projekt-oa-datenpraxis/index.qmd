@@ -12,7 +12,7 @@ author:
 date: "2025-12-03"
 categories: [Research]
 citation:
-  url: https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/
+  url: https://doi.org/10.59350/z46ht-zm446 
 image: liber_guide.png
 draft: false
 bibliography: references.bib
