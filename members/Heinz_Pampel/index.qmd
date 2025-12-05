@@ -1,10 +1,11 @@
 ---
 title: "Heinz Pampel" 
 url: https://infomgnt.org/members/heinz-pampel
+description: Heinz Pampel has been a professor for Information Management at the Berlin School of Library and Information Science since the end of 2022 as part of an ECDF-endowed professorship...
 image: Heinz_Pampel_Profile.webp
 ---
 
-![](Heinz_Pampel_Profile.webp){fig-align="center"}
+![](Heinz_Pampel_Profile.webp){fig-align="left"}
 
 ![](orcid_icon.png) <https://orcid.org/0000-0003-3334-2771>
 

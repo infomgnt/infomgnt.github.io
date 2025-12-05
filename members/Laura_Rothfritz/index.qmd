@@ -1,0 +1,16 @@
+---
+title: "Laura Rothfritz" 
+url: https://infomgnt.org/members/laura-rothfritz
+description: Laura Rothfritz is a research associate and PhD candidate at the department of Information Management...
+image: Laura_Rothfritz_Profile.jpeg
+---
+
+![](Laura_Rothfritz_Profile.jpeg){fig-align="left"}
+
+![](orcid_icon.png) <https://orcid.org/0000-0001-7525-0635>
+
+Laura Rothfritz is a research associate and PhD candidate at the department of Information Management. She studied at the University of Applied Sciences Potsdam and earned her BA in Library Management. In 2019 she completed her MA in Information Sciences, funded by the EU, DFG, and BMBF. Since 2023, she has been a member of the Board of Directors of the Einstein Center Digital Future (ECDF).
+
+Her main research interests are in the area of research data management, infrastructure studies and open science with a special focus on socio-technological perspectives on the relationship between data infrastructures and societies and a strong relation to STS (Science and Technology Studies). The topic of her dissertation is distrust and mistrust in data infrastructures. 
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/rothfritz/dienstangaben) \@hu-berlin.de

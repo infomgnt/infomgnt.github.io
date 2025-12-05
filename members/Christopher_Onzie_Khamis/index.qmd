@@ -1,0 +1,14 @@
+---
+title: "Christopher Onzie Khamis" 
+url: https://infomgnt.org/members/christopher-onzie-khamis
+description: Christopher Onzie Khamis is a student assistant at the Department of Information Management...
+image: Christopher_Onzie_Khamis_Profile.jpeg
+---
+
+![](Christopher_Onzie_Khamis_Profile.jpeg){fig-align="left"}
+
+![](orcid_icon.png) <https://orcid.org/0009-0003-0654-2839>
+
+Christopher Onzie Khamis is a student assistant at the Department of Information Management. He has been studying Library and Information Science in combination with Area Studies since 2022. Prior to that, he completed a B.A. Philosophy with the additional subjects cultural sciences and history at the University of Leipzig. 
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/khamis/dienstangaben) \@hu-berlin.de

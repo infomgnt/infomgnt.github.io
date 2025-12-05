@@ -1,0 +1,14 @@
+---
+title: "Jonas Höfting" 
+url: https://infomgnt.org/members/jonas-höfting
+description: Jonas Höfting has been working as a student assistant at the Chair of Information Management in the project 'Data practices for shaping the Open Access transformation - Analysis, recommendations, training & networking' project since June 2024...
+image: Jonas_Höfting_Profile.jpeg
+---
+
+![](Jonas_Höfting_Profile.jpeg){fig-align="left"}
+
+![](orcid_icon.png) <https://orcid.org/0009-0003-4466-1775>
+
+Jonas Höfting has been working as a student assistant at the Chair of Information Management in the project '[Data practices for shaping the Open Access transformation - Analysis, recommendations, training & networking](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/oa-datenpraxis)' project since June 2024. Previously, he worked as a student assistant in the projects ‘[Functions and consequences of unemployment in the careers of researchers](https://fufaf.hypotheses.org/#projekt-en)’ and ‘[Effects of pandemic-related disruptions on academic careers](https://epac.hypotheses.org/#projekt-en)’ at the Department of Social Science Research in Science and Technology at TU Berlin. After completing his B.A. in ‘Culture and Technology’ with the core subject History of Science and Technology at TU Berlin, he is currently studying for a M.A. in ‘Information Science’ at HU Berlin. 
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/hoefting) \@hu-berlin.de

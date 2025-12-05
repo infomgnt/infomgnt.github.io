@@ -1,0 +1,17 @@
+---
+title: "Dorothea Strecker" 
+url: https://infomgnt.org/members/dorothea-strecker
+description: Dorothea Strecker is a research associate in the project 'Data practices for shaping the Open Access transformation - Analysis, recommendations, training & networking' (OA Datenpraxis)...
+image: Dorothea_Strecker_Profile.png
+---
+
+![](Dorothea_Strecker_Profile.png){fig-align="left"}
+
+![](orcid_icon.png) <https://orcid.org/0000-0002-9754-3807>
+
+Dorothea Strecker is a research associate in the project 'Data practices for shaping the Open Access transformation - Analysis, recommendations, training & networking' ([OA Datenpraxis](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/oa-datenpraxis)).\
+Following a Bachelor's degree in Library Management at FH Potsdam, she completed the Master's programme in Information Science at Humboldt-Universität zu Berlin in 2021.\
+She is an [Open Science Ambassador for the Berlin University Alliance](https://www.berlin-university-alliance.de/en/commitments/research-quality/open-science/os-botschafter-innen/index.html), a member of the [re3data Working Group](https://www.re3data.org/workinggroup), the [DataCite Metadata Working Group](https://datacite.org/community-groups/metadata-working-group/) and the [ScholCommLab](https://www.scholcommlab.ca/).\
+Her main research interests are Open Science practices, in particular information infrastructures and metadata for research data. 
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/strecker) \@hu-berlin.de
