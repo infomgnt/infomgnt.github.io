@@ -24,7 +24,9 @@ Das Projektteam hat nun Informations- und Lernmaterialien zu Monitoringaktivitä
 
 Zu den neuen Materialien zählen interaktive R-Notebooks, die als Selbstlernmaterialien auf der Projektwebseite veröffentlicht sind. Die Notebooks zeigen, wie offene Datenquellen für die Analyse von Publikationsaufkommen und -kosten genutzt werden können und stellen interaktive Übungen bereit, um einzelne Analyseschritte selbstständig auszuprobieren. Vorkenntnisse oder eine Installation von Software sind nicht erforderlich. Die Notebooks wurden vor Veröffentlichung durch Personen mit unterschiedlichen Vorkenntnissen getestet. Sie finden sich unter:
 
-Open Access Monitoring with OpenAlex: <https://oa-datenpraxis.de/OpenAlex.html> Open Access Cost Monitoring with OpenAPC: <https://oa-datenpraxis.de/OpenAPC.html>
+Open Access Monitoring with OpenAlex: <https://oa-datenpraxis.de/OpenAlex.html>
+
+Open Access Cost Monitoring with OpenAPC: <https://oa-datenpraxis.de/OpenAPC.html>
 
 Weiterhin wurde im Projekt eine Einführung in das Thema Open-Access-Monitoring und Open Research Information für Menschen in Bibliotheken erstellt. Diese Einführung wurde als Teil der “LIBER Digital Scholarship & Data Science Topic Guides for Library Professionals” veröffentlicht [@strecker_open_2025].
 
