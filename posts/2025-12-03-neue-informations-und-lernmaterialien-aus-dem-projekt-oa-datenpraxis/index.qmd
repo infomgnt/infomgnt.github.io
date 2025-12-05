@@ -38,7 +38,7 @@ Beide Materialien, die Notebooks und der Digital Scholarship & Data Science Topi
 
 Rückfragen können Sie gerne jederzeit an das Projektteam von OA Datenpraxis richten: info.oa-datenpraxis\@listserv.dfn.de
 
-Weitere Informationen über die Forschungsgruppe Information Managementan der Humboldt-Universität zu Berlin, einem der Partner im Projekt, finden sich auf der [offiziellen Website der Gruppe](http://hu.berlin/infomgnt). Informationen zum Arbeitsbereich Scholarly Communication Analytics an der SUB Göttingen finden sich u. a. auf <https://subugoe.github.io>.
+Weitere Informationen über die Forschungsgruppe Information Managementan der Humboldt-Universität zu Berlin, einem der Partner im Projekt, finden sich auf der [offiziellen Website der Gruppe](http://hu.berlin/infomgnt). Informationen zum Arbeitsbereich Scholarly Communication Analytics an der SUB Göttingen finden sich u. a. auf <https://subugoe.github.io/scholcomm_analytics/>.
 
 Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Abschnitten – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
 
