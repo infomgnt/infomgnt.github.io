@@ -1,0 +1,19 @@
+---
+title: "Heinz Pampel" 
+url: https://infomgnt.org/members/heinz-pampel
+image: Heinz_Pampel_Profile.webp
+---
+
+![](Heinz_Pampel_Profile.webp){fig-align="center"}
+
+![](orcid_icon.png) <https://orcid.org/0000-0003-3334-2771>
+
+Heinz Pampel has been a professor for [Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) at the Berlin School of Library and Information Science since the end of 2022 as part of an ECDF-endowed professorship. Previously, he was deputy head of the Helmholtz Open Science Office of the Helmholtz Association. There he managed various projects on Open Science. He currently continues his work for Helmholtz as a Scientific Consultant.
+
+He studied library and media management in Stuttgart and received his doctorate in 2021 on the topic of Open Access at the Humboldt-Universität zu Berlin. His [research interests](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) include information infrastructures for Open Science, research data management, as well as Open Access, and developments in digital scholarly communication.
+
+He is active in various committees and initiatives related to the further development of information infrastructure.
+
+Personal Website: [heinzpampel.de](https://heinzpampel.de/).
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/pampel) \@hu-berlin.de
