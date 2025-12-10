@@ -2,14 +2,17 @@
 title: "OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland"
 author: 
   - name: Dorothea Strecker
+    url: https://infomgnt.org/members/Dorothea_Strecker/
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Jonas Höfting
+    url: https://infomgnt.org/members/Jonas_H%C3%B6fting/
     orcid: 0009-0003-4466-1775
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement    
@@ -26,7 +29,7 @@ Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung vo
 
 In dem Webinar werden Ergebnisse einer Umfrage [@pampel_datenpraxis_2024] vorgestellt, die im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts OA Datenpraxis [@strecker_survey_2024] im Jahr 2024 durchgeführt wurde.
 
-Die Umfrage, die im Dialog mit Vertreter:innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter*innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.
+Die Umfrage, die im Dialog mit Vertreter:innen der DEAL-Untergruppe “Kommunikation” entwickelt wurde, erhob, wie Daten zu Publikationskosten aktuell an wissenschaftlichen Einrichtungen in Deutschland erfasst werden. Adressiert wurden Vertreter\*innen von Universitäten, Fachhochschulen, Instituten außeruniversitärer Forschungseinrichtungen sowie Ressortforschungseinrichtungen des Bundes. Von 583 eingeladenen Personen beteiligten sich 258 (44,3 %) an der Umfrage. Die Umfrage ist die erste umfassende Erhebung zur Erfassung von Publikationskosten in Deutschland.
 
 Dieses Webinar richtet sich an Professionals, die sich für Open-Access-Monitoring, insbesondere die Erfassung von Open-Access-Publikationskosten, interessieren.
 

@@ -2,7 +2,7 @@
 title: "Open Access Dashboard Collection Launched"
 author: 
   - name: Heinz Pampel
-    url: https://heinzpampel.de 
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
     affiliation-url: https://hu-berlin.de/infomgnt

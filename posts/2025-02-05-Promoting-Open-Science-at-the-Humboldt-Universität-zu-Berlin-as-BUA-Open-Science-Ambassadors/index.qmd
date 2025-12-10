@@ -2,10 +2,12 @@
 title: "Promoting Open Science at the Humboldt-Universität zu Berlin as BUA Open Science Ambassadors"
 author: 
   - name: Catharina Ochsner
+    url: https://infomgnt.org/members/Catharina_Ochsner/
     orcid: 0009-0005-3885-3951
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: http://hu-berlin.de/infomgnt  
   - name: Dorothea Strecker
+    url: https://infomgnt.org/members/Dorothea_Strecker/
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
     affiliation-url: http://hu-berlin.de/infomgnt   

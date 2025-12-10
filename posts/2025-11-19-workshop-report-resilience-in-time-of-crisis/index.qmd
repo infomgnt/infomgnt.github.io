@@ -2,10 +2,12 @@
 title: "Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures"
 author:
 - name: Laura Rothfritz
+  url: https://infomgnt.org/members/Laura_Rothfritz/
   orcid: 0000-0001-7525-0635
   affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
   affiliation-url: http://hu.berlin/infomgnt
 - name: Dorothea Strecker
+  url: https://infomgnt.org/members/Dorothea_Strecker/
   orcid: 0000-0002-9754-3807
   affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
   affiliation-url: http://hu.berlin/infomgnt

@@ -2,6 +2,7 @@
 title: "Critical Data Discourses: A Lecture Series on the Ethics of Research Data "
 author:
   - name: Laura Rothfritz
+    url: https://infomgnt.org/members/Laura_Rothfritz/
     orcid: 0000-0001-7525-0635
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
     affiliation-url: http://hu-berlin.de/infomgnt

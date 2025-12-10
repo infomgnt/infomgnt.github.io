@@ -2,14 +2,17 @@
 title: "The Information Management Research Group at the BID Kongress 2025"
 author: 
   - name: Catharina Ochsner
+    url: https://infomgnt.org/members/Catharina_Ochsner/
     orcid: 0009-0005-3885-3951
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Dorothea Strecker
+    url: https://infomgnt.org/members/Dorothea_Strecker/
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement  
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement

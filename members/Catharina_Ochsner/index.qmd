@@ -2,6 +2,11 @@
 title: "Catharina Ochsner" 
 url: https://infomgnt.org/members/catharina-ochsner
 description: Catharina Ochsner is a research associate in the project “Infra Wiss Blogs - Cooperative Information Infrastructure for Scholarly Blogs”...
+listing:
+  contents: ../../../posts/
+  type: grid
+  include:
+    author: "Catharina Ochsner"
 image: Catharina_Ochsner_Profile.jpeg
 ---
 
@@ -12,3 +17,7 @@ image: Catharina_Ochsner_Profile.jpeg
 Catharina Ochsner is a research associate in the project “[Infra Wiss Blogs - Cooperative Information Infrastructure for Scholarly Blogs](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/infra-wiss-blogs)”. Prior to this, she completed her Bachelor's degree in Information Management at the University of Applied Sciences and Arts in Hanover in 2021 and her Master's degree in Information Science at the Humboldt-Universität zu Berlin in 2024. Before working as a research associate, she worked as a student assistant at the chair of [Information Science](https://www.ibi.hu-berlin.de/de/forschung/infoscience) at the Institute of Library and Information Science at Humboldt University of Berlin. For her dissertation she researches scholarly blogs and their integration into digital research and information infrastructures. She is a member of the [ScholCommLab](https://www.scholcommlab.ca/) and an Open Science ambassador for the [Berlin University Alliance](https://www.berlin-university-alliance.de/).
 
 [Profile](https://www.ibi.hu-berlin.de/de/institut/personen/ochsner) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Catharina Ochsner's Blogposts:

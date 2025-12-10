@@ -1,12 +1,13 @@
 ---
 title: "Workshop 'The state and prospects of open access reporting' at Open-Access-Tage"
 author: 
-  - name: Dorothea Strecker 
+  - name: Dorothea Strecker
+    url: https://infomgnt.org/members/Dorothea_Strecker/
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: http://hu-berlin.de/infomgnt  
   - name: Heinz Pampel
-    url:  https://heinzpampel.de  
+    url:  https://infomgnt.org/members/Heinz_Pampel/ 
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office 
     affiliation-url: http://hu-berlin.de/infomgnt   

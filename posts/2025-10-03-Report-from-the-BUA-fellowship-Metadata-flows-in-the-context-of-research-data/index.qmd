@@ -2,6 +2,7 @@
 title: "Report from the BUA fellowship: Metadata flows in the context of research data"
 author:
 - name: Dorothea Strecker
+  url: https://infomgnt.org/members/Dorothea_Strecker/
   orcid: 0000-0002-9754-3807
   affiliation: Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement 

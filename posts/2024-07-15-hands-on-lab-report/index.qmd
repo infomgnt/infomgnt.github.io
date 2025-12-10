@@ -8,7 +8,7 @@ author:
     orcid: 0000-0001-8337-3619
     affiliation: Hamburg State and University Library
   - name: Heinz Pampel
-    url: https://heinzpampel.de
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt

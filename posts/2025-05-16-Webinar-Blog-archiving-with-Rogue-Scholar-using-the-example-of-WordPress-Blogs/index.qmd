@@ -2,10 +2,12 @@
 title: "Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs"
 author:
   - name: Catharina Ochsner
+    url: https://infomgnt.org/members/Catharina_Ochsner/
     orcid: 0009-0005-3885-3951
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement  
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz-Gesellschaft, Helmholtz Open Science Office
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
@@ -31,14 +33,14 @@ The webinar is aimed at scholars, bloggers, experts from information infrastruct
 
 We are currently planning with the following program:
 
-| Uhrzeit | Thema                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------|---------------------------------------------------|
-| 10:00   | Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner)                                                                                                                                                                                                                                                                      |
-| 10:10   | Introduction to Rogue Scholar (Martin Fenner, Front Matter)                                                                                                                                                                                                                                                                                            |
-| 10:30   | User perspective I: [Gemeinsamer Blog der AGs Forschungsinformationen & -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.](https://blog.dini.de/EPub_FIS/ueber-uns/) (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen) |
-| 10:45   | User perspective II: [CSTonline, community blog of the journal *Critical Studies in Television*](https://cstonline.net/) (Tobias Steiner, COPIM)                                                                                                                                                                                                       |
-| 11:00   | Discussion                                                                                                                                                                                                                                                                                                                                             |
-| 11:30   | End of webinar                                                                                                                                                                                                                                                                                                                                         |
+| Uhrzeit | Thema |
+|----|----|
+| 10:00 | Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner) |
+| 10:10 | Introduction to Rogue Scholar (Martin Fenner, Front Matter) |
+| 10:30 | User perspective I: [Gemeinsamer Blog der AGs Forschungsinformationen & -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.](https://blog.dini.de/EPub_FIS/ueber-uns/) (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen) |
+| 10:45 | User perspective II: [CSTonline, community blog of the journal *Critical Studies in Television*](https://cstonline.net/) (Tobias Steiner, COPIM) |
+| 11:00 | Discussion |
+| 11:30 | End of webinar |
 
 Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the [project blog](https://infrawissblogs.org/) as well as the project’s [mailing list](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs). If you have any questions, please contact [Catharina Ochsner](mailto:catharina.ochsner@hu-berlin.de).
 

@@ -1,0 +1,76 @@
+---
+title: "Integrating Open Access Repositories into the Broader Open Science Landscape: OpenAlex and COAR"
+author:
+- name: Lisa Matthias
+  url: https://infomgnt.org/members/Lisa_Matthias/
+  orcid: 0000-0002-2612-2132
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+- name: Christopher Onzie Khamis
+  url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
+  orcid: 0009-0003-0654-2839
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+- name: Heinz Pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: https://hu-berlin.de/infomgnt
+date: "2025-12-10"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/DATE-TITLE/
+image: Blogpost_WS7.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+bibliography: WS7_Blogpost.bib
+---
+
+The Pro OAR DE project, running from September 2023 to August 2026, has dedicated the past two years to collaborating with German Open Access (OA) repository managers and and the global Open Science community to professionalize repository infrastructure.
+
+On October 30th, 2025, following a series of six networking forums, we hosted a pivotal session marking the culmination of these efforts. The event brought together a technical roadmap for repository integration, concrete use‑cases, and a forward‑looking discussion on AI‑driven discovery and interoperability.
+
+![](Blogpost_WS7.jpg)
+
+As the [Confederation of Open Access Repositories (COAR) manifesto](https://zenodo.org/record/12562) states regarding the true value of Open Access:
+
+*“Each individual repository is of limited value for research: the real power of Open Access lies in the possibility of connecting and tying together repositories, which is why we need interoperability." [@rodrigues_case_2011]*
+
+This webinar embodied that insight, welcoming presenters Kyle Demes (OpenAlex) and Kathleen Shearer (COAR), with participation from 87 repository managers and OA professionals.
+
+The slides from the session are available [online](https://zenodo.org/doi/10.5281/zenodo.17582061).
+
+### 1. OpenAlex: Elevating Repositories as Primary Sources
+
+[OpenAlex](https://openalex.org/) where [Kyle Demes](https://orcid.org/0000-0003-2780-0393) serves as Chief Operating Officer, is a comprehensive index of scholarly works and research information. It aims to aggregate the full spectrum of research outputs, i.e., publications, authors, institutions, funders, and topics, into a single, fully open resource.
+
+Kyle shared the exciting news that OpenAlex now recognizes institutional repositories as primary data sources, representing a shift from treating them merely as secondary links to alternative versions of existing works. This allows OpenAlex to mint new records for repository content, even when those works are absent from other aggregators. Demes also highlighted OpenAlex’s commitment to Open Code, Open Data, Open API, and Open User Interface practices.
+
+\
+This strategic pivot has fostered direct collaborations with major repositories, such as HAL (short for Hyper Articles en Ligne 'Hyper Articles Online') and Research Portal Denmark. OpenAlex is currently developing public “pipes” to ingest OAI‑PMH streams, thereby enhancing data curation and quality in accordance with [OpenAIRE guidelines](https://guidelines.openaire.eu/en/latest/) for repository managers.
+
+Demes emphasizes the importance of distinguishing scholarly from non‑scholarly content and providing precise publication‑type descriptors. He argued that robust internal quality‑assurance processes are vital to improving the usability of metadata for downstream applications. However, the platform faces ongoing challenges. According to Demes, a particularly concerning trend is that works previously labeled as Open Access are being closed again, necessitating the review of numerous records included in OpenAlex.
+
+### 2. COAR: Advancing Open Access Repositories
+
+The Confederation of Open Access Repositories [COAR](https://coar-repositories.org/) with [Kathleen Shearer](https://orcid.org/0000-0001-8617-5781) as Executive Director, brings together 162 members and partners across 50 countries, uniting libraries, research institutions, and funding organizations in a global network.
+
+Shearer spoke of COAR’s vision for an ecosystem of interoperable digital research objects that are dynamically versioned, searchable, amenable to text mining, and capable of near‑immediate dissemination. This ecosystem should support diverse post‑publication review models, recognize various contributorship roles, and integrate data, code, interpretations, preregistrations, data‑management platforms, and quality‑control mechanisms.
+
+[COAR’s Notify Initiative](https://coar-notify.net/) exemplifies this vision by developing a decentralized framework that connects research outputs with external services, such as overlay journals and open‑peer‑review platforms, through linked‑data notifications This has already been adopted by systems including DSpace, Harvard Dataverse, and EPrints.
+
+Recent COAR projects highlight its commitment to enhancing repository functionality while maintaining openness. The organization's July 2025 “Dealing with Bots” task force and its work on semantic multilingual searching address key technical challenges facing the repository community. COAR also promotes controlled vocabularies and Persistent Identifier (PID) interoperability through its PIDs Task Force, and a [Community Framework for Good Practices](https://doi.org/10.5281/zenodo.7108101) which directly benefit platforms like OpenAlex that rely on high‑quality repository metadata. The newly launched [International Repository Directory](https://ird.coar-repositories.org/) (IRD) further enhances accessibility to the global repository network, addressing limitations of older directory services.
+
+### 3. Converging Priorities: The Value of Curation and Interoperability
+
+OpenAlex and COAR share a fundamental commitment to rigorous curation and interoperability as cornerstones of effective open scholarly infrastructure. While OpenAlex focuses on ingesting and enriching repository metadata to build a comprehensive scholarly knowledge graph, COAR provides the normative and technical foundation that enhances this work. Through standardized vocabularies, PID coordination, best practice frameworks, its repository directory, and notification protocols, COAR creates the infrastructure that enables reliable and scalable metadata exchange. This synergistic relationship demonstrates how a well‑curated repository ecosystem can feed robust discovery platforms, ultimately advancing the broader mission of Open Science.
+
+We extend our sincere thanks to Kyle, Kathleen, and all the participants. We welcome your feedback on all the activities of the project Pro OAR DE and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.
+
+For more information about Pro OAR DE and our upcoming activities, please visit our [website](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de).
+
+This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.
+
+---
+nocite: |
+  @*
+---

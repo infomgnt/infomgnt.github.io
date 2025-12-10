@@ -2,6 +2,7 @@
 title: "Praktiken und Infrastrukturen des Open-Access-Monitorings"
 author:
 - name: Heinz Pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/
   orcid: 0000-0003-3334-2771
   affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
   affiliation-url: https://www.hu-berlin.de/de
@@ -14,6 +15,7 @@ author:
   affiliation: Forschungszentrum Jülich
   affiliation-url: https://www.fz-juelich.de/de
 - name: Dorothea Strecker
+  url: https://infomgnt.org/members/Dorothea_Strecker/
   orcid: 0000-0002-9754-3807
   affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
   affiliation-url: https://www.hu-berlin.de/de

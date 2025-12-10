@@ -2,7 +2,7 @@
 title: "Long Night of Science 2025: Communicating Information Management with a Data Puzzle on Open Science"
 author:
 - name: Heinz Pampel
-  url: https://heinzpampel.de 
+  url: https://infomgnt.org/members/Heinz_Pampel/
   orcid: 0000-0003-3334-2771
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin  & Helmholtz Association, Helmholtz Open Science Office
   affiliation-url: https://www.ibi.hu-berlin.de/de
@@ -12,17 +12,17 @@ author:
   affiliation: Einstein Center Digital Future (ECDF)
   affiliation-url: https://www.digital-future.berlin
 - name: Laura Rothfritz
-  url: https://www.ibi.hu-berlin.de/de/institut/personen/rothfritz
+  url: https://infomgnt.org/members/Laura_Rothfritz/
   orcid: 0000-0001-7525-0635
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/de
 - name: Max Liebel 
-  url: https://infomgnt.org
+  url: https://infomgnt.org/members/Max_Liebel/
   orcid: 0009-0002-7979-0238
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/de
 - name: Johanna Schielke
-  url: https://infomgnt.org
+  url: https://infomgnt.org/members/Johanna_Schielke/
   orcid: 0009-0002-8619-5779    
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/de

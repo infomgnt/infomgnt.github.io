@@ -2,6 +2,7 @@
 title: "Neue Informations- und Lernmaterialien aus dem Projekt OA Datenpraxis"
 author:
 - name: Dorothea Strecker
+  url: https://infomgnt.org/members/Dorothea_Strecker/
   orcid: 0000-0002-9754-3807
   affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
   affiliation-url: https://www.hu-berlin.de/de

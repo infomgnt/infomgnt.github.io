@@ -6,14 +6,17 @@ author:
     affiliation: Commonwealth Scientific and Industrial Research Organisation, Mineral Resources Business Unit
     affiliation-url: https://www.csiro.au/en/work-with-us/industries/mining-resources 
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt
   - name: Laura Rothfritz
+    url: https://infomgnt.org/members/Laura_Rothfritz/
     orcid: 0000-0001-7525-0635
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt
   - name: Dorothea Strecker
+    url: https://infomgnt.org/members/Dorothea_Strecker/
     orcid: 0000-0002-9754-3807
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt

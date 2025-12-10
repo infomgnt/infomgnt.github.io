@@ -6,6 +6,7 @@ author:
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt 
   - name: Christopher Onzie Khamis
+    url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
     orcid: 0009-0003-0654-2839
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt

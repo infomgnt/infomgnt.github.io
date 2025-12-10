@@ -2,14 +2,17 @@
 title: "Networking for the Advancement of Institutional Open Access Repositories in Germany"
 author:
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Lisa Mattihas
+    url: https://infomgnt.org/members/Lisa_Matthias/
     orcid: 0000-0002-2612-2132
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
     affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias 
   - name: Christopher Onzie Khamis
+    url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
     orcid: 0009-0003-0654-2839
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
     affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis  

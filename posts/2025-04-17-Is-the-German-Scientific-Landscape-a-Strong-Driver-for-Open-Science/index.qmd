@@ -7,12 +7,15 @@ author:
     affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/frankenstein
   - name: Henriette Humprecht
   - name: Christopher Onzie Khamis
+    url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
     orcid: 0009-0003-0654-2839
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Zuhal Nur Kocabiyik
   - name: Jannik Kuhs-Ohmann
   - name: Max Liebel
+    url: https://infomgnt.org/members/Max_Liebel/
+    orcid: 0009-0002-7979-0238
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) 
     affiliation-url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
   - name: Sofie-Lilly Prinada

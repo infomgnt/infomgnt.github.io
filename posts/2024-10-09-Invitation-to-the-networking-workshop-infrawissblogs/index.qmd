@@ -2,10 +2,12 @@
 title: "Invitation to the networking workshop of the Infra Wiss Blogs project"
 author:
   - name: Catharina Ochsner
+    url: https://infomgnt.org/members/Catharina_Ochsner/
     orcid: 0009-0005-3885-3951 
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
     affiliation-url: http://hu-berlin.de/infomgnt 
   - name: Heinz Pampel
+    url: https://infomgnt.org/members/Heinz_Pampel/
     orcid: 0000-0003-3334-2771
     affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
     affiliation-url: http://hu-berlin.de/infomgnt
@@ -30,20 +32,20 @@ Where? Robert-Koch-Forum of the Einstein Center Digital Future (ECDF), Wilhelmst
 
 We are currently planning with the following program:
 
-|          |                                                                                  |
-|-----------------|-------------------------------------------------------|
-| **Time** | **Topic**                                                                        |
-| 10:30    | Welcome                                                                          |
-| 11:00    | Presentation of the results of the mapping of the German science blog landscape. |
-| 11:30    | Coffee Break                                                                     |
-| 12:00    | Presentation by Henning Krause (Helmholtz Blogs) (angefragt)                     |
-| 12:30    | Presentation by Martin Fenner (Front Matter)                                     |
-| 13:00    | Food break                                                                       |
-| 13:30    | Impulses from practice                                                           |
-| 14:00    | Discussion round 1                                                               |
-| 14:30    | Discussion round 2                                                               |
-| 15:00    | Summary of the results                                                           |
-| 15:15    | End of the Workshop                                                              |
+|  |  |
+|------------------|------------------------------------------------------|
+| **Time** | **Topic** |
+| 10:30 | Welcome |
+| 11:00 | Presentation of the results of the mapping of the German science blog landscape. |
+| 11:30 | Coffee Break |
+| 12:00 | Presentation by Henning Krause (Helmholtz Blogs) (angefragt) |
+| 12:30 | Presentation by Martin Fenner (Front Matter) |
+| 13:00 | Food break |
+| 13:30 | Impulses from practice |
+| 14:00 | Discussion round 1 |
+| 14:30 | Discussion round 2 |
+| 15:00 | Summary of the results |
+| 15:15 | End of the Workshop |
 
 The workshop will be organized in German. [Registration](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/vernetzungsworkshop-infra-wiss-blogs/anmeldung-vernetzungsworkshop-infra-wiss-blogs) is possible through the website of our research group.
 

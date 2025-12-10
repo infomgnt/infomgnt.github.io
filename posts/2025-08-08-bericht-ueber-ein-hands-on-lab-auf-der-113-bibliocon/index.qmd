@@ -2,7 +2,7 @@
 title: '"Vom Drittmittelprojekt zur etablierten Struktur". Bericht über ein Hands-on Lab auf der 113. Bibliocon'
 author:
 - name: Heinz Pampel
-  url: https://heinzpampel.de/
+  url: https://infomgnt.org/members/Heinz_Pampel/
   orcid: 0000-0003-3334-2771
   affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin & Helmholtz-Gemeinschaft, Helmholtz Open Science Office
   affiliation-url: https://www.ibi.hu-berlin.de/
@@ -42,7 +42,7 @@ author:
   affiliation: Universitätsbibliothek, Technische Universität Braunschweig
   affiliation-url: https://www.tu-braunschweig.de/ub
 - name: Christopher O. Khamis
-  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
   orcid: 0009-0003-0654-2839
   affiliation: Institut für Bibliotheks- und Informationswissenschaft (IBI), Humboldt-Universität zu Berlin & Helmholtz-Gemeinschaft 
   affiliation-url: https://www.ibi.hu-berlin.de/

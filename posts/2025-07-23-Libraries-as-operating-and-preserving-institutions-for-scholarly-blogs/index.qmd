@@ -2,7 +2,7 @@
 title: 'Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon'
 author:
 - name: Heinz Pampel
-  url: https://infomgnt.org/team/pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/
   orcid: 0000-0003-3334-2771
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.hu-berlin.de
@@ -30,17 +30,17 @@ author:
   affiliation: German National Library, Frankfurt am Main
   affiliation-url: https://www.dnb.de
 - name: Catharina Ochsner
-  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  url: https://infomgnt.org/members/Catharina_Ochsner/
   orcid: 0000-0003-1226-760X
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.hu-berlin.de
 - name: Jonas Höfting
-  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  url: https://infomgnt.org/members/Jonas_H%C3%B6fting/
   orcid: 0009-0003-4466-1775
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/
 - name: Christopher Onzie Khamis
-  url: https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement
+  url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
   orcid: 0009-0003-0654-2839
   affiliation: Berlin School of Library and Information Science, Humboldt-Universität zu Berlin
   affiliation-url: https://www.ibi.hu-berlin.de/
