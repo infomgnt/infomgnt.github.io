@@ -3,7 +3,7 @@ title: "Catharina Ochsner"
 url: https://infomgnt.org/members/catharina-ochsner
 description: Catharina Ochsner is a research associate in the project “Infra Wiss Blogs - Cooperative Information Infrastructure for Scholarly Blogs”...
 listing:
-  contents: ../../posts/
+  contents: ../../../posts/
   type: grid
   include:
     author: "Catharina Ochsner"
