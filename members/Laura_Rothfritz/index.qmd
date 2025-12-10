@@ -2,6 +2,12 @@
 title: "Laura Rothfritz" 
 url: https://infomgnt.org/members/laura-rothfritz
 description: Laura Rothfritz is a research associate and PhD candidate at the department of Information Management...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Laura Rothfritz"
 image: Laura_Rothfritz_Profile.jpeg
 ---
 
@@ -14,3 +20,7 @@ Laura Rothfritz is a research associate and PhD candidate at the department of I
 Her main research interests are in the area of research data management, infrastructure studies and open science with a special focus on socio-technological perspectives on the relationship between data infrastructures and societies and a strong relation to STS (Science and Technology Studies). The topic of her dissertation is distrust and mistrust in data infrastructures. 
 
 [Profile](https://www.ibi.hu-berlin.de/de/institut/personen/rothfritz/dienstangaben) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Laura Rothfritz's Blogposts:

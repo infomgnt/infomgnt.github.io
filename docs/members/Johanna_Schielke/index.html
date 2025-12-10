@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -165,10 +225,49 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="orcid_icon.png" class="img-fluid"> <a href="https://orcid.org/0009-0002-8619-5779" class="uri">https://orcid.org/0009-0002-8619-5779</a></p>
 <p>Johanna Schielke is a student assistant at the Department of Information Management since November 2024. Currently she is studying Library and Information Science in combination with Art and Visual History at Humboldt-Universität zu Berlin. Previously she completed her Diploma in Painting / Printmaking at the Academy of Fine Arts Leipzig.&nbsp;</p>
 <p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/schielke/dienst">Profile</a> @hu-berlin.de</p>
+<hr>
+<section id="johanna-schielkes-blogposts" class="level2">
+<h2 class="anchored" data-anchor-id="johanna-schielkes-blogposts">Johanna Schielke’s Blogposts:</h2>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753912800000" data-listing-file-modified-sort="1765361154678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="738">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a></p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-1.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">Long Night of Science 2025: Communicating Information Management with a Data Puzzle on Open Science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">The Long Night of Science (Lange Nacht der Wissenschaften - LNdW) is one of the most well-known public science events in Germany, providing research institutions with a…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">
+<div class="listing-date">
+Jul 31, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Friedrich Schmidgall, Laura Rothfritz, Max Liebel, Johanna Schielke
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

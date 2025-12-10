@@ -2,6 +2,12 @@
 title: "Dorothea Strecker" 
 url: https://infomgnt.org/members/dorothea-strecker
 description: Dorothea Strecker is a research associate in the project 'Data practices for shaping the Open Access transformation - Analysis, recommendations, training & networking' (OA Datenpraxis)...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Dorothea Strecker"
 image: Dorothea_Strecker_Profile.png
 ---
 
@@ -16,3 +22,6 @@ Her main research interests are Open Science practices, in particular informatio
 
 [Profile](https://www.ibi.hu-berlin.de/de/institut/personen/strecker) \@hu-berlin.de
 
+------------------------------------------------------------------------
+
+## Dorothea Strecker's Blogposts:

@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -168,10 +228,413 @@ Following a Bachelor’s degree in Library Management at FH Potsdam, she complet
 She is an <a href="https://www.berlin-university-alliance.de/en/commitments/research-quality/open-science/os-botschafter-innen/index.html">Open Science Ambassador for the Berlin University Alliance</a>, a member of the <a href="https://www.re3data.org/workinggroup">re3data Working Group</a>, the <a href="https://datacite.org/community-groups/metadata-working-group/">DataCite Metadata Working Group</a> and the <a href="https://www.scholcommlab.ca/">ScholCommLab</a>.<br>
 Her main research interests are Open Science practices, in particular information infrastructures and metadata for research data.&nbsp;</p>
 <p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/strecker">Profile</a> @hu-berlin.de</p>
+<hr>
+<section id="dorothea-streckers-blogposts" class="level2">
+<h2 class="anchored" data-anchor-id="dorothea-streckers-blogposts">Dorothea Strecker’s Blogposts:</h2>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1764716400000" data-listing-file-modified-sort="1765360716652" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
+<div class="thumbnail">
+<p><a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external"></a></p><a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/liber_guide.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external">Neue Informations- und Lernmaterialien aus dem Projekt OA Datenpraxis</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external">Das Projekt OA Datenpraxis verfolgt das Ziel, die Open-Access-Transformation in Deutschland voranzubringen, indem der Umgang mit Publikations- und Kostendaten untersucht und…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html" class="no-external">
+<div class="listing-date">
+Dec 3, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker, Sophia Dörner
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1763506800000" data-listing-file-modified-sort="1765360804592" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="643">
+<div class="thumbnail">
+<p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a></p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">On November 6 2025, we participated in the Workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures” at the CWTS in Leiden.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">
+<div class="listing-date">
+Nov 19, 2025
+</div>
+<div class="listing-author">
+Laura Rothfritz, Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1761519600000" data-listing-file-modified-sort="1765360909475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1088">
+<div class="thumbnail">
+<p><a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external"></a></p><a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/oat.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external">Praktiken und Infrastrukturen des Open-Access-Monitorings</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external">Am 19. September 2025 führten die DFG-geförderten Projekte OA Datenpraxis, openCost und Transform2Open gemeinsam den Workshop „Praktiken und Infrastrukturen des…<span class="citation" data-cites="pampel_praktiken_2025"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html" class="no-external">
+<div class="listing-date">
+Oct 27, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Lisa-Marie Stein, Bernhard Mittermaier, Dorothea Strecker, Bianca Schweighofer, Gernot Deinzer
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1759442400000" data-listing-file-modified-sort="1765360967017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="459">
+<div class="thumbnail">
+<p><a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a></p><a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/Desmarais_Building.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">Report from the BUA fellowship: Metadata flows in the context of research data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">I recently returned from a research stay at the University of Ottawa: A grant by the Berlin University Alliance (BUA) - through the BUA Fellowship Program of the Objective 3…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">
+<div class="listing-date">
+Oct 3, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1752789600000" data-listing-file-modified-sort="1765361536386" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="499">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a></p><a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">BUA fellowship: Metadata flows in the context of research data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">In my PhD research, I investigate how metadata for research data are generated and maintained. I have started by analyzing how metadata records of the DOI registration…<span class="citation" data-cites="strecker_changes_2024 strecker_how_2024"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html" class="no-external">
+<div class="listing-date">
+Jul 18, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1745272800000" data-listing-file-modified-sort="1765361641903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="119">
+<div class="thumbnail">
+<p><a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external"></a></p><a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/infomgnt_interview.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external">Interviews on Shadow Libraries and AI in Publishing</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external">In April, two members of our research group were featured in interviews:</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-04-22-Interviews-on-Shado-Libraries-and-AI-in-Publishing/index.html" class="no-external">
+<div class="listing-date">
+Apr 22, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1765361778574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="501">
+<div class="thumbnail">
+<p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a></p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">Am 28.03.2025 veranstaltete das Projekt OA Datenpraxis <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span> das erste Webinar zum Thema ”Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen…<em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">
+<div class="listing-date">
+Apr 14, 2025
+</div>
+<div class="listing-author">
+Jonas Höfting, Dorothea Strecker, Heinz Pampel, Karin Ilg
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1741906800000" data-listing-file-modified-sort="1765362414841" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="725">
+<div class="thumbnail">
+<p><a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external"></a></p><a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/BID.webp" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external">The Information Management Research Group at the BID Kongress 2025</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external">We are pleased to announce that the projects OA Datenpraxis and Infra Wiss Blogs of the Information Management Research Group from the Berlin School of Library and…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-03-14-the-information-management-research-group-at-the-bid-kongress/index.html" class="no-external">
+<div class="listing-date">
+Mar 14, 2025
+</div>
+<div class="listing-author">
+Catharina Ochsner, Dorothea Strecker, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1741302000000" data-listing-file-modified-sort="1765362382843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<div class="thumbnail">
+<p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a></p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland” ein, die am 28.03.2025…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">
+<div class="listing-date">
+Mar 7, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel, Jonas Höfting
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="TGFiJTIwTGlmZQ==" data-listing-date-sort="1738710000000" data-listing-file-modified-sort="1765362317871" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<div class="thumbnail">
+<p><a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external"></a></p><a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/Unbenannt.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external">Promoting Open Science at the Humboldt-Universität zu Berlin as BUA Open Science Ambassadors</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external">The Ambassadors for Open Science program of the Berlin University Alliance, BUA aims to promote the knowledge and application of Open Science in various subjects. As Open…<span class="citation" data-cites="berlin_university_alliance_auftakt_2024"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-02-05-Promoting-Open-Science-at-the-Humboldt-Universität-zu-Berlin-as-BUA-Open-Science-Ambassadors/index.html" class="no-external">
+<div class="listing-date">
+Feb 5, 2025
+</div>
+<div class="listing-author">
+Catharina Ochsner, Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1736377200000" data-listing-file-modified-sort="1765362241232" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
+<div class="thumbnail">
+<p><a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external"></a></p><a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/OAT.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external">Workshop ‘The state and prospects of open access reporting’ at Open-Access-Tage</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external">At last year’s Open-Access-Tage, OA Datenpraxis held a workshop together with the Open Access Monitor at Forschungszentrum Jülich as well as the state-wide Open Access…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-01-09-workshop-the-state-and-prospects-of-open-access-reporting/index.html" class="no-external">
+<div class="listing-date">
+Jan 9, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1727733600000" data-listing-file-modified-sort="1765362090227" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
+<div class="thumbnail">
+<p><a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external"></a></p><a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-09-30-survey-announcement-publication-costs/map.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external">Survey announcement: Recording publication costs at research performing institutions in Germany</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external">The Research and Teaching Group Information Management is conducting a survey on the topic of recording publication costs at research performing institutions in Germany. The…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-09-30-survey-announcement-publication-costs/index.html" class="no-external">
+<div class="listing-date">
+Oct 1, 2024
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1721944800000" data-listing-file-modified-sort="1765361997068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="680">
+<div class="thumbnail">
+<p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a></p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-07-26-pidsbua-workshop/pidsbua.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">Research Data Publications Between Dynamism and Persistence - Insights from the #PIDsBUA Workshop</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">Research is inherently dynamic, leading to equally dynamic data. This dynamic nature of research data raises numerous questions for professionals in information management…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">
+<div class="listing-date">
+Jul 26, 2024
+</div>
+<div class="listing-author">
+Jens Klump, Heinz Pampel, Laura Rothfritz, Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1718748000000" data-listing-file-modified-sort="1765361938217" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
+<div class="thumbnail">
+<p><a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a></p><a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/logo_oa_datenpraxis.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">We are excited to announce the launch of our new project, “Data Practices for Shaping Open Access Transformation - Analysis, Recommendation, Training &amp; Networking - OA…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-07-01-Vorstellung-OA-Datenpraxis/index.html" class="no-external">
+<div class="listing-date">
+Jun 19, 2024
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

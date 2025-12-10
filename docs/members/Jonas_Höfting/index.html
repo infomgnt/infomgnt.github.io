@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -165,10 +225,161 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="orcid_icon.png" class="img-fluid"> <a href="https://orcid.org/0009-0003-4466-1775" class="uri">https://orcid.org/0009-0003-4466-1775</a></p>
 <p>Jonas Höfting has been working as a student assistant at the Chair of Information Management in the project ‘<a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/oa-datenpraxis">Data practices for shaping the Open Access transformation - Analysis, recommendations, training &amp; networking</a>’ project since June 2024. Previously, he worked as a student assistant in the projects ‘<a href="https://fufaf.hypotheses.org/#projekt-en">Functions and consequences of unemployment in the careers of researchers</a>’ and ‘<a href="https://epac.hypotheses.org/#projekt-en">Effects of pandemic-related disruptions on academic careers</a>’ at the Department of Social Science Research in Science and Technology at TU Berlin. After completing his B.A. in ‘Culture and Technology’ with the core subject History of Science and Technology at TU Berlin, he is currently studying for a M.A.&nbsp;in ‘Information Science’ at HU Berlin.&nbsp;</p>
 <p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/hoefting">Profile</a> @hu-berlin.de</p>
+<hr>
+<section id="jonas-höftings-blogposts" class="level2">
+<h2 class="anchored" data-anchor-id="jonas-höftings-blogposts">Jonas Höfting’s Blogposts:</h2>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753221600000" data-listing-file-modified-sort="1765361327360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1008">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a></p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">Scholarly blogs have established themselves as important platforms for making research findings and discourse accessible both within scientific communities and to the…<span class="citation" data-cites="ochsner2025"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">
+<div class="listing-date">
+Jul 23, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Till Stadtbäumer, Martin Fenner, Sven Ködel, Charmaine Voigt, Britta Woldering, Catharina Ochsner, Jonas Höfting, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1750284000000" data-listing-file-modified-sort="1765362541189" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="769">
+<div class="thumbnail">
+<p><a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external"></a></p><a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external">Recap: Infra Wiss Blogs Webinar on Rogue Scholar</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external">On June 11, 2025, the webinar of the project Infra Wiss Blogs funded by the German Research Foundation (DFG) took place on the topic of “Blog archiving with Rogue Scholar…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html" class="no-external">
+<div class="listing-date">
+Jun 19, 2025
+</div>
+<div class="listing-author">
+Jonas Höfting, Catharina Ochsner, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1744581600000" data-listing-file-modified-sort="1765361778574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="501">
+<div class="thumbnail">
+<p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a></p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/logo_oa_datenpraxis(2).png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">Rückblick: OA Datenpraxis Webinar zur Erfassung von Publikationskosten</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">Am 28.03.2025 veranstaltete das Projekt OA Datenpraxis <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span> das erste Webinar zum Thema ”Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen…<em></em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html" class="no-external">
+<div class="listing-date">
+Apr 14, 2025
+</div>
+<div class="listing-author">
+Jonas Höfting, Dorothea Strecker, Heinz Pampel, Karin Ilg
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1741302000000" data-listing-file-modified-sort="1765362382843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<div class="thumbnail">
+<p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a></p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/logo_oa_datenpraxis(1).png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">Wir laden Sie herzlich zur Veranstaltung “OA Datenpraxis Webinar: Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland” ein, die am 28.03.2025…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html" class="no-external">
+<div class="listing-date">
+Mar 7, 2025
+</div>
+<div class="listing-author">
+Dorothea Strecker, Heinz Pampel, Jonas Höfting
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1736463600000" data-listing-file-modified-sort="1765362289790" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="826">
+<div class="thumbnail">
+<p><a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external"></a></p><a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/IMG_5273.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external">Perspective on Future Infrastructure for Scholarly Blogs in Germany</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external">On December 6th, 2024, we hosted the first workshop of our project Infra Wiss Blogs <span class="citation" data-cites="ochsner_research_2024">(Ochsner and Pampel 2024)</span>, funded by the German Research Foundation (DFG). The aim of the…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html" class="no-external">
+<div class="listing-date">
+Jan 10, 2025
+</div>
+<div class="listing-author">
+Catharina Ochsner, Jonas Höfting, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

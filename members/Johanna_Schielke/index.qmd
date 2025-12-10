@@ -2,6 +2,12 @@
 title: "Johanna Schielke" 
 url: https://infomgnt.org/members/johanna-schielke
 description: Johanna Schielke is a student assistant at the Department of Information Management since November 2024...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Johanna Schielke"
 image: Johanna_Schielke_Profile.jpeg
 ---
 
@@ -12,3 +18,7 @@ image: Johanna_Schielke_Profile.jpeg
 Johanna Schielke is a student assistant at the Department of Information Management since November 2024. Currently she is studying Library and Information Science in combination with Art and Visual History at Humboldt-Universität zu Berlin. Previously she completed her Diploma in Painting / Printmaking at the Academy of Fine Arts Leipzig. 
 
 [Profile](https://www.ibi.hu-berlin.de/de/institut/personen/schielke/dienst) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Johanna Schielke's Blogposts:

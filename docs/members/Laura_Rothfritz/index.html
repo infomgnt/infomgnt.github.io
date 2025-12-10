@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -166,10 +226,217 @@ ul.task-list li input[type="checkbox"] {
 <p>Laura Rothfritz is a research associate and PhD candidate at the department of Information Management. She studied at the University of Applied Sciences Potsdam and earned her BA in Library Management. In 2019 she completed her MA in Information Sciences, funded by the EU, DFG, and BMBF. Since 2023, she has been a member of the Board of Directors of the Einstein Center Digital Future (ECDF).</p>
 <p>Her main research interests are in the area of research data management, infrastructure studies and open science with a special focus on socio-technological perspectives on the relationship between data infrastructures and societies and a strong relation to STS (Science and Technology Studies). The topic of her dissertation is distrust and mistrust in data infrastructures.&nbsp;</p>
 <p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/rothfritz/dienstangaben">Profile</a> @hu-berlin.de</p>
+<hr>
+<section id="laura-rothfritzs-blogposts" class="level2">
+<h2 class="anchored" data-anchor-id="laura-rothfritzs-blogposts">Laura Rothfritz’s Blogposts:</h2>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1763506800000" data-listing-file-modified-sort="1765360804592" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="643">
+<div class="thumbnail">
+<p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a></p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">On November 6 2025, we participated in the Workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures” at the CWTS in Leiden.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html" class="no-external">
+<div class="listing-date">
+Nov 19, 2025
+</div>
+<div class="listing-author">
+Laura Rothfritz, Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753912800000" data-listing-file-modified-sort="1765361154678" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="738">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a></p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-1.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">Long Night of Science 2025: Communicating Information Management with a Data Puzzle on Open Science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">The Long Night of Science (Lange Nacht der Wissenschaften - LNdW) is one of the most well-known public science events in Germany, providing research institutions with a…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html" class="no-external">
+<div class="listing-date">
+Jul 31, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Friedrich Schmidgall, Laura Rothfritz, Max Liebel, Johanna Schielke
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="TGFiJTIwTGlmZSUyQ1RlYWNoaW5n" data-listing-date-sort="1752616800000" data-listing-file-modified-sort="1765361572284" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="493">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external"></a></p><a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/mfn_visit.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external">Connecting Knowledge with Wikidata: A Practical Project with the Museum für Naturkunde Berlin</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external">How can scholarly publications be made more visible, discoverable, and interconnected? This question is the focus of a student practical project conducted as part of the…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html" class="no-external">
+<div class="listing-date">
+Jul 16, 2025
+</div>
+<div class="listing-author">
+Laura Rothfritz, Stefanie Paß, Sabine von Mering, Clara Schindler, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1740092400000" data-listing-file-modified-sort="1765362344680" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="611">
+<div class="thumbnail">
+<p><a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external"></a></p><a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/pic.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external">Critical Data Discourses: A Lecture Series on the Ethics of Research Data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external">In a time when research data is increasingly at the heart of research integrity, discussions about data sharing, openness, and reusability have gained prominence. Yet, the…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html" class="no-external">
+<div class="listing-date">
+Feb 21, 2025
+</div>
+<div class="listing-author">
+Laura Rothfritz, Katrin Frisch
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1738710000000" data-listing-file-modified-sort="1765362332446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="794">
+<div class="thumbnail">
+<p><a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external"></a></p><a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/datarescue.webp" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external">What happens when public data infrastructures aren’t save? A look at past and current developments in the US</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external">In my PhD research, I look at DataRescue or Data Refuge movements, for example through the work of the Environmental Data and Governance Initiative (EDGI) <span class="citation" data-cites="EnvironmentalDataGovernance">(<span>“Environmental <span>Data</span>…<span></span></span></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html" class="no-external">
+<div class="listing-date">
+Feb 5, 2025
+</div>
+<div class="listing-author">
+Laura Rothfritz
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1731884400000" data-listing-file-modified-sort="1765362199326" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="624">
+<div class="thumbnail">
+<p><a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external"></a></p><a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/screenshot.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external">New preprint on Transformative Agreements</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external">In recent years, transformative agreements (TAs) have become a go-to strategy for publishers and research performing organizations aiming to open up access to research <span class="citation" data-cites="farleyTransformativeAgreementsSix2021">(Farle…</span><span class="citation" data-cites="borregoTransformativeAgreementsThey2021"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html" class="no-external">
+<div class="listing-date">
+Nov 18, 2024
+</div>
+<div class="listing-author">
+Laura Rothfritz
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1721944800000" data-listing-file-modified-sort="1765361997068" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="680">
+<div class="thumbnail">
+<p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a></p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-07-26-pidsbua-workshop/pidsbua.png" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">Research Data Publications Between Dynamism and Persistence - Insights from the #PIDsBUA Workshop</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">Research is inherently dynamic, leading to equally dynamic data. This dynamic nature of research data raises numerous questions for professionals in information management…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-07-26-pidsbua-workshop/index.html" class="no-external">
+<div class="listing-date">
+Jul 26, 2024
+</div>
+<div class="listing-author">
+Jens Klump, Heinz Pampel, Laura Rothfritz, Dorothea Strecker
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -2,6 +2,12 @@
 title: "Max Liebel" 
 url: https://infomgnt.org/members/max-liebel
 description: Max Liebel is a student assistant at the Chair of Information Management...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Max Liebel"
 image: Max_Liebel_Profile.jpeg
 ---
 
@@ -12,3 +18,7 @@ image: Max_Liebel_Profile.jpeg
 Max Liebel is a student assistant at the Chair of Information Management. He has been studying Library and Information Science in combination with Classical Archeology since 2022. Previously he was a student assistant at the DESY-Institution located in Zeuthen and collaborated with researchers at PITZ.
 
 [Profile](https://www.ibi.hu-berlin.de/de/institut/personen/liebel/dienstangaben) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Max Liebel's Blogposts:

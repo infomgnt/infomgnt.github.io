@@ -2,6 +2,12 @@
 title: "Lisa Matthias" 
 url: https://infomgnt.org/members/lisa-matthias
 description: Lisa Matthias is a research associate in the project "Professionalisierung der Open-Access Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE)"...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Lisa Matthias"
 image: Lisa_Matthias_Profile.jpeg
 ---
 
@@ -12,3 +18,7 @@ image: Lisa_Matthias_Profile.jpeg
 Lisa Matthias is a research associate in the project "Professionalisierung der Open-Access Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE)." Previously, she worked as a postdoctoral researcher at Hanken School of Economics in Helsinki, Finland. With a PhD in Political Science from Free University Berlin, she brings extensive experience in mixed-methods research, data analysis, and project management. Her research on the topic of Open Access has been widely received and has garnered significant media attention in publications such as Nature News. Lisa has contributed to multiple international research projects, including as a visiting scholar at Simon Fraser University in Vancouver, Canada. Her research interests include open access (specifically the sustainability and costs of different access models), research evaluation, and research policy. She is a member of the [ScholCommLab](https://www.scholcommlab.ca/).
 
 [Profil](https://www.ibi.hu-berlin.de/de/institut/personen/matthias) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Lisa Matthias' Blogposts:

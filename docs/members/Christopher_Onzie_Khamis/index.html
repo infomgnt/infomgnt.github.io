@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -165,10 +225,273 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="orcid_icon.png" class="img-fluid"> <a href="https://orcid.org/0009-0003-0654-2839" class="uri">https://orcid.org/0009-0003-0654-2839</a></p>
 <p>Christopher Onzie Khamis is a student assistant at the Department of Information Management. He has been studying Library and Information Science in combination with Area Studies since 2022. Prior to that, he completed a B.A. Philosophy with the additional subjects cultural sciences and history at the University of Leipzig.&nbsp;</p>
 <p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/khamis/dienstangaben">Profile</a> @hu-berlin.de</p>
+<hr>
+<section id="christopher-onzie-khamis-blogposts" class="level2">
+<h2 class="anchored" data-anchor-id="christopher-onzie-khamis-blogposts">Christopher Onzie Khamis’ Blogposts:</h2>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1765321200000" data-listing-file-modified-sort="1765371127659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="764">
+<div class="thumbnail">
+<p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a></p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/Blogpost_WS7.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">Integrating Open Access Repositories into the Broader Open Science Landscape: OpenAlex and COAR</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">The Pro OAR DE project, running from September 2023 to August 2026, has dedicated the past two years to collaborating with German Open Access (OA) repository managers and…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">
+<div class="listing-date">
+Dec 10, 2025
+</div>
+<div class="listing-author">
+Lisa Matthias, Christopher Onzie Khamis, Heinz Pampel
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1764111600000" data-listing-file-modified-sort="1765360765294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="948">
+<div class="thumbnail">
+<p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a></p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/Blogpost_Monitoring_Handreichung.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">New Guide on Publication and Cost Monitoring through Institutional Repositories</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">We are pleased to announce the publication of our fourth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">
+<div class="listing-date">
+Nov 26, 2025
+</div>
+<div class="listing-author">
+Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1762383600000" data-listing-file-modified-sort="1765360852733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="996">
+<div class="thumbnail">
+<p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a></p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/Blogpost_Zweitveröffentlichung_Handreichung.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">Institutional Repositories and Secondary Publication: A New Guide from Pro OAR DE</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">We are pleased to announce the publication of our third guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">
+<div class="listing-date">
+Nov 6, 2025
+</div>
+<div class="listing-author">
+Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753308000000" data-listing-file-modified-sort="1765361209117" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="882">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a></p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">Guide Published: Interplay of Institutional Repositories and CRIS</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">To support repository managers and institutional decision-makers, we are pleased to present our second guide from the BMFTR-funded (Federal Ministry for Research, Technology…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">
+<div class="listing-date">
+Jul 24, 2025
+</div>
+<div class="listing-author">
+Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753221600000" data-listing-file-modified-sort="1765361327360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1008">
+<div class="thumbnail">
+<p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a></p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">Scholarly blogs have established themselves as important platforms for making research findings and discourse accessible both within scientific communities and to the…<span class="citation" data-cites="ochsner2025"></span></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html" class="no-external">
+<div class="listing-date">
+Jul 23, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Till Stadtbäumer, Martin Fenner, Sven Ködel, Charmaine Voigt, Britta Woldering, Catharina Ochsner, Jonas Höfting, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1750629600000" data-listing-file-modified-sort="1765361607738" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="604">
+<div class="thumbnail">
+<p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a></p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/Blogpost_Preprint_Handreichung.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">Networking for the Advancement of Institutional Open Access Repositories in Germany</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">We are excited to share our first guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">
+<div class="listing-date">
+Jun 23, 2025
+</div>
+<div class="listing-author">
+Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1745272800000" data-listing-file-modified-sort="1765361840056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="555">
+<div class="thumbnail">
+<p><a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external"></a></p><a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/Blogpost_image.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external">Networking for the Advancement of Institutional Open Access Repositories in Germany</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external">Funded by the Federal Ministry of Education and Research (BMBF), our research project Pro OAR DE investigates current challenges in operating institutional repositories (IR)…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-04-22-Networking-for-the-Advancement-of-Institutional-Open-Access-Repositories-in-Germany/index.html" class="no-external">
+<div class="listing-date">
+Apr 22, 2025
+</div>
+<div class="listing-author">
+Heinz Pampel, Lisa Mattihas, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1744840800000" data-listing-file-modified-sort="1765361734327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="881">
+<div class="thumbnail">
+<p><a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external"></a></p><a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/PSE_Blogpost_image.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external">Is the German Scientific Landscape a Strong Driver for Open Science?</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external">As part of the project module <em>Open Science as a Field of Action for Scientific Institutions</em>, students from the Institute for Library and Information Science at Humboldt…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html" class="no-external">
+<div class="listing-date">
+Apr 17, 2025
+</div>
+<div class="listing-author">
+Laura Catalina Bohórquez Díaz, Sharleen Frankenstein, Henriette Humprecht, Christopher Onzie Khamis, Zuhal Nur Kocabiyik, Jannik Kuhs-Ohmann, Max Liebel, Sofie-Lilly Prinada, Patricia Rocha Dias, Hendrik Zimnol
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNoJTJDU3R1ZGVudHM=" data-listing-date-sort="1721944800000" data-listing-file-modified-sort="1765362011789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1216">
+<div class="thumbnail">
+<p><a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external"></a></p><a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external">
+<p><img loading="lazy" src="../../posts/2024-07-26-reisebericht-bibliocon/20240606_tripreport.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external">Die Bibliocon 2024 - ein studentischer Reisebericht</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external">Regardless of whether one is just starting out or has already arrived in the community, as young librarians and information scientists, there are many interesting fields and…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../posts/2024-07-26-reisebericht-bibliocon/index.html" class="no-external">
+<div class="listing-date">
+Jul 26, 2024
+</div>
+<div class="listing-author">
+Pia Kretschmar, Christopher Onzie Khamis
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
