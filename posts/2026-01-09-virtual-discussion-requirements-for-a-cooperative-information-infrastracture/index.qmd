@@ -9,7 +9,7 @@ author:
 date: "2026-01-09"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastructure/
+  url: https://doi.org/10.59350/zzjg6-mr994 
 image: Anforderungskatalog.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
