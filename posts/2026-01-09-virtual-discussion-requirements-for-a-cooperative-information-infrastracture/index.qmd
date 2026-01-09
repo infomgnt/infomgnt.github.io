@@ -1,0 +1,57 @@
+---
+title: "Virtual discussion: Requirements for a cooperative information infrastructure for the long-term availability of scholarly blogs"
+author:
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.hu-berlin.de/de
+date: "2026-01-09"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastructure/
+image: Anforderungskatalog.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+![](Anforderungskatalog.png)
+
+**Date:** Tuesday, February 3rd 2026
+
+**Duration:** 10:00 - 12:00
+
+**Place:** Online via Zoom
+
+**Please register here:** <https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ>
+
+**Contact:** [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de)
+
+**Description:**
+
+Scholarly blogs are an important part of scholarly communication and enable researchers to communicate their research results and research-related topics quickly and openly, initiate discussions and promote dialogue among colleagues and also between scholars and society. In contrast to traditional forms of publication (such as journal articles or monographs), scholarly blogs face particular challenges in terms of their long-term availability and citability. Content can be lost due to technical changes and a lack of archiving strategies. In addition, there is often a lack of standardised procedures for making blog posts permanently findable and clearly citable. To close this gap, the Infra Wiss Blogs project has developed a catalogue of requirements for the integration of scholarly blogs into information infrastructures.
+
+The catalogue of requirements is based on the results of a qualitative interview study conducted with German scholarly bloggers as part of the Infra Wiss Blogs project. The aim of the study was to determine the requirements of scholarly bloggers for an information infrastructure that makes scholarly blogs available and citable in the long term. The catalogue defines requirements that ensure that scholarly blogs can continue to exist in the long term as citable, verifiable and sustainable contributions to scholarly communication.
+
+The aim of the event is to discuss and further develop the catalogue together with the community. The feedback from participants will be incorporated into a subsequent revision of the catalogue.
+
+**The catalogue can be found and commented on here:** [To the catalogue](https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing)
+
+We are looking forward to receiving comments and feedback until **February, 27th 2026**.
+
+**Program:**
+
+|               |                                                          |
+|---------------|----------------------------------------------------------|
+| **Time**      | **Description**                                          |
+| 10:00 - 10:20 | Welcome and introduction to the project Infra Wiss Blogs |
+| 10:20 - 10:40 | Presentation of the catalogue                            |
+| 10:40 - 10:50 | Time for questions                                       |
+| 10:50 - 11:15 | Discussion of the catalogue in break out rooms           |
+| 11:15 - 11:45 | Conclusions                                              |
+| 11:45 - 12:00 | Summary of the results                                   |
+
+The event will be held in German. Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the [project blog](https://infrawissblogs.org/) as well as the project’s [mailing list](https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs). If you have any questions, please contact Catharina Ochsner via [catharina.ochsner\@hu-berlin.de](mailto:catharina.ochsner@hu-berlin.de).
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

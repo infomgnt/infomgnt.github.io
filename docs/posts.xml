@@ -10,7 +10,92 @@
 <atom:link href="https://infomgnt.org/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 09 Dec 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Virtual discussion: Requirements for a cooperative information infrastructure for the long-term availability of scholarly blogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <link>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/Anforderungskatalog.png" class="img-fluid"></p>
+<p><strong>Date:</strong> Tuesday, February 3rd 2026</p>
+<p><strong>Duration:</strong> 10:00 - 12:00</p>
+<p><strong>Place:</strong> Online via Zoom</p>
+<p><strong>Please register here:</strong> <a href="https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ" class="uri">https://hu-berlin.zoom-x.de/meeting/register/8XNI-XdOSzW8MyxKQP_aOQ</a></p>
+<p><strong>Contact:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
+<p><strong>Description:</strong></p>
+<p>Scholarly blogs are an important part of scholarly communication and enable researchers to communicate their research results and research-related topics quickly and openly, initiate discussions and promote dialogue among colleagues and also between scholars and society. In contrast to traditional forms of publication (such as journal articles or monographs), scholarly blogs face particular challenges in terms of their long-term availability and citability. Content can be lost due to technical changes and a lack of archiving strategies. In addition, there is often a lack of standardised procedures for making blog posts permanently findable and clearly citable. To close this gap, the Infra Wiss Blogs project has developed a catalogue of requirements for the integration of scholarly blogs into information infrastructures.</p>
+<p>The catalogue of requirements is based on the results of a qualitative interview study conducted with German scholarly bloggers as part of the Infra Wiss Blogs project. The aim of the study was to determine the requirements of scholarly bloggers for an information infrastructure that makes scholarly blogs available and citable in the long term. The catalogue defines requirements that ensure that scholarly blogs can continue to exist in the long term as citable, verifiable and sustainable contributions to scholarly communication.</p>
+<p>The aim of the event is to discuss and further develop the catalogue together with the community. The feedback from participants will be incorporated into a subsequent revision of the catalogue.</p>
+<p><strong>The catalogue can be found and commented on here:</strong> <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">To the catalogue</a></p>
+<p>We are looking forward to receiving comments and feedback until <strong>February, 27th 2026</strong>.</p>
+<p><strong>Program:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 79%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Time</strong></td>
+<td><strong>Description</strong></td>
+</tr>
+<tr class="even">
+<td>10:00 - 10:20</td>
+<td>Welcome and introduction to the project Infra Wiss Blogs</td>
+</tr>
+<tr class="odd">
+<td>10:20 - 10:40</td>
+<td>Presentation of the catalogue</td>
+</tr>
+<tr class="even">
+<td>10:40 - 10:50</td>
+<td>Time for questions</td>
+</tr>
+<tr class="odd">
+<td>10:50 - 11:15</td>
+<td>Discussion of the catalogue in break out rooms</td>
+</tr>
+<tr class="even">
+<td>11:15 - 11:45</td>
+<td>Conclusions</td>
+</tr>
+<tr class="odd">
+<td>11:45 - 12:00</td>
+<td>Summary of the results</td>
+</tr>
+</tbody>
+</table>
+<p>The event will be held in German. Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the <a href="https://infrawissblogs.org/">project blog</a> as well as the project’s <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>. If you have any questions, please contact Catharina Ochsner via <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina},
+  title = {Virtual Discussion: {Requirements} for a Cooperative
+    Information Infrastructure for the Long-Term Availability of
+    Scholarly Blogs},
+  date = {2026-01-09},
+  url = {https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastructure/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina. 2026. <span>“Virtual Discussion: Requirements for a
+Cooperative Information Infrastructure for the Long-Term Availability of
+Scholarly Blogs.”</span> January 9, 2026. <a href="https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastructure/">https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastructure/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/</guid>
+  <pubDate>Thu, 08 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/Anforderungskatalog.png" medium="image" type="image/png" height="87" width="144"/>
+</item>
 <item>
   <title>Integrating Open Access Repositories into the Broader Open Science Landscape: OpenAlex and COAR</title>
   <dc:creator>Lisa Matthias</dc:creator>
@@ -1325,55 +1410,6 @@ Infra Wiss Blogs Webinar on Rogue Scholar.”</span> June 19, 2025. <a href="htt
   <guid>https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/</guid>
   <pubDate>Wed, 18 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" medium="image" type="image/png" height="94" width="144"/>
-</item>
-<item>
-  <title>Open Access Dashboard Collection Launched</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Johannes Schneider</dc:creator>
-  <link>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="open-access-dashboard-collection-launched" class="level1">
-<h1>Open Access Dashboard Collection Launched</h1>
-<p>As Open Access becomes increasingly central to scholarship and science policy, understanding the proportion of open publications within the overall publication output, whether at the level of research-performing organizations, individual countries, or globally, is gaining importance.</p>
-<p>In recent years, an increasing number of dashboards have been created to track different facets of Open Access. Yet, a comprehensive overview of these tools has been missing. In our project <a href="https://oa-datenpraxis.de/en/">OA Datenpraxis</a> (Data Practice for Shaping the Open Access Transformation – Analysis, Recommendation, Training &amp; Networking), funded by the <a href="https://www.dfg.de/">German Research Foundation (DFG)</a> <span class="citation" data-cites="pampel_datenpraxis_2024">(Pampel et al. 2024)</span>, we have spent the past several months engaging with this topic by systematically mapping and analyzing the current landscape of Open Access dashboards.</p>
-<p>We conducted a survey in which we identified nearly 60 dashboards. To enable a structured description of these dashboards, we developed a dedicated <a href="https://oa-datenpraxis.de/dashboards_schema.html">metadata schema</a>. This schema captures key characteristics such as data sources, their license, responsible organizations, the type of output they monitor and more.</p>
-<p>The resulting <a href="https://oa-datenpraxis.de/en/dashboard_uebersicht.html">Open Access Dashboard Collection</a> is now available on the project website. The underlying <a href="https://oa-datenpraxis.de/dashboards_schema.html">metadata schema</a> is also accessible there and open for reuse.</p>
-<p><img src="https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/oa-dashboard-collection.jpeg" class="img-fluid"></p>
-<p>We aim to continue developing this dataset through an open and participatory process. We welcome suggestions for additional dashboards as well as ideas for further refining the dataset and its structure.</p>
-<p>An editable version of the collection is available in a <a href="https://nextcloud.gfz.de/s/QG38J6kEDbJ8DXz">shared Nextcloud folder</a>, where you can directly add your suggestions. For questions, feedback, or submissions, please contact us at: <a href="mailto:oa-datenpraxis-dashboards@listserv.dfn.de">oa-datenpraxis-dashboards@listserv.dfn.de</a>. We look forward to hearing from you!</p>
-<p>The project OA Datenpraxis supports the development of infrastructures for the open access transformation at research institutions in Germany. It focuses on promoting and establishing sovereign data practices to shape and manage this transformation effectively.</p>
-<p>Further information about the project can be found on the <a href="https://oa-datenpraxis.de/en">project website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-pampel_datenpraxis_2024" class="csl-entry">
-Pampel, Heinz, Najko Jahn, Roland Bertelmann, Wolfram Horstmann, Laura Rothfritz, Lea Maria Ferguson, Birgit Schmidt, and Anna Stisser. 2024. <span>“Datenpraxis Zur <span>Gestaltung</span> Der <span>Open</span>-<span>Access</span>-<span>Transformation</span> - <span>Analyse</span>, <span>Empfehlung</span>, <span>Training</span> &amp; <span>Vernetzung</span> (<span>OA</span> <span>Datenpraxis</span>).”</span> <a href="https://doi.org/10.5281/zenodo.10794298">https://doi.org/10.5281/zenodo.10794298</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
-  author = {Pampel, Heinz and Schneider, Johannes},
-  title = {Open {Access} {Dashboard} {Collection} {Launched}},
-  date = {2025-06-12},
-  url = {https://doi.org/10.59350/gj3rx-m5059},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz, and Johannes Schneider. 2025. <span>“Open Access
-Dashboard Collection Launched.”</span> June 12, 2025. <a href="https://doi.org/10.59350/gj3rx-m5059">https://doi.org/10.59350/gj3rx-m5059</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/</guid>
-  <pubDate>Wed, 11 Jun 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-06-12-Open-Access-Dashboard-Collection-Launched/oa-dashboard-collection.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
