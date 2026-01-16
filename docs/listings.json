@@ -2,6 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
       "/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/index.html",
       "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
       "/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html",
@@ -56,42 +57,35 @@
     ]
   },
   {
-    "listing": "/members.html",
+    "listing": "/members/Max_Liebel/index.html",
     "items": [
-      "/members/Catharina_Ochsner/index.html",
-      "/members/Christopher_Onzie_Khamis/index.html",
-      "/members/Dorothea_Strecker/index.html",
-      "/members/Heinz_Pampel/index.html",
-      "/members/Johanna_Schielke/index.html",
-      "/members/Jonas_Höfting/index.html",
-      "/members/Laura_Rothfritz/index.html",
-      "/members/Lisa_Matthias/index.html",
-      "/members/Max_Liebel/index.html"
+      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html",
+      "/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html"
     ]
   },
   {
-    "listing": "/members/Lisa_Matthias/index.html",
+    "listing": "/members/Laura_Rothfritz/index.html",
     "items": [
-      "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
-      "/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html",
-      "/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html",
-      "/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html",
-      "/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html"
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
+      "/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html",
+      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html",
+      "/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html",
+      "/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html",
+      "/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html",
+      "/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html",
+      "/posts/2024-07-26-pidsbua-workshop/index.html"
     ]
   },
   {
-    "listing": "/members/Jonas_Höfting/index.html",
+    "listing": "/members/Johanna_Schielke/index.html",
     "items": [
-      "/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html",
-      "/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html",
-      "/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html",
-      "/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html",
-      "/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html"
+      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html"
     ]
   },
   {
     "listing": "/members/Heinz_Pampel/index.html",
     "items": [
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
       "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
       "/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html",
       "/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html",
@@ -136,6 +130,7 @@
   {
     "listing": "/members/Christopher_Onzie_Khamis/index.html",
     "items": [
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
       "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
       "/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html",
       "/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html",
@@ -150,6 +145,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
       "/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/index.html",
       "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
       "/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html",
@@ -239,28 +235,45 @@
     ]
   },
   {
-    "listing": "/members/Johanna_Schielke/index.html",
+    "listing": "/members/Jannis_Köster/index.html",
     "items": [
-      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html"
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html"
     ]
   },
   {
-    "listing": "/members/Laura_Rothfritz/index.html",
+    "listing": "/members/Jonas_Höfting/index.html",
     "items": [
-      "/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html",
-      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html",
-      "/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html",
-      "/posts/2025-02-21-Critical-Data-Discourses-A-Lecture-Series-on-the-Ethics-of-Research-Data/index.html",
-      "/posts/2025-02-05-What-happens-when-public-data-infrastructures-arent-save/index.html",
-      "/posts/2024-11-18-New-Preprint-on-Transformative-Agreements/index.html",
-      "/posts/2024-07-26-pidsbua-workshop/index.html"
+      "/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html",
+      "/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/index.html",
+      "/posts/2025-04-14-Rueckblick-OA-Datenpraxis-Webinar-zur-Erfassung-von-Publikationskosten/index.html",
+      "/posts/2025-03-07-OA-Datenpraxis-Webinar-Erfassung-von-Publikationskosten-an-wissenschaftlichen-Einrichtungen-in-Deutschland/index.html",
+      "/posts/2025-01-10-perspective-on-future-infrastructure-on-scholarly-blogs-in-germany/index.html"
     ]
   },
   {
-    "listing": "/members/Max_Liebel/index.html",
+    "listing": "/members/Lisa_Matthias/index.html",
     "items": [
-      "/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html",
-      "/posts/2025-04-17-Is-the-German-Scientific-Landscape-a-Strong-Driver-for-Open-Science/index.html"
+      "/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html",
+      "/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html",
+      "/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html",
+      "/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html",
+      "/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html",
+      "/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html"
+    ]
+  },
+  {
+    "listing": "/members.html",
+    "items": [
+      "/members/Catharina_Ochsner/index.html",
+      "/members/Christopher_Onzie_Khamis/index.html",
+      "/members/Dorothea_Strecker/index.html",
+      "/members/Heinz_Pampel/index.html",
+      "/members/Jannis_Köster/index.html",
+      "/members/Johanna_Schielke/index.html",
+      "/members/Jonas_Höfting/index.html",
+      "/members/Laura_Rothfritz/index.html",
+      "/members/Lisa_Matthias/index.html",
+      "/members/Max_Liebel/index.html"
     ]
   }
 ]

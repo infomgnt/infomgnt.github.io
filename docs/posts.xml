@@ -9,14 +9,91 @@
 <link>https://infomgnt.org/posts.html</link>
 <atom:link href="https://infomgnt.org/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Thu, 08 Jan 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Mon, 12 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung</title>
+  <dc:creator>Lisa Matthias</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <dc:creator>Laura Rothfritz</dc:creator>
+  <dc:creator>Jannis Köster</dc:creator>
+  <link>https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We are pleased to announce the publication of a new guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung” (available in German only).</p>
+<p>Matthias, L., Pampel, H., Khamis, C. O., &amp; Rothfritz, L. (2025). Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung. Zenodo. <a href="https://doi.org/10.5281/zenodo.17867213" class="uri">https://doi.org/10.5281/zenodo.17867213</a></p>
+<p><img src="https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg" class="img-fluid"></p>
+<p>This guideline summarizes the outcomes of the fifth networking forum on “Institutional Repositories and Research Data,” held on May 12, 2025, which brought together over 100 Open Access professionals from across Germany.</p>
+<p>After an introduction by the project team, experts Melanie Lorenz and Kirsten Elger (GFZ Helmholtz Center for Geoscience Research) presented “Scholarly Literature &amp; Data Interlinking,” focusing on the Scholix standard that improves connections between scientific literature and research data. Beate Rajski and Oliver Goldschmidt (Hamburg University of Technology) presented “TUHH Open Research,” an integrated approach managing publications and research data in a single DSpace-CRIS-based system. Webinar participants then collaborated in thematic working groups, addressing common challenges between institutional Open Access repositories and research data as well as specific research data infrastructures. The presentation slides are available <a href="https://doi.org/10.5281/zenodo.15395748">online</a>.</p>
+<p>The guide consolidates these collective insights into practical recommendations organized around six essential areas for repository operations:</p>
+<section id="common-technical-solutions-for-text-and-research-data-repositories" class="level3">
+<h3 class="anchored" data-anchor-id="common-technical-solutions-for-text-and-research-data-repositories">1. Common Technical Solutions for Text and Research Data Repositories:</h3>
+<p>Participants identified the development of shared metadata schemas and metadata exchange between different systems as fundamental challenges. To address this, they recommended clearly defining use cases before making technical decisions, aligning requirements with established standards, and clarifying organizational aspects, such as certification and trust-building.</p>
+</section>
+<section id="interaction-between-text-and-data-repositories" class="level3">
+<h3 class="anchored" data-anchor-id="interaction-between-text-and-data-repositories">2. Interaction Between Text and Data Repositories:</h3>
+<p>Key challenges arise from responsibilities being distributed across different organizational units (e.g., library and computing center), interoperability of various components, and the management of large data volumes. Participants recommended precisely defining requirements to determine whether an integrated or modular system is best, implementing consistent user guidance to reduce complexity, and establishing clear workflows for metadata cataloging.</p>
+</section>
+<section id="metadata-standards-and-criteria-for-interoperability" class="level3">
+<h3 class="anchored" data-anchor-id="metadata-standards-and-criteria-for-interoperability">3. Metadata Standards and Criteria for Interoperability:</h3>
+<p>While the DataCite metadata schema is a widely adopted standard,handling domain-specific metadata in generic repositories presents a particular challenge. Proposed solutions included creating internal guidelines and documentation, prioritizing long-term preservation, and recommending strategies to ensure compatibility with domain-specific infrastructures.</p>
+</section>
+<section id="pids-for-research-data-sets" class="level3">
+<h3 class="anchored" data-anchor-id="pids-for-research-data-sets">4. PIDs for Research Data Sets:</h3>
+<p>Digital Object Identifiers (DOIs) and Handles have become established persistent identifiers for research data, while ORCID and ROR serve authors and institutions respectively. Participants recommended enhancing automation for metadata processes, using Data Stewards to raise researcher awareness, engaging with existing PID initiatives, and improving the usability of submission platforms.</p>
+</section>
+<section id="data-preparation-processes-and-metadata-maintenance" class="level3">
+<h3 class="anchored" data-anchor-id="data-preparation-processes-and-metadata-maintenance">5. Data Preparation Processes and Metadata Maintenance:</h3>
+<p>Continuous metadata maintenance proved to be a pressing challenge, particularly given limited time and staff. Participants emphasized that automation cannot replace the need for sufficient personnel. They recommended using controlled vocabularies and ROR links for institutional affiliations, and proposed integrating data literacy directly into university curricula.</p>
+</section>
+<section id="additional-challenges" class="level3">
+<h3 class="anchored" data-anchor-id="additional-challenges">6. Additional Challenges</h3>
+<p>Participants noted that metadata without curation is often of insufficient quality, significantly limiting discoverability and reusability. At the same time, researchers face time pressure and desire rapid publication. Proposed solutions included using AI to support metadata enrichment and quality control, assigning reserved DOIs, and aligning with NFDI (Nationale Forschungsdateninfrastruktur) developments to benefit from shared standards and expertise.</p>
+<hr>
+<p>This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for establishing effective publication and cost monitoring workflows within their institutions.</p>
+<p>We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.</p>
+<hr>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>.</p>
+<p>This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-matthias_forschungsdaten_2025" class="csl-entry">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, and Laura Rothfritz. 2025. <span>“Forschungsdaten: <span>Handlungsfeld</span> Für Institutionelle <span>Open</span>-<span>Access</span>-<span>Repositorien</span>. <span>Pro</span> <span>OAR</span> <span>DE</span> <span>Handreichung</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.17867213">https://doi.org/10.5281/zenodo.17867213</a>.
+</div>
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2026,
+  author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
+    Christopher and Rothfritz, Laura and Köster, Jannis},
+  title = {Forschungsdaten: {Handlungsfeld} Für Institutionelle
+    {Open-Access-Repositorien.} {Pro} {OAR} {DE} {Handreichung}},
+  date = {2026-01-13},
+  url = {https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-matthias2026" class="csl-entry quarto-appendix-citeas">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz,
+and Jannis Köster. 2026. <span>“Forschungsdaten: Handlungsfeld Für
+Institutionelle Open-Access-Repositorien. Pro OAR DE
+Handreichung.”</span> January 13, 2026. <a href="https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/">https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html</guid>
+  <pubDate>Mon, 12 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Virtual discussion: Requirements for a cooperative information infrastructure for the long-term availability of scholarly blogs</title>
   <dc:creator>Catharina Ochsner</dc:creator>
-  <link>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/</link>
+  <link>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -34,7 +111,7 @@
 <p><strong>The catalogue can be found and commented on here:</strong> <a href="https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing">To the catalogue</a></p>
 <p>We are looking forward to receiving comments and feedback until <strong>February, 27th 2026</strong>.</p>
 <p><strong>Program:</strong></p>
-<table class="caption-top table">
+<table class="table">
 <colgroup>
 <col style="width: 20%">
 <col style="width: 79%">
@@ -76,7 +153,7 @@
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
   author = {Ochsner, Catharina},
   title = {Virtual Discussion: {Requirements} for a Cooperative
     Information Infrastructure for the Long-Term Availability of
@@ -92,7 +169,7 @@ Scholarly Blogs.”</span> January 9, 2026. <a href="https://doi.org/10.59350/zz
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/</guid>
+  <guid>https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/index.html</guid>
   <pubDate>Thu, 08 Jan 2026 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2026-01-09-virtual-discussion-requirements-for-a-cooperative-information-infrastracture/Anforderungskatalog.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
@@ -101,9 +178,8 @@ Scholarly Blogs.”</span> January 9, 2026. <a href="https://doi.org/10.59350/zz
   <dc:creator>Lisa Matthias</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/</link>
+  <link>https://infomgnt.org/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -141,14 +217,14 @@ This strategic pivot has fostered direct collaborations with major repositories,
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-matthias_pro_2025" class="csl-entry">
 Matthias, Lisa, Kyle Demes, and Kathleen Shearer. 2025. <span>“Pro <span>OAR</span> <span>DE</span> <span>Virtual</span> <span>Networking</span> <span>Forum</span>: <span>Integration</span> of <span>Institutional</span> <span>Open</span> <span>Access</span> <span>Repositories</span> into the <span>Broader</span> <span>Open</span> <span>Science</span> <span>Landscape</span>,”</span> November. <a href="https://doi.org/10.5281/ZENODO.17582061">https://doi.org/10.5281/ZENODO.17582061</a>.
 </div>
 <div id="ref-rodrigues_case_2011" class="csl-entry">
 Rodrigues, Eloy, Abby Clobridge, and COAR Working Group 2: Repository Interoperability. 2011. <span>“The <span>Case</span> <span>For</span> <span>Interoperability</span> <span>For</span> <span>Open</span> <span>Access</span> <span>Repositories</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.12562">https://doi.org/10.5281/ZENODO.12562</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
   author = {Matthias, Lisa and Onzie Khamis, Christopher and Pampel,
     Heinz},
   title = {Integrating {Open} {Access} {Repositories} into the {Broader}
@@ -164,7 +240,7 @@ Science Landscape: OpenAlex and COAR.”</span> December 10, 2025. <a href="http
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/</guid>
+  <guid>https://infomgnt.org/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html</guid>
   <pubDate>Tue, 09 Dec 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/Blogpost_WS7.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -172,9 +248,8 @@ Science Landscape: OpenAlex and COAR.”</span> December 10, 2025. <a href="http
   <title>Neue Informations- und Lernmaterialien aus dem Projekt OA Datenpraxis</title>
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Sophia Dörner</dc:creator>
-  <link>https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/</link>
+  <link>https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -189,7 +264,7 @@ Science Landscape: OpenAlex and COAR.”</span> December 10, 2025. <a href="http
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/liber_guide.png" class="img-fluid figure-img"></p>
-<figcaption>Screenshot des LIBER Digital Scholarship &amp; Data Science Topic Guides “Open Access Monitoring and Open Research Information”</figcaption>
+<figcaption class="figure-caption">Screenshot des LIBER Digital Scholarship &amp; Data Science Topic Guides “Open Access Monitoring and Open Research Information”</figcaption>
 </figure>
 </div>
 <p>Beide Materialien, die Notebooks und der Digital Scholarship &amp; Data Science Topic Guide, liegen auf Englisch vor und sind unter einer freien Lizenz veröffentlicht.</p>
@@ -200,14 +275,14 @@ Science Landscape: OpenAlex and COAR.”</span> December 10, 2025. <a href="http
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-shelly_competency_2025" class="csl-entry">
 Shelly, Joshua, and Tobias Höhnow. 2025. <span>“Competency <span>Profiles</span> for the <span>Open</span> <span>Access</span> <span>Transformation</span>.”</span> <a href="https://doi.org/10.5281/zenodo.16979893">https://doi.org/10.5281/zenodo.16979893</a>.
 </div>
 <div id="ref-strecker_open_2025" class="csl-entry">
 Strecker, Dorothea, and Sophia Dörner. 2025. <span>“Open <span>Access</span> <span>Monitoring</span> and <span>Open</span> <span>Research</span> <span>Information</span>.”</span> Edited by Nora McGregor. LIBER. <a href="https://doi.org/10.23636/dwcn-x827">https://doi.org/10.23636/dwcn-x827</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea and Dörner, Sophia},
   title = {Neue {Informations-} Und {Lernmaterialien} Aus Dem {Projekt}
     {OA} {Datenpraxis}},
@@ -221,7 +296,7 @@ Und Lernmaterialien Aus Dem Projekt OA Datenpraxis.”</span> December 3,
 2025. <a href="https://doi.org/10.59350/z46ht-zm446">https://doi.org/10.59350/z46ht-zm446</a>.
 </div></div></section></div> ]]></description>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/</guid>
+  <guid>https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/index.html</guid>
   <pubDate>Tue, 02 Dec 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-12-03-neue-informations-und-lernmaterialien-aus-dem-projekt-oa-datenpraxis/liber_guide.png" medium="image" type="image/png" height="172" width="144"/>
 </item>
@@ -230,9 +305,8 @@ Und Lernmaterialien Aus Dem Projekt OA Datenpraxis.”</span> December 3,
   <dc:creator>Lisa Matthias</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/</link>
+  <link>https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -274,7 +348,7 @@ Und Lernmaterialien Aus Dem Projekt OA Datenpraxis.”</span> December 3,
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-noauthor_deepgreen_nodate" class="csl-entry">
 <span>“<span>DeepGreen</span>.”</span> n.d. Accessed August 18, 2025. <a href="https://info.oa-deepgreen.de/en/">https://info.oa-deepgreen.de/en/</a>.
 </div>
@@ -284,7 +358,7 @@ Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, and Laura Rothfritz. 202
 <div id="ref-matthias_pro_2025" class="csl-entry">
 Matthias, Lisa, Dirk Pieper, Julia Bartlewski, Colin Sippl, and Gernot Deinzer. 2025. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Publikations</span>- Und <span>Kostenmonitoring</span> Mit Institutionellen <span>Repositorien</span>,”</span> March. <a href="https://doi.org/10.5281/zenodo.15056242">https://doi.org/10.5281/zenodo.15056242</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
   author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
     Christopher},
   title = {New {Guide} on {Publication} and {Cost} {Monitoring} Through
@@ -300,7 +374,7 @@ Institutional Repositories.”</span> November 26, 2025. <a href="https://doi.or
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/</guid>
+  <guid>https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html</guid>
   <pubDate>Tue, 25 Nov 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/Blogpost_Monitoring_Handreichung.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -308,9 +382,8 @@ Institutional Repositories.”</span> November 26, 2025. <a href="https://doi.or
   <title>Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures</title>
   <dc:creator>Laura Rothfritz</dc:creator>
   <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/</link>
+  <link>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -327,7 +400,7 @@ Institutional Repositories.”</span> November 26, 2025. <a href="https://doi.or
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" class="img-fluid figure-img"></p>
-<figcaption>Laura Rothfritz presenting at the workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures”</figcaption>
+<figcaption class="figure-caption">Laura Rothfritz presenting at the workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures”</figcaption>
 </figure>
 </div>
 <p>Further information about our research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
@@ -337,7 +410,7 @@ Institutional Repositories.”</span> November 26, 2025. <a href="https://doi.or
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-jacksonRethinkingRepair2014a" class="csl-entry">
 Jackson, Steven J. 2014. <span>“Rethinking <span>Repair</span>.”</span> In <em>Media <span>Technologies</span></em>, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press. <a href="https://doi.org/10.7551/mitpress/9042.003.0015">https://doi.org/10.7551/mitpress/9042.003.0015</a>.
 </div>
@@ -350,7 +423,7 @@ Rubio, Fernando Domínguez. 2025. <span>“Introduction: <span>Avowing Fragility
 <div id="ref-noauthor_unesco_2021" class="csl-entry">
 <span>“<span>UNESCO</span> <span>Recommendation</span> on <span>Open</span> <span>Science</span>.”</span> 2021. UNESCO. <a href="https://doi.org/10.54677/MNMH8546">https://doi.org/10.54677/MNMH8546</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
   author = {Rothfritz, Laura and Strecker, Dorothea},
   title = {Workshop {Report:} {Resilience} in {Times} of {Crisis} -
     {Strengthening} {Open} {Science} {Against} {Geopolitical}
@@ -366,7 +439,7 @@ Geopolitical Pressures.”</span> November 19, 2025. <a href="https://doi.org/10
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/</guid>
+  <guid>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/index.html</guid>
   <pubDate>Tue, 18 Nov 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
@@ -375,9 +448,8 @@ Geopolitical Pressures.”</span> November 19, 2025. <a href="https://doi.org/10
   <dc:creator>Lisa Matthias</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-secondary-publication/</link>
+  <link>https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -422,7 +494,7 @@ Geopolitical Pressures.”</span> November 19, 2025. <a href="https://doi.org/10
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-Matthias.etal+shorttitle22+yearu" class="csl-entry">
 Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, and Laura Rothfritz. 2025. <span>“Zweitveröffentlichung: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.16810750">https://doi.org/10.5281/ZENODO.16810750</a>.
 </div>
@@ -432,7 +504,7 @@ Rothfritz, Laura, Lisa Matthias, Heinz Pampel, and Marcel Wrzesinski. 2025. <spa
 <div id="ref-Wrzesinski.etal+shorttitle22+yearq" class="csl-entry">
 Wrzesinski, Marcel, Sonja Härkönen, and Tomasz Stompor. 2025. <span>“Vernetzungsforum: Institutionelle Repositorien und Zweitveröffentlichung,”</span> January. <a href="https://doi.org/10.5281/ZENODO.14725629">https://doi.org/10.5281/ZENODO.14725629</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
   author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
     Christopher},
   title = {Institutional {Repositories} and {Secondary} {Publication:}
@@ -448,7 +520,7 @@ from Pro OAR DE.”</span> November 6, 2025. <a href="https://doi.org/10.59350/k
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-secondary-publication/</guid>
+  <guid>https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html</guid>
   <pubDate>Wed, 05 Nov 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-11-06-institutional-repositories-and-secondary-publication/Blogpost_Zweitveröffentlichung_Handreichung.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -460,9 +532,8 @@ from Pro OAR DE.”</span> November 6, 2025. <a href="https://doi.org/10.59350/k
   <dc:creator>Dorothea Strecker</dc:creator>
   <dc:creator>Bianca Schweighofer</dc:creator>
   <dc:creator>Gernot Deinzer</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/</link>
+  <link>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -492,11 +563,11 @@ from Pro OAR DE.”</span> November 6, 2025. <a href="https://doi.org/10.59350/k
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-pampel_praktiken_2025" class="csl-entry">
 Pampel, Heinz, Lisa-Marie Stein, Bernhard Mittermaier, Dorothea Strecker, Bianca Schweighofer, and Gernot Deinzer. 2025. <span>“Praktiken Und <span>Infrastrukturen</span> Des <span>Open</span>-<span>Access</span>-<span>Monitorings</span>.”</span> Konstanz. <a href="https://doi.org/10.5281/zenodo.17198826">https://doi.org/10.5281/zenodo.17198826</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Stein, Lisa-Marie and Mittermaier,
     Bernhard and Strecker, Dorothea and Schweighofer, Bianca and
     Deinzer, Gernot},
@@ -513,7 +584,7 @@ Strecker, Bianca Schweighofer, and Gernot Deinzer. 2025.
 Open-Access-Monitorings.”</span> October 27, 2025. <a href="https://doi.org/10.59350/g6jdg-ejp06">https://doi.org/10.59350/g6jdg-ejp06</a>.
 </div></div></section></div> ]]></description>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/</guid>
+  <guid>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/index.html</guid>
   <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/oat.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
@@ -524,9 +595,8 @@ Open-Access-Monitorings.”</span> October 27, 2025. <a href="https://doi.org/10
   <dc:creator>Björn Gebert</dc:creator>
   <dc:creator>Melanie Seltmann</dc:creator>
   <dc:creator>Ulrike Wuttke</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</link>
+  <link>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -557,7 +627,7 @@ Open-Access-Monitorings.”</span> October 27, 2025. <a href="https://doi.org/10
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-GWP" class="csl-entry">
 Forschungsgemeinschaft, Deutsche. 2025. <span>“Guidelines for <span>Safeguarding</span> <span>Good</span> <span>Research</span> <span>Practice</span>. <span>Code</span> of <span>Conduct</span>,”</span> January. <a href="https://doi.org/10.5281/zenodo.14281892">https://doi.org/10.5281/zenodo.14281892</a>.
 </div>
@@ -567,7 +637,7 @@ Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025. <sp
 <div id="ref-FAIR" class="csl-entry">
 Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The <span>FAIR</span> <span>Guiding</span> <span>Principles</span> for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (1): 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
   author = {Ochsner, Catharina and Pampel, Heinz and Gebert, Björn and
     Seltmann, Melanie and Wuttke, Ulrike},
   title = {Scholarly {Blogs} as an {Integral} {Part} of the {Open}
@@ -583,16 +653,15 @@ Open Access Landscape.”</span> October 7, 2025. <a href="https://doi.org/10.59
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</guid>
+  <guid>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/index.html</guid>
   <pubDate>Mon, 06 Oct 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Report from the BUA fellowship: Metadata flows in the context of research data</title>
   <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/</link>
+  <link>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -609,7 +678,7 @@ Open Access Landscape.”</span> October 7, 2025. <a href="https://doi.org/10.59
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-brainard_nih_nodate" class="csl-entry">
 Brainard, Jeffrey. n.d. <span>“<span>NIH</span> Details Options for Limiting Its Payments for Open-Access Publishing Fees.”</span> <em>Science News</em>. <a href="https://doi.org/10.1126/science.zrf8mfm">https://doi.org/10.1126/science.zrf8mfm</a>.
 </div>
@@ -625,7 +694,7 @@ Strecker, Dorothea. 2025. <span>“<span>BUA</span> Fellowship: <span>Metadata</
 <div id="ref-the_scholarly_communications_lab_shaking_2025" class="csl-entry">
 The Scholarly Communications Lab. 2025. <span>“Shaking up the Scholarly Publishing Market – <span>Why</span> Caps on <span>APCs</span> Could Backfire - <span>Impact</span> of <span>Social</span> <span>Sciences</span>.”</span> <em>LSE Impact Blog</em>. <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/">https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea},
   title = {Report from the {BUA} Fellowship: {Metadata} Flows in the
     Context of Research Data},
@@ -640,16 +709,15 @@ Metadata Flows in the Context of Research Data.”</span> October 3, 2025.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/</guid>
+  <guid>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/index.html</guid>
   <pubDate>Thu, 02 Oct 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/Desmarais_Building.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Panel Discussion to Kick Off the International Open Access Week 2025</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/</link>
+  <link>https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -677,7 +745,7 @@ Metadata Flows in the Context of Research Data.”</span> October 3, 2025.
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz},
   title = {Panel {Discussion} to {Kick} {Off} the {International} {Open}
     {Access} {Week} 2025},
@@ -691,16 +759,15 @@ International Open Access Week 2025.”</span> October 1, 2025. <a href="https:/
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/</guid>
+  <guid>https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/index.html</guid>
   <pubDate>Tue, 30 Sep 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/OAWeek2025.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Berlin – City of Open Knowledge for Academia, Administration, Civil Society &amp; Culture</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/</link>
+  <link>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -716,7 +783,7 @@ International Open Access Week 2025.”</span> October 1, 2025. <a href="https:/
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz},
   title = {Berlin – {City} of {Open} {Knowledge} for {Academia,}
     {Administration,} {Civil} {Society} \&amp; {Culture}},
@@ -731,16 +798,15 @@ Academia, Administration, Civil Society &amp; Culture.”</span> August
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/</guid>
+  <guid>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/index.html</guid>
   <pubDate>Thu, 21 Aug 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/berlin_stadt_des_offenen_wissens.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Interview on Deutschlandfunk Kultur About Belgian Ruling Against Shadow Libraries</title>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/</link>
+  <link>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -753,11 +819,11 @@ Academia, Administration, Civil Society &amp; Culture.”</span> August
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-deutschlandfunkkulturde_fitness_2025" class="csl-entry">
 deutschlandfunkkultur.de. 2025. <span>“Fitness <span>Tracker</span> Und <span>Co</span>: <span>Was</span> Passiert Mit Unseren Sensiblen <span>Daten</span>?”</span> <em>Deutschlandfunk Kultur</em>. <a href="https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html">https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz},
   title = {Interview on {Deutschlandfunk} {Kultur} {About} {Belgian}
     {Ruling} {Against} {Shadow} {Libraries}},
@@ -771,7 +837,7 @@ Belgian Ruling Against Shadow Libraries.”</span> August 13, 2025. <a href="htt
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/</guid>
+  <guid>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/index.html</guid>
   <pubDate>Tue, 12 Aug 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/interview-on-deutschlandfunk-kultur.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -786,9 +852,8 @@ Belgian Ruling Against Shadow Libraries.”</span> August 13, 2025. <a href="htt
   <dc:creator>Jürgen Rohrwild</dc:creator>
   <dc:creator>Robert Strötgen</dc:creator>
   <dc:creator>Christopher O. Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/</link>
+  <link>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -839,11 +904,11 @@ Herausforderungen: Disziplinenvielfalt, heterogene Strukturen</p>
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-arning_vom_2025" class="csl-entry">
 Arning, Ursula, Brigitte Grote, Gerald Jagusch, Heinz Pampel, Jürgen Rohrwild, Martin Spenger, Robert Strötgen, and Gesche Wahlen. 2025. <span>“Vom <span>Drittmittelprojekt</span> Über Die <span>Community</span> Zur Etablierten <span>Struktur</span> – <span>Erfahrungsaustausch</span> Und <span>Erarbeitung</span> von <span>Empfehlungen</span>.”</span> In. Bremen. <a href="https://nbn-resolving.org/urn:nbn:de:0290-opus4-194638">https://nbn-resolving.org/urn:nbn:de:0290-opus4-194638</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Arning, Ursula and Grote, Brigitte and
     Wahlen, Gesche and Jagusch, Gerald and Spenger, Martin and Rohrwild,
     Jürgen and Strötgen, Robert and O. Khamis, Christopher},
@@ -862,7 +927,7 @@ Bibliocon.”</span> August 8, 2025. <a href="https://doi.org/10.59350/b1n5j-rz6
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/</guid>
+  <guid>https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/index.html</guid>
   <pubDate>Thu, 07 Aug 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-08-08-bericht-ueber-ein-hands-on-lab-auf-der-113-bibliocon/hands_on_lab_vigo_2.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -873,9 +938,8 @@ Bibliocon.”</span> August 8, 2025. <a href="https://doi.org/10.59350/b1n5j-rz6
   <dc:creator>Laura Rothfritz</dc:creator>
   <dc:creator>Max Liebel</dc:creator>
   <dc:creator>Johanna Schielke</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/</link>
+  <link>https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -890,21 +954,21 @@ Bibliocon.”</span> August 8, 2025. <a href="https://doi.org/10.59350/b1n5j-rz6
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-1.jpg" class="img-fluid figure-img"></p>
-<figcaption><em>Visitors and team members in conversation at the puzzle installation (Credit: ECDF/PR/allefarben-foto)</em></figcaption>
+<figcaption class="figure-caption"><em>Visitors and team members in conversation at the puzzle installation (Credit: ECDF/PR/allefarben-foto)</em></figcaption>
 </figure>
 </div>
 <p>To enable this interaction, we fitted the nine laser-cut acrylic puzzle pieces with uniquely positioned magnets. These magnets interacted with Hall effect sensors embedded in the tabletop surface. Only correctly placed puzzle pieces aligned their magnet with a sensor, thus triggering the projection of the corresponding segment of the “data puzzle”. The sensors were connected to an <a href="https://www.arduino.cc/">Arduino microcontroller</a> running <a href="https://github.com/firmata/arduino">Firmata</a>, communicating sensor data to a host computer through serial connection. Processing of the sensor data and projection control were handled by the programmable multimedia toolkit <a href="https://vvvv.org/">vvvv beta</a>. The vvvv patch also included a GUI that allowed fine-tuning of the projection’s position and scale, ensuring proper alignment even if the projector was not mounted perfectly.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-2.jpg" class="img-fluid figure-img"></p>
-<figcaption><em>Model of the puzzle (Credit: ECDF/Friedrich Schmidgall)</em></figcaption>
+<figcaption class="figure-caption"><em>Model of the puzzle (Credit: ECDF/Friedrich Schmidgall)</em></figcaption>
 </figure>
 </div>
 <p>We tested the <a href="https://www.langenachtderwissenschaften.de/programm/detail/51432">object</a> in various research contexts. In the first version, we used an abstract example unrelated to a specific research project. During the trials, we found that explaining the interplay between people, projects, research data, infrastructures, and other resources of scholarly work often required concrete, real-world examples. In response, our second prototype used developments in CRISPR gene editing as a case study, which, while more engaging, highlighted specific challenges in communicating aspects of Open Science in the life sciences.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-3.jpg" class="img-fluid figure-img"></p>
-<figcaption><em>Model of the puzzle (Credit: ECDF/Friedrich Schmidgall)</em></figcaption>
+<figcaption class="figure-caption"><em>Model of the puzzle (Credit: ECDF/Friedrich Schmidgall)</em></figcaption>
 </figure>
 </div>
 <p>We ultimately selected the <a href="https://mosaic-expedition.org/">MOSAiC expedition</a> as the central example for our installation, the largest Arctic research expedition in history. Its relevance to climate research and the use of a large-scale research infrastructure, namely, research vessel Polarstern, offered an ideal context for conveying fundamental concepts of Information Management.</p>
@@ -913,7 +977,7 @@ Bibliocon.”</span> August 8, 2025. <a href="https://doi.org/10.59350/b1n5j-rz6
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-4jpg.jpg" class="img-fluid figure-img"></p>
-<figcaption><em>Visitors and team members in conversation at the puzzle installation (Credit: ECDF/PR/allefarben-foto)</em></figcaption>
+<figcaption class="figure-caption"><em>Visitors and team members in conversation at the puzzle installation (Credit: ECDF/PR/allefarben-foto)</em></figcaption>
 </figure>
 </div>
 <p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">website</a>.</p>
@@ -922,11 +986,11 @@ Bibliocon.”</span> August 8, 2025. <a href="https://doi.org/10.59350/b1n5j-rz6
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-pampel_wissenschaftliche_2025" class="csl-entry">
 Pampel, Heinz, Friedrich Schmidgall, Laura Rothfritz, Max Liebel, and Johanna Schielke. 2025. <span>“Wissenschaftliche <span>Ergebnisse</span> Offen Zugänglich Machen Durch <span>Information</span> <span>Management</span>. <span>Forschungspuzzle</span>.”</span> In. Berlin. <a href="https://www.langenachtderwissenschaften.de/programm/detail/51432">https://www.langenachtderwissenschaften.de/programm/detail/51432</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Schmidgall, Friedrich and Rothfritz, Laura
     and Liebel, Max and Schielke, Johanna},
   title = {Long {Night} of {Science} 2025: {Communicating} {Information}
@@ -943,7 +1007,7 @@ Information Management with a Data Puzzle on Open Science.”</span> July
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/</guid>
+  <guid>https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/index.html</guid>
   <pubDate>Wed, 30 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-31-Long-Night-of-Science-2025-Communicating-Information-Management-with-a-Data-Puzzle-on-Open-Science/data-puzzle-lndw-1.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -952,9 +1016,8 @@ Information Management with a Data Puzzle on Open Science.”</span> July
   <dc:creator>Lisa Matthias</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</link>
+  <link>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -997,14 +1060,14 @@ Information Management with a Data Puzzle on Open Science.”</span> July
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-matthias_forschungsinformationssysteme_2025" class="csl-entry">
 Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz, and Marcel Wrzesinski. 2025. <span>“Forschungsinformationssysteme (<span>CRIS</span>): <span>Handlungsfeld</span> Für Institutionelle <span>Open</span>-<span>Access</span>-<span>Repositorien</span>. <span>Pro</span> <span>OAR</span> <span>DE</span> <span>Handreichung</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.15800262">https://doi.org/10.5281/zenodo.15800262</a>.
 </div>
 <div id="ref-wrzesinski_pro_2024" class="csl-entry">
 Wrzesinski, Marcel, Daniel Beucke, and Malte Kramer. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>FIS</span>/<span>CRIS</span>,”</span> December. <a href="https://doi.org/10.5281/zenodo.14440151">https://doi.org/10.5281/zenodo.14440151</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
   author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
     Christopher},
   title = {Guide {Published:} {Interplay} of {Institutional}
@@ -1020,7 +1083,7 @@ CRIS.”</span> July 24, 2025. <a href="https://doi.org/10.59350/n4pnm-vwr12">ht
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</guid>
+  <guid>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html</guid>
   <pubDate>Wed, 23 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" medium="image" type="image/jpeg"/>
 </item>
@@ -1035,9 +1098,8 @@ CRIS.”</span> July 24, 2025. <a href="https://doi.org/10.59350/n4pnm-vwr12">ht
   <dc:creator>Catharina Ochsner</dc:creator>
   <dc:creator>Jonas Höfting</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</link>
+  <link>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1085,14 +1147,14 @@ CRIS.”</span> July 24, 2025. <a href="https://doi.org/10.59350/n4pnm-vwr12">ht
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-ochsner2025" class="csl-entry">
 Ochsner, Catharina, Elena Di Rosa, Martin Fenner, Sven Ködel, Heinz Pampel, Britta Woldering, Till Stadtbäumer, Charmaine Voigt, and Jonas Höfting. 2025. <span>“Bibliotheken Als Betreibende Und Bewahrende Institutionen Für Wissenschaftliche Blogs.”</span> In. <a href="https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690">https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690</a>.
 </div>
 <div id="ref-pampel2024" class="csl-entry">
 Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative Informationsinfrastruktur Für Wissenschaftliche Blogs (Infra Wiss Blogs).”</span> <em>Zenodo</em>, August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
   author = {Pampel, Heinz and Stadtbäumer, Till and Fenner, Martin and
     Ködel, Sven and Voigt, Charmaine and Woldering, Britta and Ochsner,
     Catharina and Höfting, Jonas and Onzie Khamis, Christopher},
@@ -1112,16 +1174,15 @@ the 113th Bibliocon.”</span> July 23, 2025. <a href="https://doi.org/10.59350/
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</guid>
+  <guid>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/index.html</guid>
   <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>BUA fellowship: Metadata flows in the context of research data</title>
   <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</link>
+  <link>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1143,7 +1204,7 @@ the 113th Bibliocon.”</span> July 23, 2025. <a href="https://doi.org/10.59350/
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-asok_common_2024" class="csl-entry">
 Asok, Kavya, Sushree Snigdha Dandpat, Dinesh K. Gupta, and Prashant Shrivastava. 2024. <span>“Common <span>Metadata</span> <span>Framework</span> for <span>Research</span> <span>Data</span> <span>Repository</span>: <span>Necessity</span> to <span>Support</span> <span>Open</span> <span>Science</span>.”</span> <em>Journal of Library Metadata</em> 24: 1–13. <a href="https://doi.org/10.1080/19386389.2024.2329370">https://doi.org/10.1080/19386389.2024.2329370</a>.
 </div>
@@ -1186,7 +1247,7 @@ Taylor, Shawna, Sarah Wright, Mikala R. Narlock, and Ted Habermann. 2022. <span>
 <div id="ref-wu_analysis_2023" class="csl-entry">
 Wu, Mingfang, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, and Nick Juty. 2023. <span>“An <span>Analysis</span> of <span>Crosswalks</span> from <span>Research</span> <span>Data</span> <span>Schemas</span> to <span>Schema</span>.org.”</span> <em>Data Intelligence</em> 5 (1): 100–121. <a href="https://doi.org/10.1162/dint_a_00186">https://doi.org/10.1162/dint_a_00186</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
   author = {Strecker, Dorothea},
   title = {BUA Fellowship: {Metadata} Flows in the Context of Research
     Data},
@@ -1200,7 +1261,7 @@ Context of Research Data .”</span> July 18, 2025. <a href="https://doi.org/10.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</guid>
+  <guid>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/index.html</guid>
   <pubDate>Thu, 17 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -1211,9 +1272,8 @@ Context of Research Data .”</span> July 18, 2025. <a href="https://doi.org/10.
   <dc:creator>Sabine von Mering</dc:creator>
   <dc:creator>Clara Schindler</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/</link>
+  <link>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1239,11 +1299,11 @@ Context of Research Data .”</span> July 18, 2025. <a href="https://doi.org/10.
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-10.3897/rio.10.e118851" class="csl-entry">
 von Mering, Sabine, Erik Stolze, Katja Kaiser, and Mareike Petersen. 2024. <span>“Sharing Data, Caring for Collections. <span>Open</span> Data on Collection Agents Affiliated with the <span>Museum</span> f<span>ü</span>r <span>Naturkunde Berlin</span>.”</span> <em>Research Ideas and Outcomes</em> 10: e118851. <a href="https://doi.org/10.3897/rio.10.e118851">https://doi.org/10.3897/rio.10.e118851</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
   author = {Rothfritz, Laura and Paß, Stefanie and von Mering, Sabine
     and Schindler, Clara and Pampel, Heinz},
   title = {Connecting {Knowledge} with {Wikidata:} {A} {Practical}
@@ -1260,7 +1320,7 @@ Practical Project with the Museum Für Naturkunde Berlin.”</span> July
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Teaching</category>
-  <guid>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/</guid>
+  <guid>https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/index.html</guid>
   <pubDate>Tue, 15 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-16-Connecting-Knowledge-with-Wikidata-a-practical-Project-with-the-Museum-fuer-Naturkunde-Berlin/mfn_visit.jpg" medium="image" type="image/jpeg"/>
 </item>
@@ -1269,9 +1329,8 @@ Practical Project with the Museum Für Naturkunde Berlin.”</span> July
   <dc:creator>Lisa Matthias</dc:creator>
   <dc:creator>Heinz Pampel</dc:creator>
   <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/</link>
+  <link>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -1312,14 +1371,14 @@ Practical Project with the Museum Für Naturkunde Berlin.”</span> July
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
 <div id="ref-matthias_preprints_2025" class="csl-entry">
 Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz, and Marcel Wrzesinski. 2025. <span>“Preprints: <span>Handlungsfeld</span> Für Institutionelle <span>Open</span>-<span>Access</span>-<span>Repositorien</span>. <span>Pro</span> <span>OAR</span> <span>DE</span> <span>Handreichung</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.15603096">https://doi.org/10.5281/zenodo.15603096</a>.
 </div>
 <div id="ref-wrzesinski_pro_2024" class="csl-entry">
 Wrzesinski, Marcel, Alexander Wagner, Lea-Maria Ferguson, and Marcel Meistring. 2024. <span>“Pro <span>OAR</span> <span>DE</span> <span>Vernetzungsforum</span>: <span>Institutionelle</span> <span>Repositorien</span> Und <span>Preprints</span>,”</span> November. <a href="https://doi.org/10.5281/zenodo.14185122">https://doi.org/10.5281/zenodo.14185122</a>.
 </div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2025,
   author = {Matthias, Lisa and Pampel, Heinz and Onzie Khamis,
     Christopher},
   title = {Networking for the {Advancement} of {Institutional} {Open}
@@ -1335,81 +1394,9 @@ Repositories in Germany.”</span> June 23, 2025. <a href="https://doi.org/10.59
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/</guid>
+  <guid>https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html</guid>
   <pubDate>Sun, 22 Jun 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/Blogpost_Preprint_Handreichung.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Recap: Infra Wiss Blogs Webinar on Rogue Scholar</title>
-  <dc:creator>Jonas Höfting</dc:creator>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="presentations" class="level2">
-<h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
-<p>On June 11, 2025, the webinar of the project <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> funded by the German Research Foundation (DFG) took place on the topic of “Blog archiving with Rogue Scholar using the example of WordPress hosted blogs”. The webinar highlighted the possibilities and challenges of archiving scholarly blogs. At its core was the presentation of <a href="https://rogue-scholar.org/">Rogue Scholar</a>, a platform for archiving scholarly blogs. Around 50 people took part. This blog post summarizes the key discussion points and findings from the webinar.</p>
-<p>After a welcome by <a href="https://heinzpampel.de/">Heinz Pampel</a>, <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">Catharina Ochsner</a> first introduced the topic of scholarly blogs. She introduced the basic concept of scholarly blogging, presented challenges of archiving blogs, and emphasized the importance of the long-term accessibility of scholarly blogs. <span class="citation" data-cites="ochsner_blogarchivierung_2025">(Ochsner and Pampel 2025)</span>.</p>
-<p>Martin Fenner (<a href="https://front-matter.io/team">Front Matter</a> then presented the functionality and possibilities of <a href="https://rogue-scholar.org/">Rogue Scholar</a>, a platform based on <a href="https://inveniosoftware.org/products/rdm/">Invenio RDM</a>, which is dedicated to archiving scholarly blogs. Rogue Scholar not only archives the content of the blogs, but also assigns Digital Object Identifiers (DOIs) for blog posts and ensures web archiving via the <a href="https://archive.org/about/">Internet Archive</a>. Currently, around 150 blogs and more than 40,000 posts are archived at Rogue Scholar. All blogs archived by Rogue Scholar are licensed under <a href="https://creativecommons.org/share-your-work/">Creative Commons</a> Attribution (CC-BY). To facilitate the archiving of blogs at Rogue Scholar, Martin Fenner made a number of recommendations, such as the use of a CC-BY license or the use of references in the blog posts <span class="citation" data-cites="fenner_blogarchivierung_2025">(Fenner 2025)</span>.</p>
-<p><img src="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" class="img-fluid"></p>
-<p>Afterwards, <a href="https://blog.dini.de/EPub_FIS/author/beucked/">Daniel Beucke</a> from the <a href="https://www02.sub.uni-goettingen.de/en/news/">Göttingen State and University Library (SUB)</a> and <a href="https://zfmedienwissenschaft.de/archiv/autorin/steiner-tobias">Tobias Steiner</a> shared their experiences with Rogue Scholar and the associated archiving of their scholarly blogs.</p>
-<p>Daniel Beucke contributed the perspective of the <a href="https://blog.dini.de/EPub_FIS/">DINI blog</a>, which has been reporting from the working groups of the <a href="https://dini.de/">German Initiative for Network Information (DINI)</a> since 2016. He emphasized the relevance of long-term availability and described the simple integration into Rogue Scholar. According to Beucke, a central challenge for the DINI blog is the high number of guest authors and their representation in the metadata <span class="citation" data-cites="beucke_anwenderperspektive_2025">(Beucke 2025)</span>. Tobias Steiner contributed his experience from two perspectives: He not only blogs privately on <a href="https://flavoursofopen.science/">Flavours of Open</a>, but is also an editor for the blog of the open access journal <a href="https://journals.sagepub.com/home/CST">Critical Studies in Television</a>, <a href="https://cstonline.net/">CSTonline</a> <span class="citation" data-cites="steiner_archivierung_2025">(Steiner 2025)</span>. Both blogs are archived on Rogue Scholar.</p>
-</section>
-<section id="discussion" class="level2">
-<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
-<p>In the final discussion, a number of themes and questions emerged, which are summarized here.</p>
-<p>A first central point of discussion was the use of CC licenses for scholarly blogs. As mentioned above, Rogue Scholar only archives blogs whose posts are published under a CC-BY license. CC-BY can be seen as the standard for open access publications, as this license entails few restrictions and also corresponds most closely to the scholarly citation practice. However, subsequent archiving can lead to complex situations if blog posts in community blogs have not yet been published under an open license. In such cases, all previous authors must be contacted in order to enable subsequent licensing. It is therefore recommended that both the blog and each individual post be clearly licensed in advance.</p>
-<p>Technical challenges were also discussed, such as dealing with multimedia content or comments in blogs. Unresolved issues became clear here. The role of scholarly blogs in the publication landscape was considered from several perspectives. Similarities between blog posts and pre-prints were highlighted. Martin Fenner reported on the first successful tests with peer review procedures for blog posts via the platform <a href="https://cms.metaror.org/">MetaROR</a> <span class="citation" data-cites="marcum_peer-review_2025">(Marcum 2025)</span>. The possibility of mapping corrections and retractions of blog posts was also discussed.</p>
-<p>In the context of archiving scholarlyblogs, the structural dependence on individual actors was identified as a problem. Two strategies for enabling long-term accessibility emerged from the discussion: firstly, the collective assumption of responsibility through community-supported infrastructures, and secondly, the institutional anchoring of blog offerings within established organizations.</p>
-</section>
-<section id="summary-and-outlook" class="level2">
-<h2 class="anchored" data-anchor-id="summary-and-outlook">Summary and outlook</h2>
-<p>The webinar provided insights into both the functioning of Rogue Scholar and the perspectives of its users. The positive response as well as the large number of questions and discussions illustrate the existing need within the scholarly community. At the same time, it became clear that projects such as Infra Wiss Blogs can make an important contribution to structuring discourse on cooperative solutions for digital preservation.</p>
-<p>We would like to thank all speakers and participants for their contributions and the insightful discussions. The slide sets of the speakers are available in the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Community of the Chair of Information Management on Zenodo</a>. We communicate updates on the project and other events via this blog, the <a href="https://infrawissblogs.org/">project blog</a> and the project’s <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>.</p>
-<p>Further information about our group can be found on the <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labeled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-beucke_anwenderperspektive_2025" class="csl-entry">
-Beucke, Daniel. 2025. <span>“Anwenderperspektive: <span>DINI</span>-Blog.”</span> <a href="https://doi.org/10.5281/zenodo.15640226">https://doi.org/10.5281/zenodo.15640226</a>.
-</div>
-<div id="ref-fenner_blogarchivierung_2025" class="csl-entry">
-Fenner, Martin. 2025. <span>“Blogarchivierung von <span>WordPress</span> Mit Rogue Scholar.”</span> <a href="https://doi.org/10.5281/zenodo.15640360">https://doi.org/10.5281/zenodo.15640360</a>.
-</div>
-<div id="ref-marcum_peer-review_2025" class="csl-entry">
-Marcum, Christopher Steven. 2025. <span>“Peer-Review for a Blog Post? My Experience with <span>MetaROR</span>.”</span> <em>Upstream</em>, April. <a href="https://doi.org/10.54900/bymaz-4fw37">https://doi.org/10.54900/bymaz-4fw37</a>.
-</div>
-<div id="ref-ochsner_blogarchivierung_2025" class="csl-entry">
-Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Blogarchivierung Mit Rogue Scholar Am Beispiel von <span>WordPress</span> Gehosteten Blogs.”</span> <a href="https://doi.org/10.5281/zenodo.15640371">https://doi.org/10.5281/zenodo.15640371</a>.
-</div>
-<div id="ref-steiner_archivierung_2025" class="csl-entry">
-Steiner, Tobias. 2025. <span>“Archivierug von Blogs in Rogue Scholar – Zwei Beispiele Aus Der Community.”</span> <a href="https://doi.org/10.5281/zenodo.15640396">https://doi.org/10.5281/zenodo.15640396</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2025,
-  author = {Höfting, Jonas and Ochsner, Catharina and Pampel, Heinz},
-  title = {Recap: {Infra} {Wiss} {Blogs} {Webinar} on {Rogue} {Scholar}},
-  date = {2025-06-19},
-  url = {https://doi.org/10.59350/5azm1-a0n89},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2025" class="csl-entry quarto-appendix-citeas">
-Höfting, Jonas, Catharina Ochsner, and Heinz Pampel. 2025. <span>“Recap:
-Infra Wiss Blogs Webinar on Rogue Scholar.”</span> June 19, 2025. <a href="https://doi.org/10.59350/5azm1-a0n89">https://doi.org/10.59350/5azm1-a0n89</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/</guid>
-  <pubDate>Wed, 18 Jun 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-06-19-Recap-Infra-Wiss-Blogs-Webinar-on-Rogue-Scholar/webinar_infrawissblogs.png" medium="image" type="image/png" height="94" width="144"/>
 </item>
 </channel>
 </rss>

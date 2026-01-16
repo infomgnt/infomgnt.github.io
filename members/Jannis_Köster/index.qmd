@@ -1,0 +1,24 @@
+---
+title: "Jannis Köster" 
+url: https://infomgnt.org/members/jannis-köster
+description: Jannis Köster is a student assistant at the Department of Information Management...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Jannis Köster"
+image: Jannis_Köster_Profile.jpeg
+---
+
+![](Jannis_Köster_Profile.jpeg){fig-align="left"}
+
+![](orcid_icon.png) <https://orcid.org/0009-0003-4704-3948>
+
+Jannis Köster is a student assistant at the Department of Information Management since 2025. He has been studying Library and Information Science in combination with educational sciences since 2023.
+
+[Profil](https://www.ibi.hu-berlin.de/de/institut/personen/koester) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Jannis Köster's Blogposts:

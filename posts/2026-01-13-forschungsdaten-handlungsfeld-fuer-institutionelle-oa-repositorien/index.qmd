@@ -1,0 +1,88 @@
+---
+title: "Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung"
+author:
+- name: Lisa Matthias
+  url: https://infomgnt.org/members/Lisa_Matthias/
+  orcid: 0000-0002-2612-2132
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/matthias
+- name: Heinz Pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) & Helmholtz Association, Helmholtz Open Science Office
+  affiliation-url: https://hu-berlin.de/infomgnt
+- name: Christopher Onzie Khamis
+  url: https://infomgnt.org/members/Christopher_Onzie_Khamis/
+  orcid: 0009-0003-0654-2839
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/khamis
+- name: Laura Rothfritz
+  url: https://infomgnt.org/members/Laura_Rothfritz/
+  orcid: https://orcid.org/0000-0001-7525-0635
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/rothfritz
+- name: Jannis Köster
+  url: https://infomgnt.org/members/Jannis_Köster/
+  orcid: 0009-0003-4704-3948
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/koester 
+date: "2026-01-13"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/
+image: Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg
+bibliography: Handlungsfeld_für_institutionelle_Open-Access-Repositorien.Pro_OAR_DE_Handreichung.bib
+---
+
+We are pleased to announce the publication of a new guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung” (available in German only).
+
+Matthias, L., Pampel, H., Khamis, C. O., & Rothfritz, L. (2025). Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung. Zenodo. <https://doi.org/10.5281/zenodo.17867213>
+
+![](Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg)
+
+This guideline summarizes the outcomes of the fifth networking forum on "Institutional Repositories and Research Data," held on May 12, 2025, which brought together over 100 Open Access professionals from across Germany.
+
+After an introduction by the project team, experts Melanie Lorenz and Kirsten Elger (GFZ Helmholtz Center for Geoscience Research) presented "Scholarly Literature & Data Interlinking," focusing on the Scholix standard that improves connections between scientific literature and research data. Beate Rajski and Oliver Goldschmidt (Hamburg University of Technology) presented "TUHH Open Research," an integrated approach managing publications and research data in a single DSpace-CRIS-based system. Webinar participants then collaborated in thematic working groups, addressing common challenges between institutional Open Access repositories and research data as well as specific research data infrastructures. The presentation slides are available [online](https://doi.org/10.5281/zenodo.15395748).
+
+The guide consolidates these collective insights into practical recommendations organized around six essential areas for repository operations:
+
+### 1. Common Technical Solutions for Text and Research Data Repositories:
+
+Participants identified the development of shared metadata schemas and metadata exchange between different systems as fundamental challenges. To address this, they recommended clearly defining use cases before making technical decisions, aligning requirements with established standards, and clarifying organizational aspects, such as certification and trust-building.
+
+### 2. Interaction Between Text and Data Repositories:
+
+Key challenges arise from responsibilities being distributed across different organizational units (e.g., library and computing center), interoperability of various components, and the management of large data volumes. Participants recommended precisely defining requirements to determine whether an integrated or modular system is best, implementing consistent user guidance to reduce complexity, and establishing clear workflows for metadata cataloging.
+
+### 3. Metadata Standards and Criteria for Interoperability:
+
+While the DataCite metadata schema is a widely adopted standard,handling domain-specific metadata in generic repositories presents a particular challenge. Proposed solutions included creating internal guidelines and documentation, prioritizing long-term preservation, and recommending strategies to ensure compatibility with domain-specific infrastructures.
+
+### 4. PIDs for Research Data Sets:
+
+Digital Object Identifiers (DOIs) and Handles have become established persistent identifiers for research data, while ORCID and ROR serve authors and institutions respectively. Participants recommended enhancing automation for metadata processes, using Data Stewards to raise researcher awareness, engaging with existing PID initiatives, and improving the usability of submission platforms.
+
+### 5. Data Preparation Processes and Metadata Maintenance:
+
+Continuous metadata maintenance proved to be a pressing challenge, particularly given limited time and staff. Participants emphasized that automation cannot replace the need for sufficient personnel. They recommended using controlled vocabularies and ROR links for institutional affiliations, and proposed integrating data literacy directly into university curricula.
+
+### 6. Additional Challenges
+
+Participants noted that metadata without curation is often of insufficient quality, significantly limiting discoverability and reusability. At the same time, researchers face time pressure and desire rapid publication. Proposed solutions included using AI to support metadata enrichment and quality control, assigning reserved DOIs, and aligning with NFDI (Nationale Forschungsdateninfrastruktur) developments to benefit from shared standards and expertise.
+
+------------------------------------------------------------------------
+
+This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for establishing effective publication and cost monitoring workflows within their institutions.
+
+We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.
+
+------------------------------------------------------------------------
+
+For more information about Pro OAR DE and our upcoming activities, please visit our [website](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de).
+
+This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.
+
+---
+nocite: |
+  @*
+---
