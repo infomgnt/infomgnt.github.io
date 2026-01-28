@@ -29,7 +29,7 @@ author:
 date: "2026-01-13"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/
+  url: https://doi.org/10.59350/wnkj9-agn74 
 image: Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg
 bibliography: Handlungsfeld_für_institutionelle_Open-Access-Repositorien.Pro_OAR_DE_Handreichung.bib
 ---
