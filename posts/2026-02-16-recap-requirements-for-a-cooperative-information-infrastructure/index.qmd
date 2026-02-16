@@ -1,0 +1,47 @@
+---
+title: "Recap: Requirements for a Cooperative Information Infrastructure for the Long-term Accessibility of Scholarly Blogs"
+author:
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.hu-berlin.de/de
+- name: Max Liebel
+  url: https://infomgnt.org/members/Max_Liebel/
+  orcid: 0009-0002-7979-0238
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/liebel/dienstangaben 
+- name: Jannis Köster
+  url: https://infomgnt.org/members/Jannis_Köster/
+  orcid: 0009-0003-4704-3948
+  affiliation:  Humboldt-Universität zu Berlin, Berlin School of Library and Information Science 
+  affiliation-url: https://www.ibi.hu-berlin.de/de/institut/personen/koester  
+date: "2026-02-16"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2026-01-16-recap-requirements-for-a-cooperative-information-infrastructure/
+image: Anforderungskatalog_slides.png
+bibliography: references_anforderungskatalog.bib
+---
+
+![](Anforderungskatalog_slides.png)
+
+Scholarly blogs enable researchers to communicate their research results and research-related topics quickly and openly, initiate discussions and promote dialogue among colleagues and also between scholars and society. However, compared to traditional forms of scientific output, like journal articles, conference proceedings or monographs, blogs are not yet integrated into digital research and information infrastructures. This lack of integration poses the risk of information loss [@ochsner2025].
+
+To address these issues, as part of the [Infra Wiss Blogs](https://infrawissblogs.org/) project, we held a virtual discussion bringing together bloggers and experts from information infrastructure institutions. The goal was to present and discuss the in the project developed [catalogue of requirements](https://docs.google.com/document/d/1ckTCisliAciC574pf7kkl1RiTVMMCdN_0wkkluJcofo/edit?usp=sharing) for a cooperative information infrastructure regarding the long-term availability of scholarly blogs. The catalogue was based on 13 qualitative interviews with German scholarly bloggers, aimed at identifying their requirements for an information infrastructure for the long-term preservation of scholarly blogs. The discussion took place in two rounds. First, bloggers and representatives of infrastructure institutions were able to discuss the catalogue with their respective peers, followed by a discussion in plenary.
+
+## Bloggers
+
+From the bloggers’ perspective, the discussion focused strongly on usability, legal clarity, and lowering barriers to participation. Many participants emphasized the need for clearer and more practical guidance on metadata integration. While metadata is widely recognized as essential for discoverability and preservation, bloggers often lack concrete instructions and standardized templates. There was a strong desire for predefined metadata schemas, clear explanations of required versus optional fields, and technical solutions, such as plugins, that could automate parts of the metadata workflow. Bloggers also asked for support on the subject of licenses. Additionally, Participants brought up that archiving comments would be a challenge, since the commentator’s consent would need to be required.
+
+## Information Infrastructure
+
+Infrastructure experts focused on technical and legal constraints. One key issue was versioning: it remains unclear when a change to a blog or post should count as a new version and whether versioning should happen at the level of individual posts or entire blogs. Additionally, versioning is not yet an established practice for bloggers. Participants agreed that feeds and protocols such as RSS or ActivityPub function mainly as distribution tools and are not suitable for versioning or preservation. Instead, archiving and version control should take place within the blog’s backend or content management system. Legal concerns were especially pronounced for comments, as archiving content from many different authors without clear licenses is difficult. In practice, this often requires contacting authors individually, which is rarely scalable.
+
+## Plenary
+
+In the plenary discussion, participants debated the role of libraries. Some argued that libraries could take on a stronger publishing role by hosting blogs, managing licenses, and assigning identifiers such as digital object identifiers (DOIs). Others favored a more limited role in which libraries provide technical infrastructure while leaving editorial responsibility with bloggers. It was also noted that institutional bureaucracy often discourages bloggers from using institutionally hosted solutions. One participant emphasized that the decentralised nature of blogs is already a strength, rather than a weakness. They proposed that there is no need for new inventions, but rather that there is a great potential to reuse and extend existing infrastructures. To conclude, rather than aiming for perfect solutions, participants agreed that simplifying processes and lowering entry barriers should be the highest priority. We will use this feedback to update the catalogue of requirements that can be commented on until **February, 27th 2026**. Updates on the publication of the revised catalogue will be published in English on our [research group blog](http://hu.berlin/infomgnt) and in German on the [project’s blog](https://infrawissblogs.org/). The presentation associated with the event can be found [here](https://doi.org/10.5281/zenodo.18537453) [@ochsner2026].
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
