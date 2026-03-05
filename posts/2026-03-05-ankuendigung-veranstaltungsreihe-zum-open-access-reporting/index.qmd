@@ -14,7 +14,7 @@ author:
 date: "2026-03-05"
 categories: [Research]
 citation:
-  url: https://infomgnt.org/posts/2026-03-05-ankuendigung-veranstaltungsreihe-zum-open-access-reporting/
+  url: https://doi.org/10.59350/0n9ar-13970 
 image: compass-on-map.jpg
 bibliography: references.bib
 ---
