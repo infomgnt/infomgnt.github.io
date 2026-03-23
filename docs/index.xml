@@ -10,7 +10,99 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 04 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>New Guide on Institutional Repositories and Compliance with Funding Requirements</title>
+  <dc:creator>Lisa Matthias</dc:creator>
+  <dc:creator>Christopher Onzie Khamis</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are pleased to announce the publication of our sixth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien” (available in German only).</p>
+<p>Matthias, L., Pampel, H., Khamis, C. O., &amp; Rothfritz, L. (2025). <em>Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.</em> Zenodo. <a href="https://doi.org/10.5281/zenodo.18085346" class="uri">https://doi.org/10.5281/zenodo.18085346</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/Blogpost_Compliance_Handreichung.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>This guide documents the outcomes of our networking forum “Institutionelle Repositorien und Compliance mit Förderbedingungen” (Institutional Repositories and Compliance with Funding Requirements) held on July 7, 2025, with nearly 100 Open Access professionals from across Germany. Drawing on the collaborative work of participants, the guide offers concrete, practice-oriented recommendations for strengthening compliance with funder requirements through institutional Open Access repositories.</p>
+<p>Experts Michael Geuenich (Deutsche Forschungsgemeinschaft) and Anna Pelagotti (European Research Council Executive Agency) outlined current German national and European funding requirements and discussed their implications for repository infrastructures. Building on these insights, participants collaborated in thematic groups to exchange institutional experiences and develop practical solutions to shared challenges. Presentation slides from the forum are available <a href="https://zenodo.org/records/15831828">online</a>.</p>
+<p>The guide synthesizes these collective insights into practical recommendations organized around five central areas for institutional repository management in the context of compliance with funder requirements.</p>
+<section id="requirements" class="level2">
+<h2 class="anchored" data-anchor-id="requirements">Requirements</h2>
+<p>Participants identified the dynamic development of compliance criteria as a central challenge. Funder requirements evolve continuously and therefore demand ongoing monitoring. Clear assignment of responsibilities within institutions was highlighted as essential, particularly in complex organizational environments where libraries, IT services, research support units, and administrative departments all play a role.</p>
+<p>Communication emerged as another key issue. Ensuring that compliance requirements are correctly understood and implemented depends on effective exchange between researchers and infrastructure providers, but equally between content experts and technical staff. Limited financial and personnel resources further intensify the need for prioritization and transparent workflows. Participants also emphasized the value of institutional publication policies as binding reference points, provided their concrete benefits for researchers are clearly communicated.</p>
+<p>On the infrastructure side, participants suggested establishing repository content curation as a dedicated service. This could be implemented, for example, through specialized roles such as data stewards. In addition, the introduction of automated checks for compliance requirements was considered a particularly effective approach. As initial steps, participants recommended centrally collecting best practices and bringing in advocates, such as data champions, to share expertise across the institution.</p>
+</section>
+<section id="researcher-consultation" class="level2">
+<h2 class="anchored" data-anchor-id="researcher-consultation">Researcher Consultation</h2>
+<p>Advising researchers on compliance requirements presents multiple challenges. Participants highlighted the difficulty of determining the compliance status of their own repositories in the absence of universally accepted standards. In addition, requirements vary considerably between funders and projects, adding another layer of complexity.</p>
+<p>Reaching researchers at the right moment remains a persistent obstacle. General information events are often poorly attended, and researchers may engage only selectively with available support services. Recommending suitable repositories brings its own difficulties, as existing certificates and quality labels offer only partial guidance and tend to be limited to specific content types.</p>
+<p>In response, participants recommended using established orientation tools such as the <a href="https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf">DFG whitelist</a> for subject repositories and the <a href="https://www.nature.com/articles/s41597-020-0486-7">TRUST</a> principles for digital repositories. For day-to-day advisory work, strategic questions can help structure consultations effectively, in particular, identifying the precise level at which funder requirements are defined, such as whether the level of the funder, the program, or the individual call. This approach can help uncover information that is not publicly documented.</p>
+</section>
+<section id="technical-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="technical-solutions">Technical Solutions</h2>
+<p>At the technical level, compliance and interoperability present a set of challenges. European funding programs often impose stricter requirements than German national schemes, particularly regarding metadata standards, persistent identifiers, and repository trustworthiness.</p>
+<p>Practical challenges include implementing specific metadata fields, ensuring Persistent Identifier (PID) assignment, enabling indexing in relevant discovery services, managing large data uploads, and establishing robust rights and roles management. Cost-related information may be recorded in different systems, inside or outside the repository, further increasing complexity.</p>
+<p>Participants recommended several approaches to navigate these challenges. Certifications can serve as a useful step toward compliance, while narrowing repository use cases helps ensure feasibility. Market analyses of available software solutions, including realistic assessments of costs and personnel resources, were seen as essential groundwork. Cooperation with partner institutions emerged as a particularly promising strategy, offering opportunities to improve interoperability and distribute development efforts more sustainably.</p>
+</section>
+<section id="diversity-of-publication-formats" class="level2">
+<h2 class="anchored" data-anchor-id="diversity-of-publication-formats">Diversity of Publication Formats</h2>
+<p>The growing diversity of scholarly outputs significantly complicates compliance with funder requirements. Participants pointed to conceptual ambiguities surrounding the definition of repositories and publications, particularly in relation to research data and non-textual outputs. Different funders apply different standards, making general harmonization difficult.</p>
+<p>Research data as a publication type introduces its own set of demands. Metadata requirements increase, machine readability becomes a factor, and linking publications with associated datasets poses real practical difficulties, particularly when Persistent Identifiers are not yet available at the time of initial publication. Further complexity arises from formats such as posters, workshop reports, and Open Educational Resources.</p>
+<p>Responsibilities for repository operation and compliance support are often poorly defined, especially where text publications and research data fall under different organizational units. Participants emphasized the importance of transparent coordination structures and regular communication. Distributed advisory models with discipline-specific working groups were recommended, alongside the strategic use of external expertise such as Nationale Forschungsdateninfrastruktur (NFDI) helpdesks.</p>
+</section>
+<section id="additional-challenges" class="level2">
+<h2 class="anchored" data-anchor-id="additional-challenges">Additional Challenges</h2>
+<p>Beyond the areas already mentioned, participants raised additional challenges. European requirements for depositing research data in “trusted repositories” remain difficult to interpret in practice. The assignment of new Digital Object Identifiers (DOIs) during secondary publication can confuse researchers and make it harder to identify project-related outputs, particularly in the context of EU-funded research.</p>
+<p>Insufficient incentives for researchers to provide complete funding information were also highlighted. Where funding acknowledgements are inconsistent or missing, both compliance and reporting suffer. Participants therefore stressed the importance of controlled project lists and standardized interfaces that make it easy for researchers to reference their funded projects accurately.</p>
+<p>Visibility matters too. Continuous communication about available services is essential for promoting repository use and driving uptake, and a coherent outreach strategy can make a significant difference. Participants also articulated expectations toward funders and policy actors — above all, the provision of standardized project lists and APIs to support automated workflows and reduce administrative burden on institutions.</p>
+<p>This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for establishing effective workflows within their institutions.</p>
+<p>We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.</p>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>. This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-deutsche_forschungsgemeinschaft_dfg-whitelist_2024" class="csl-entry">
+Forschungsgemeinschaft, Deutsche. 2024. <span>“<span>DFG</span>-Whitelist Für Fachspezifische Repositorien.”</span> <span>DFG</span>. <a href="https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf">https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf</a>.
+</div>
+<div id="ref-lin_trust_2020" class="csl-entry">
+Lin, Dawei, Jonathan Crabtree, Ingrid Dillo, Robert R. Downs, Rorie Edmunds, David Giaretta, Marisa De Giusti, et al. 2020. <span>“The <span>TRUST</span> Principles for Digital Repositories.”</span> <em>Scientific Data</em> 7 (1): 144. <a href="https://doi.org/10.1038/s41597-020-0486-7">https://doi.org/10.1038/s41597-020-0486-7</a>.
+</div>
+<div id="ref-matthias_pro_2025" class="csl-entry">
+Matthias, Lisa, Michael Geuenich, and Anna Pelagotti. 2025. <span>“Pro <span>OAR</span> <span>DE</span> Vernetzungsforum: Institutionelle Repositorien Und Compliance Mit Förderbedingungen,”</span> July. <a href="https://doi.org/10.5281/ZENODO.15831828">https://doi.org/10.5281/ZENODO.15831828</a>.
+</div>
+<div id="ref-matthias_compliance_2025" class="csl-entry">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, and Laura Rothfritz. 2025. <span>“Compliance Mit Förderbedingungen: Handlungsfeld Für Institutionelle Open-Access-Repositorien. Pro <span>OAR</span> <span>DE</span> Handreichung.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.18085346">https://doi.org/10.5281/ZENODO.18085346</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2026,
+  author = {Matthias, Lisa and Onzie Khamis, Christopher and Pampel,
+    Heinz},
+  title = {New {Guide} on {Institutional} {Repositories} and
+    {Compliance} with {Funding} {Requirements}},
+  date = {2026-03-23},
+  url = {https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-matthias2026" class="csl-entry quarto-appendix-citeas">
+Matthias, Lisa, Christopher Onzie Khamis, and Heinz Pampel. 2026.
+<span>“New Guide on Institutional Repositories and Compliance with
+Funding Requirements.”</span> March 23, 2026. <a href="https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/">https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/</guid>
+  <pubDate>Sun, 22 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/Blogpost_Compliance_Handreichung.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Ankündigung: Veranstaltungsreihe zum Open-Access-Reporting</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1318,94 +1410,6 @@ the 113th Bibliocon.”</span> July 23, 2025. <a href="https://doi.org/10.59350/
   <guid>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</guid>
   <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>BUA fellowship: Metadata flows in the context of research data</title>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" class="img-fluid"></p>
-<p>In my PhD research, I investigate how metadata for research data are generated and maintained. I have started by analyzing how metadata records of the DOI registration agency DataCite change over time <span class="citation" data-cites="strecker_changes_2024 strecker_how_2024">(Strecker 2024a, 2024b)</span>. Recently, I was awarded a grant by the Berlin University Alliance (BUA) - through the <a href="https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html">BUA Fellowship Program of the Objective 3 - Advancing Research Quality and Value</a>. This grant will allow me to visit Stefanie Haustein, associate professor at the School of Information Studies at the University of Ottawa and co-director of the <a href="https://www.scholcommlab.ca">ScholCommLab</a>. During my stay, I will investigate metadata flows in the context of research data. In particular, I will examine the transfer of metadata from local to global contexts.</p>
-<section id="metadata-flows-in-the-context-of-research-data" class="level3">
-<h3 class="anchored" data-anchor-id="metadata-flows-in-the-context-of-research-data">Metadata flows in the context of research data</h3>
-<p>Research data are typically deposited in research data repositories - infrastructures that specialize in handling this resource type. Metadata describing the datasets are also generated and maintained at these infrastructures. Numerous standards - metadata schemas - are used to describe research data <span class="citation" data-cites="asok_common_2024 koshoffer_giving_2018">(Asok et al. 2024; Koshoffer et al. 2018)</span>. Even within a discipline, the use of metadata schemas is not uniform <span class="citation" data-cites="mayernik_role_2022">(Mayernik and Liapich 2022)</span>. This variance arises because research data repositories create metadata for different use cases. On the one hand, metadata are needed to describe research data in a general and homogeneous way - for example, to enable data discovery in large search services. On the other hand, researchers need subject-specific metadata in order to be able to make an informed decision about whether they want to reuse a dataset <span class="citation" data-cites="de_vries_flexible_2022 doran_reconciling_2021 sostek_discovering_2024">(De Vries et al. 2022; Doran, Edmond, and Nugent-Folan 2021; Sostek et al. 2024)</span>. In order to cover this range of requirements, many research data repositories use several metadata schemas in parallel, e.g.&nbsp;the general DataCite metadata schema for DOI registration and a specialized schema adressing the needs of local users <span class="citation" data-cites="habermann_connecting_2023 lee_landscape_2019 wu_analysis_2023">(Habermann 2023; Lee and Jeng 2019; Wu et al. 2023)</span>. In research data repositories, metadata are often initially generated based on a locally implemented, specific metadata schema. Metadata are then mapped to a general schema to meet global requirements such as DOI registration or harvesting <span class="citation" data-cites="habermann_connecting_2023">(Habermann 2023)</span>. During these mapping processes, however, information from the original comprehensive description can be lost <span class="citation" data-cites="radio_manifestations_2017 taylor_think_2022">(Radio et al. 2017; Taylor et al. 2022)</span>. As a result, metadata lose completeness when they are transferred from local to global contexts <span class="citation" data-cites="mayernik_role_2022">(Mayernik and Liapich 2022)</span>.</p>
-<p>During the fellowship, I will investigate metadata flows from research data repositories to DataCite. The aim is to determine whether information that is missing in DataCite metadata are also missing in local contexts or would be available but are not transmitted.</p>
-</section>
-<section id="why-this-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-this-matters">Why this matters</h3>
-<p>Complete metadata are necessary to convey the context of research data. This is relevant for many interactions with research data, including discovery, reuse and citation. Bibliometric research in particular is hindered by incomplete metadata, as is the development of metrics that are intended to reflect the impact of research data <span class="citation" data-cites="ninkov_datasets_2021">(Ninkov et al. 2021)</span>. This research will assess the potential of an approach to improve metadata quality - the optimization of mappings to the DataCite metadata schema.</p>
-<p>Further information about our research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-asok_common_2024" class="csl-entry">
-Asok, Kavya, Sushree Snigdha Dandpat, Dinesh K. Gupta, and Prashant Shrivastava. 2024. <span>“Common <span>Metadata</span> <span>Framework</span> for <span>Research</span> <span>Data</span> <span>Repository</span>: <span>Necessity</span> to <span>Support</span> <span>Open</span> <span>Science</span>.”</span> <em>Journal of Library Metadata</em> 24: 1–13. <a href="https://doi.org/10.1080/19386389.2024.2329370">https://doi.org/10.1080/19386389.2024.2329370</a>.
-</div>
-<div id="ref-de_vries_flexible_2022" class="csl-entry">
-De Vries, Jerry, Vyacheslav Tykhonov, Andrea Scharnhorst, Eko Indarto, Femmy Admiraal, and Mike Priddy. 2022. <span>“Flexible <span>Metadata</span> <span>Schemes</span> for <span>Research</span> <span>Data</span> <span>Repositories</span>.<span>The</span> <span>Common</span> <span>Framework</span> in <span>Dataverse</span> and the <span>CMDI</span> <span>Use</span> <span>Case</span>.”</span> In, 168–80. <a href="https://doi.org/10.3384/ecp18915">https://doi.org/10.3384/ecp18915</a>.
-</div>
-<div id="ref-doran_reconciling_2021" class="csl-entry">
-Doran, Michelle, Jennifer Edmond, and Georgina Nugent-Folan. 2021. <span>“Reconciling the <span>Cultural</span> <span>Complexity</span> of <span>Research</span> <span>Data</span>: <span>Can</span> We <span>Make</span> <span>Data</span> <span>Interdisciplinary</span> Without <span>Hiding</span> <span>Disciplinary</span> <span>Knowledge</span>.”</span> <a href="http://www.tara.tcd.ie/handle/2262/83156">http://www.tara.tcd.ie/handle/2262/83156</a>.
-</div>
-<div id="ref-habermann_connecting_2023" class="csl-entry">
-Habermann, Ted. 2023. <span>“Connecting <span>Repositories</span> to the <span>Global</span> <span>Research</span> <span>Community</span>: <span>A</span> <span>Re</span>-<span>Curation</span> <span>Process</span>.”</span> <em>Journal of eScience Librarianship</em> 12 (3): e739. <a href="https://doi.org/10.7191/jeslib.739">https://doi.org/10.7191/jeslib.739</a>.
-</div>
-<div id="ref-koshoffer_giving_2018" class="csl-entry">
-Koshoffer, Amy, Amy E. Neeser, Linda Newman, and Lisa R. Johnston. 2018. <span>“Giving <span>Datasets</span> <span>Context</span>: A <span>Comparison</span> <span>Study</span> of <span>Institutional</span> <span>Repositories</span> That <span>Apply</span> <span>Varying</span> <span>Degrees</span> of <span>Curation</span>.”</span> <em>International Journal of Digital Curation</em> 13 (1): 15–34. <a href="https://doi.org/10.2218/ijdc.v13i1.632">https://doi.org/10.2218/ijdc.v13i1.632</a>.
-</div>
-<div id="ref-lee_landscape_2019" class="csl-entry">
-Lee, Jian‐Sin, and Wei Jeng. 2019. <span>“The Landscape of Archived Studies in a Social Science Data Infrastructure: <span>Investigating</span> the <span>ICPSR</span> Metadata Records.”</span> <em>Proceedings of the Association for Information Science and Technology</em> 56 (1): 147–56. <a href="https://doi.org/10.1002/pra2.62">https://doi.org/10.1002/pra2.62</a>.
-</div>
-<div id="ref-mayernik_role_2022" class="csl-entry">
-Mayernik, Matthew S., and Yauheniya Liapich. 2022. <span>“The <span>Role</span> of <span>Metadata</span> and <span>Vocabulary</span> <span>Standards</span> in <span>Enabling</span> <span>Scientific</span> <span>Data</span> <span>Interoperability</span>: <span>A</span> <span>Study</span> of <span>Earth</span> <span>System</span> <span>Science</span> <span>Data</span> <span>Facilities</span>.”</span> <em>Journal of eScience Librarianship</em> 11 (2). <a href="https://doi.org/10.7191/jeslib.619">https://doi.org/10.7191/jeslib.619</a>.
-</div>
-<div id="ref-ninkov_datasets_2021" class="csl-entry">
-Ninkov, Anton Boudreau, Kathleen Gregory, Isabella Peters, and Stefanie Haustein. 2021. <span>“Datasets on <span>DataCite</span> - an <span>Initial</span> <span>Bibliometric</span> <span>Investigation</span>.”</span> In. Leuven, Belgium (Virtual). <a href="https://doi.org/10.5281/zenodo.4730857">https://doi.org/10.5281/zenodo.4730857</a>.
-</div>
-<div id="ref-radio_manifestations_2017" class="csl-entry">
-Radio, Erik, Fernando Rios, Jeffrey C. Oliver, Benjamin Hickson, and Niamh Wallace. 2017. <span>“Manifestations of <span>Metadata</span> <span>Structures</span> in <span>Research</span> <span>Datasets</span> and <span>Their</span> <span>Ontic</span> <span>Implications</span>.”</span> <em>Journal of Library Metadata</em> 17 (3-4): 161–82. <a href="https://doi.org/10.1080/19386389.2018.1439278">https://doi.org/10.1080/19386389.2018.1439278</a>.
-</div>
-<div id="ref-sostek_discovering_2024" class="csl-entry">
-Sostek, Katrina, Daniel Russell, Nitesh Goyal, Tarfah Alrashed, Stella Dugall, and Natasha Noy. 2024. <span>“Discovering <span>Datasets</span> on the <span>Web</span> <span>Scale</span>: <span>Challenges</span> and <span>Recommendations</span> for <span>Google</span> <span>Dataset</span> <span>Search</span>.”</span> <em>Harvard Data Science Review</em> Special Issue 4. <a href="https://doi.org/10.1162/99608f92.4c3e11ca">https://doi.org/10.1162/99608f92.4c3e11ca</a>.
-</div>
-<div id="ref-strecker_changes_2024" class="csl-entry">
-Strecker, Dorothea. 2024a. <span>“Changes in <span>DataCite</span> <span>DOI</span> Metadata for Research Data.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.14274240">https://doi.org/10.5281/zenodo.14274240</a>.
-</div>
-<div id="ref-strecker_how_2024" class="csl-entry">
-———. 2024b. <span>“How Permanent Are Metadata for Research Data? <span>Understanding</span> Changes in <span>DataCite</span> <span>DOI</span> Metadata.”</span> arXiv. <a href="https://doi.org/10.48550/arxiv.2412.05128">https://doi.org/10.48550/arxiv.2412.05128</a>.
-</div>
-<div id="ref-taylor_think_2022" class="csl-entry">
-Taylor, Shawna, Sarah Wright, Mikala R. Narlock, and Ted Habermann. 2022. <span>“Think <span>Globally</span>, <span>Act</span> <span>Locally</span>: <span>The</span> <span>Importance</span> of <span>Elevating</span> <span>Data</span> <span>Repository</span> <span>Metadata</span> to the <span>Global</span> <span>Infrastructure</span>.”</span> In. <a href="https://hdl.handle.net/11299/228001">https://hdl.handle.net/11299/228001</a>.
-</div>
-<div id="ref-wu_analysis_2023" class="csl-entry">
-Wu, Mingfang, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, and Nick Juty. 2023. <span>“An <span>Analysis</span> of <span>Crosswalks</span> from <span>Research</span> <span>Data</span> <span>Schemas</span> to <span>Schema</span>.org.”</span> <em>Data Intelligence</em> 5 (1): 100–121. <a href="https://doi.org/10.1162/dint_a_00186">https://doi.org/10.1162/dint_a_00186</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
-  author = {Strecker, Dorothea},
-  title = {BUA Fellowship: {Metadata} Flows in the Context of Research
-    Data},
-  date = {2025-07-18},
-  url = {https://doi.org/10.59350/wwwj7-4cm07},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
-Strecker, Dorothea. 2025. <span>“BUA Fellowship: Metadata Flows in the
-Context of Research Data .”</span> July 18, 2025. <a href="https://doi.org/10.59350/wwwj7-4cm07">https://doi.org/10.59350/wwwj7-4cm07</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/</guid>
-  <pubDate>Thu, 17 Jul 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-07-18-BUA-Fellowship-Metadata-flows-in-the-context-of-research-data/fellowship_program.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

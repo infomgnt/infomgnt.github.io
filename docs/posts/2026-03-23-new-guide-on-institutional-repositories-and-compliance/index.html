@@ -6,9 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Lisa Matthias is a research associate in the project “Professionalisierung der Open-Access Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE)”…">
+<meta name="author" content="Lisa Matthias">
+<meta name="author" content="Christopher Onzie Khamis">
+<meta name="author" content="Heinz Pampel">
+<meta name="dcterms.date" content="2026-03-23">
 
-<title>Lisa Matthias – Research Group Information Management @ Humboldt-Universität zu Berlin</title>
+<title>New Guide on Institutional Repositories and Compliance with Funding Requirements – Research Group Information Management @ Humboldt-Universität zu Berlin</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,7 +24,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -31,8 +54,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-listing/list.min.js"></script>
-<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,72 +92,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
 <body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -186,256 +149,152 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">New Guide on Institutional Repositories and Compliance with Funding Requirements</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Lab Life</div>
+                <div class="quarto-category">Research</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-heading">Affiliations</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Lisa_Matthias/">Lisa Matthias</a> <a href="https://orcid.org/0000-0002-2612-2132" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.ibi.hu-berlin.de/de/institut/personen/matthias">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+              </a>
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Christopher_Onzie_Khamis/">Christopher Onzie Khamis</a> <a href="https://orcid.org/0009-0003-0654-2839" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.ibi.hu-berlin.de/de/institut/personen/khamis">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+              </a>
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Heinz_Pampel/">Heinz Pampel</a> <a href="https://orcid.org/0000-0003-3334-2771" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://hu-berlin.de/infomgnt">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) &amp; Helmholtz Association, Helmholtz Open Science Office
+              </a>
+            </p>
+        </div>
+    </div>
+
+  <div class="quarto-title-meta">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">March 23, 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lisa Matthias</h1>
-</div>
-
-<div>
-  <div class="description">
-    Lisa Matthias is a research associate in the project “Professionalisierung der Open-Access Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE)”…
-  </div>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
 
 
-</header>
 
-
-<div class="quarto-figure quarto-figure-left">
+<p>We are pleased to announce the publication of our sixth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)”: “Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien” (available in German only).</p>
+<p>Matthias, L., Pampel, H., Khamis, C. O., &amp; Rothfritz, L. (2025). <em>Compliance mit Förderbedingungen: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung.</em> Zenodo. <a href="https://doi.org/10.5281/zenodo.18085346" class="uri">https://doi.org/10.5281/zenodo.18085346</a></p>
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Lisa_Matthias_Profile.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+<p><img src="Blogpost_Compliance_Handreichung.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<p><img src="orcid_icon.png" class="img-fluid"> <a href="https://orcid.org/0000-0002-2612-2132" class="uri">https://orcid.org/0000-0002-2612-2132</a></p>
-<p>Lisa Matthias is a research associate in the project “Professionalisierung der Open-Access Repositorien-Infrastruktur in Deutschland (Pro-OAR-DE).” Previously, she worked as a postdoctoral researcher at Hanken School of Economics in Helsinki, Finland. With a PhD in Political Science from Free University Berlin, she brings extensive experience in mixed-methods research, data analysis, and project management. Her research on the topic of Open Access has been widely received and has garnered significant media attention in publications such as Nature News. Lisa has contributed to multiple international research projects, including as a visiting scholar at Simon Fraser University in Vancouver, Canada. Her research interests include open access (specifically the sustainability and costs of different access models), research evaluation, and research policy. She is a member of the <a href="https://www.scholcommlab.ca/">ScholCommLab</a>.</p>
-<p><a href="https://www.ibi.hu-berlin.de/de/institut/personen/matthias">Profil</a> @hu-berlin.de</p>
-<hr>
-<section id="lisa-matthias-blogposts" class="level2">
-<h2 class="anchored" data-anchor-id="lisa-matthias-blogposts">Lisa Matthias’ Blogposts:</h2>
+<p>This guide documents the outcomes of our networking forum “Institutionelle Repositorien und Compliance mit Förderbedingungen” (Institutional Repositories and Compliance with Funding Requirements) held on July 7, 2025, with nearly 100 Open Access professionals from across Germany. Drawing on the collaborative work of participants, the guide offers concrete, practice-oriented recommendations for strengthening compliance with funder requirements through institutional Open Access repositories.</p>
+<p>Experts Michael Geuenich (Deutsche Forschungsgemeinschaft) and Anna Pelagotti (European Research Council Executive Agency) outlined current German national and European funding requirements and discussed their implications for repository infrastructures. Building on these insights, participants collaborated in thematic groups to exchange institutional experiences and develop practical solutions to shared challenges. Presentation slides from the forum are available <a href="https://zenodo.org/records/15831828">online</a>.</p>
+<p>The guide synthesizes these collective insights into practical recommendations organized around five central areas for institutional repository management in the context of compliance with funder requirements.</p>
+<section id="requirements" class="level2">
+<h2 class="anchored" data-anchor-id="requirements">Requirements</h2>
+<p>Participants identified the dynamic development of compliance criteria as a central challenge. Funder requirements evolve continuously and therefore demand ongoing monitoring. Clear assignment of responsibilities within institutions was highlighted as essential, particularly in complex organizational environments where libraries, IT services, research support units, and administrative departments all play a role.</p>
+<p>Communication emerged as another key issue. Ensuring that compliance requirements are correctly understood and implemented depends on effective exchange between researchers and infrastructure providers, but equally between content experts and technical staff. Limited financial and personnel resources further intensify the need for prioritization and transparent workflows. Participants also emphasized the value of institutional publication policies as binding reference points, provided their concrete benefits for researchers are clearly communicated.</p>
+<p>On the infrastructure side, participants suggested establishing repository content curation as a dedicated service. This could be implemented, for example, through specialized roles such as data stewards. In addition, the introduction of automated checks for compliance requirements was considered a particularly effective approach. As initial steps, participants recommended centrally collecting best practices and bringing in advocates, such as data champions, to share expertise across the institution.</p>
+</section>
+<section id="researcher-consultation" class="level2">
+<h2 class="anchored" data-anchor-id="researcher-consultation">Researcher Consultation</h2>
+<p>Advising researchers on compliance requirements presents multiple challenges. Participants highlighted the difficulty of determining the compliance status of their own repositories in the absence of universally accepted standards. In addition, requirements vary considerably between funders and projects, adding another layer of complexity.</p>
+<p>Reaching researchers at the right moment remains a persistent obstacle. General information events are often poorly attended, and researchers may engage only selectively with available support services. Recommending suitable repositories brings its own difficulties, as existing certificates and quality labels offer only partial guidance and tend to be limited to specific content types.</p>
+<p>In response, participants recommended using established orientation tools such as the <a href="https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf">DFG whitelist</a> for subject repositories and the <a href="https://www.nature.com/articles/s41597-020-0486-7">TRUST</a> principles for digital repositories. For day-to-day advisory work, strategic questions can help structure consultations effectively, in particular, identifying the precise level at which funder requirements are defined, such as whether the level of the funder, the program, or the individual call. This approach can help uncover information that is not publicly documented.</p>
+</section>
+<section id="technical-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="technical-solutions">Technical Solutions</h2>
+<p>At the technical level, compliance and interoperability present a set of challenges. European funding programs often impose stricter requirements than German national schemes, particularly regarding metadata standards, persistent identifiers, and repository trustworthiness.</p>
+<p>Practical challenges include implementing specific metadata fields, ensuring Persistent Identifier (PID) assignment, enabling indexing in relevant discovery services, managing large data uploads, and establishing robust rights and roles management. Cost-related information may be recorded in different systems, inside or outside the repository, further increasing complexity.</p>
+<p>Participants recommended several approaches to navigate these challenges. Certifications can serve as a useful step toward compliance, while narrowing repository use cases helps ensure feasibility. Market analyses of available software solutions, including realistic assessments of costs and personnel resources, were seen as essential groundwork. Cooperation with partner institutions emerged as a particularly promising strategy, offering opportunities to improve interoperability and distribute development efforts more sustainably.</p>
+</section>
+<section id="diversity-of-publication-formats" class="level2">
+<h2 class="anchored" data-anchor-id="diversity-of-publication-formats">Diversity of Publication Formats</h2>
+<p>The growing diversity of scholarly outputs significantly complicates compliance with funder requirements. Participants pointed to conceptual ambiguities surrounding the definition of repositories and publications, particularly in relation to research data and non-textual outputs. Different funders apply different standards, making general harmonization difficult.</p>
+<p>Research data as a publication type introduces its own set of demands. Metadata requirements increase, machine readability becomes a factor, and linking publications with associated datasets poses real practical difficulties, particularly when Persistent Identifiers are not yet available at the time of initial publication. Further complexity arises from formats such as posters, workshop reports, and Open Educational Resources.</p>
+<p>Responsibilities for repository operation and compliance support are often poorly defined, especially where text publications and research data fall under different organizational units. Participants emphasized the importance of transparent coordination structures and regular communication. Distributed advisory models with discipline-specific working groups were recommended, alongside the strategic use of external expertise such as Nationale Forschungsdateninfrastruktur (NFDI) helpdesks.</p>
+</section>
+<section id="additional-challenges" class="level2">
+<h2 class="anchored" data-anchor-id="additional-challenges">Additional Challenges</h2>
+<p>Beyond the areas already mentioned, participants raised additional challenges. European requirements for depositing research data in “trusted repositories” remain difficult to interpret in practice. The assignment of new Digital Object Identifiers (DOIs) during secondary publication can confuse researchers and make it harder to identify project-related outputs, particularly in the context of EU-funded research.</p>
+<p>Insufficient incentives for researchers to provide complete funding information were also highlighted. Where funding acknowledgements are inconsistent or missing, both compliance and reporting suffer. Participants therefore stressed the importance of controlled project lists and standardized interfaces that make it easy for researchers to reference their funded projects accurately.</p>
+<p>Visibility matters too. Continuous communication about available services is essential for promoting repository use and driving uptake, and a coherent outreach strategy can make a significant difference. Participants also articulated expectations toward funders and policy actors — above all, the provision of standardized project lists and APIs to support automated workflows and reduce administrative burden on institutions.</p>
+<p>This guide provides a foundation for continued professional exchange. Repository operators, libraries, and institutional decision-makers will find valuable insights for establishing effective workflows within their institutions.</p>
+<p>We extend our sincere thanks to all forum participants who contributed their expertise and experience to this collaborative effort. We welcome your feedback and look forward to continuing this important dialogue as we collectively strengthen the Open Access repository landscape.</p>
+<p>For more information about Pro OAR DE and our upcoming activities, please visit our <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">website</a>. This text – excluding quotes and otherwise labeled sections – is licensed under the CC BY 4.0 DEED.</p>
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1774220400000" data-listing-file-modified-sort="1774272726872" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1103">
-<div class="thumbnail">
-<p><a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external"></a></p><a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/Blogpost_Compliance_Handreichung.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external"></a></p>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-deutsche_forschungsgemeinschaft_dfg-whitelist_2024" class="csl-entry" role="listitem">
+Forschungsgemeinschaft, Deutsche. 2024. <span>“<span>DFG</span>-Whitelist Für Fachspezifische Repositorien.”</span> <span>DFG</span>. <a href="https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf">https://www.dfg.de/resource/blob/176038/23fa3addedec7aacc60a6f9f6e314c16/dfg-whitelist-data.pdf</a>.
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external">New Guide on Institutional Repositories and Compliance with Funding Requirements</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external"></a>
+<div id="ref-lin_trust_2020" class="csl-entry" role="listitem">
+Lin, Dawei, Jonathan Crabtree, Ingrid Dillo, Robert R. Downs, Rorie Edmunds, David Giaretta, Marisa De Giusti, et al. 2020. <span>“The <span>TRUST</span> Principles for Digital Repositories.”</span> <em>Scientific Data</em> 7 (1): 144. <a href="https://doi.org/10.1038/s41597-020-0486-7">https://doi.org/10.1038/s41597-020-0486-7</a>.
 </div>
-<div class="listing-description">
-<a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external">We are pleased to announce the publication of our sixth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
+<div id="ref-matthias_pro_2025" class="csl-entry" role="listitem">
+Matthias, Lisa, Michael Geuenich, and Anna Pelagotti. 2025. <span>“Pro <span>OAR</span> <span>DE</span> Vernetzungsforum: Institutionelle Repositorien Und Compliance Mit Förderbedingungen,”</span> July. <a href="https://doi.org/10.5281/ZENODO.15831828">https://doi.org/10.5281/ZENODO.15831828</a>.
 </div>
+<div id="ref-matthias_compliance_2025" class="csl-entry" role="listitem">
+Matthias, Lisa, Heinz Pampel, Christopher Onzie Khamis, and Laura Rothfritz. 2025. <span>“Compliance Mit Förderbedingungen: Handlungsfeld Für Institutionelle Open-Access-Repositorien. Pro <span>OAR</span> <span>DE</span> Handreichung.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.18085346">https://doi.org/10.5281/ZENODO.18085346</a>.
 </div>
-<div class="metadata">
-<a href="../../posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance/index.html" class="no-external">
-<div class="listing-date">
-Mar 23, 2026
-</div>
-<div class="listing-author">
-Lisa Matthias, Christopher Onzie Khamis, Heinz Pampel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1768258800000" data-listing-file-modified-sort="1771249579818" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="624">
-<div class="thumbnail">
-<p><a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external"></a></p><a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/Forschungsdaten_Handlungsfeld_für_institutionelle_Open-Access-Repositorien_Pro_OAR_DE_Handreichung.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external">Forschungsdaten: Handlungsfeld für institutionelle Open-Access-Repositorien. Pro OAR DE Handreichung</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external">We are pleased to announce the publication of a new guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2026-01-13-forschungsdaten-handlungsfeld-fuer-institutionelle-oa-repositorien/index.html" class="no-external">
-<div class="listing-date">
-Jan 13, 2026
-</div>
-<div class="listing-author">
-Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis, Laura Rothfritz, Jannis Köster
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1765321200000" data-listing-file-modified-sort="1765371127659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="764">
-<div class="thumbnail">
-<p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a></p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/Blogpost_WS7.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">Integrating Open Access Repositories into the Broader Open Science Landscape: OpenAlex and COAR</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">The Pro OAR DE project, running from September 2023 to August 2026, has dedicated the past two years to collaborating with German Open Access (OA) repository managers and…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2025-12-10-integrating-open-access-repositories-into-the-broader-open-science-landscape/index.html" class="no-external">
-<div class="listing-date">
-Dec 10, 2025
-</div>
-<div class="listing-author">
-Lisa Matthias, Christopher Onzie Khamis, Heinz Pampel
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1764111600000" data-listing-file-modified-sort="1765360765294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="948">
-<div class="thumbnail">
-<p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a></p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/Blogpost_Monitoring_Handreichung.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">New Guide on Publication and Cost Monitoring through Institutional Repositories</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">We are pleased to announce the publication of our fourth guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/index.html" class="no-external">
-<div class="listing-date">
-Nov 26, 2025
-</div>
-<div class="listing-author">
-Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1762383600000" data-listing-file-modified-sort="1765360852733" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="996">
-<div class="thumbnail">
-<p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a></p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/Blogpost_Zweitveröffentlichung_Handreichung.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">Institutional Repositories and Secondary Publication: A New Guide from Pro OAR DE</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">We are pleased to announce the publication of our third guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2025-11-06-institutional-repositories-and-secondary-publication/index.html" class="no-external">
-<div class="listing-date">
-Nov 6, 2025
-</div>
-<div class="listing-author">
-Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1753308000000" data-listing-file-modified-sort="1765361209117" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="882">
-<div class="thumbnail">
-<p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a></p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">Guide Published: Interplay of Institutional Repositories and CRIS</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">To support repository managers and institutional decision-makers, we are pleased to present our second guide from the BMFTR-funded (Federal Ministry for Research, Technology…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/index.html" class="no-external">
-<div class="listing-date">
-Jul 24, 2025
-</div>
-<div class="listing-author">
-Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="TGFiJTIwTGlmZSUyQ1Jlc2VhcmNo" data-listing-date-sort="1750629600000" data-listing-file-modified-sort="1765361607738" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="604">
-<div class="thumbnail">
-<p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a></p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">
-<p><img loading="lazy" src="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/Blogpost_Preprint_Handreichung.jpg" class="thumbnail-image"></p>
-</a><p><a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">Networking for the Advancement of Institutional Open Access Repositories in Germany</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">We are excited to share our first guide from the BMFTR-funded (Federal Ministry for Research, Technology and Space) project “Professionalisierung der…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="../../posts/2025-06-23-Networking-for-the-Advancement-of-Institutional-OA-Repositories/index.html" class="no-external">
-<div class="listing-date">
-Jun 23, 2025
-</div>
-<div class="listing-author">
-Lisa Matthias, Heinz Pampel, Christopher Onzie Khamis
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{matthias2026,
+  author = {Matthias, Lisa and Onzie Khamis, Christopher and Pampel,
+    Heinz},
+  title = {New {Guide} on {Institutional} {Repositories} and
+    {Compliance} with {Funding} {Requirements}},
+  date = {2026-03-23},
+  url = {https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-matthias2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+Matthias, Lisa, Christopher Onzie Khamis, and Heinz Pampel. 2026.
+<span>“New Guide on Institutional Repositories and Compliance with
+Funding Requirements.”</span> March 23, 2026. <a href="https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/">https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -996,6 +855,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="MaxLiebel/InfoMgt_Comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 </div> <!-- /content -->
 
