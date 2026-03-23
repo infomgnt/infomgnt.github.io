@@ -19,7 +19,7 @@ author:
 date: "2026-03-23"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2026-03-23-new-guide-on-institutional-repositories-and-compliance-with-funding-requirements/
+  url: https://doi.org/10.59350/28arg-mjj80
 image: Blogpost_Compliance_Handreichung.jpg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 bibliography: WS6_Blogpost.bib.bib
