@@ -14,7 +14,7 @@ author:
 date: "2026-04-16"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2026-04-16-recap-writing-retreat-for-doctoral-students-of-the-philosophical-faculty
+  url: https://doi.org/10.59350/49j36-nmy28
 image: doctoral_writing_retreat.jpg
 bibliography: references_doctoral_writing_retreat.bib
 ---
