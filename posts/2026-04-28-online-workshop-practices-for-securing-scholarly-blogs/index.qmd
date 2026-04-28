@@ -14,7 +14,7 @@ author:
 date: "2026-04-28"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/
+  url: https://doi.org/10.59350/m9gxt-sdh55
 image: IFW_praktiken.jpg
 ---
 
@@ -35,7 +35,7 @@ The workshop will feature three ten-minute presentations from selected infrastru
 **Program:**
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Time** | **Description** |
 | 10:00 - 10:15 | Welcome and introduction to the project Infra Wiss Blogs |
 | 10:15 - 10:30 | Practices at Fachinformationsdienst for International and Interdisciplinary Legal Research by Ivo Vogel und Nihal Ariz |
