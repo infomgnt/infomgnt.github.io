@@ -10,7 +10,91 @@
 <atom:link href="https://infomgnt.org/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 22 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Online Workshop: Practices for Securing Scholarly Blogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/IFW_praktiken.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://unsplash.com/de/fotos/ein-haufen-holzklotze-mit-dem-wort-blog-cfE5i6sHCFA">Foto</a> von <a href="https://unsplash.com/de/@nadiiag">Nadiia Ganzhyi</a> auf <a href="https://unsplash.com/">Unsplash</a>.</figcaption>
+</figure>
+</div>
+<p><strong>Date:</strong> Friday, May 29 2026</p>
+<p><strong>Time:</strong> 10:00 - 11:30 Uhr</p>
+<p><strong>Place:</strong> Online via Zoom</p>
+<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project, funded by the <a href="https://www.dfg.de/">German Research Foundation (DFG)</a>, we at the research group <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Information Management</a> at the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement">Berlin School of Library and Information Science</a> at <a href="https://www.hu-berlin.de/">Humboldt Universität zu Berlin</a> are developing solutions to ensure the long-term digital accessibility of scholarly blogs. Together with stakeholders from information infrastructure organizations, we are developing viable approaches and standards for the sustainable management of scholarly</p>
+<p>As part of the project, we are organizing an online workshop on the digital preservation and accessibility of scholarly blogs. The goal is to bring together experts from various information infrastructure institutions to present existing procedures and discuss them collaboratively. You can register for the workshop <a href="https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJg">here</a>: <a href="https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJg" class="uri">https://hu-berlin.zoom-x.de/meeting/register/4LhhdSaOSmuhi2X3y9exJg</a></p>
+<p>The workshop will feature three ten-minute presentations from selected infrastructure organizations, in which they will describe their practices. A five-minute question-and-answer session will follow each presentation. This will be followed by a group discussion in the plenary session. The event will conclude with a summary and an overview of the results.</p>
+<p><strong>Program:</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Time</strong></td>
+<td><strong>Description</strong></td>
+</tr>
+<tr class="even">
+<td>10:00 - 10:15</td>
+<td>Welcome and introduction to the project Infra Wiss Blogs</td>
+</tr>
+<tr class="odd">
+<td>10:15 - 10:30</td>
+<td>Practices at Fachinformationsdienst for International and Interdisciplinary Legal Research by Ivo Vogel und Nihal Ariz</td>
+</tr>
+<tr class="even">
+<td>10:30 - 10:45</td>
+<td>Practices at Fachinformationsdienst Political Science by Regina Pfeifenberger and Michael Czolkoß-Hettwer&nbsp;</td>
+</tr>
+<tr class="odd">
+<td>10:45 - 11:00</td>
+<td>Practices at Deutsches Literaturarchiv Marbach by Jochen Walter</td>
+</tr>
+<tr class="even">
+<td>11:00 - 11:20</td>
+<td>Discussion</td>
+</tr>
+<tr class="odd">
+<td>11:20 - 11:30</td>
+<td>Summary of the results&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>The event will be held in German. Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the <a href="https://infrawissblogs.org/">project blog</a> as well as the project’s <a href="https://infrawissblogs.org/">mailing list</a>. If you have any questions, please contact Catharina Ochsner via <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a>.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina and Pampel, Heinz},
+  title = {Online {Workshop:} {Practices} for {Securing} {Scholarly}
+    {Blogs}},
+  date = {2026-04-28},
+  url = {https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Heinz Pampel. 2026. <span>“Online Workshop:
+Practices for Securing Scholarly Blogs.”</span> April 28, 2026. <a href="https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/">https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/</guid>
+  <pubDate>Mon, 27 Apr 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-04-28-online-workshop-practices-for-securing-scholarly-blogs/IFW_praktiken.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New Guide on Institutional Repositories and Compliance with Funding Requirements</title>
   <dc:creator>Lisa Matthias</dc:creator>
@@ -1318,98 +1402,6 @@ CRIS.”</span> July 24, 2025. <a href="https://doi.org/10.59350/n4pnm-vwr12">ht
   <guid>https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/</guid>
   <pubDate>Wed, 23 Jul 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-07-24-Guide-Published-Interplay-of-Institutional-Repositories-and-CRIS/FIS_Handreichung_Blogpost.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Libraries as operating and preserving institutions for scholarly blogs: Report on a Hands-on Lab at the 113th Bibliocon</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Till Stadtbäumer</dc:creator>
-  <dc:creator>Martin Fenner</dc:creator>
-  <dc:creator>Sven Ködel</dc:creator>
-  <dc:creator>Charmaine Voigt</dc:creator>
-  <dc:creator>Britta Woldering</dc:creator>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Jonas Höfting</dc:creator>
-  <dc:creator>Christopher Onzie Khamis</dc:creator>
-  <link>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" class="img-fluid"></p>
-<p>Scholarly blogs have established themselves as important platforms for making research findings and discourse accessible both within scientific communities and to the general public. Considering the changing social media landscape, the role of non-commercial infrastructures such as blogs or the Fediverse is becoming increasingly important. Blogs can also be seen as part of scholarly-led open access publishing <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
-<p>The long-term accessibility of blogs, especially outside of infrastructures such as <a href="https://de.hypotheses.org/">de.hypotheses.org</a>, is a challenge that has not yet been solved. Archiving dynamic content and comments is a technical and organisational challenge, especially when such content is cited in scientific articles or even court rulings (such as in the <a href="https://verfassungsblog.de">Verfassungsblog</a>). The hacker attacks on the <a href="https://archive.org/">Internet Archive</a> in the fall of 2024 furthermore underline the general fragility of digital sources <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
-<p>As part of the <a href="https://bid-kongress2025.de/">BID Congress 2025</a>, the Hands-on Lab ‘Libraries as Operating and Preserving Institutions for Scholarly Blogs’ took place on 26 June in Bremen. The lab was initiated by the project ’Infra Wiss Blogs – Kooperative Informationsinfrastruktur für wissenschaftliche Blogs‘ funded by the German Research Foundation (DFG) <span class="citation" data-cites="ochsner2025">Pampel and Rothfritz (2024)</span>.</p>
-<p>The aim of the Hands-on Lab was to bring together experts from the scholarly blogosphere and libraries to discuss the challenges and potential of scholarly blogs with regard to visibility, indexing and long-term accessibility. Using the World Café method, the participants discussed aspects such as technology, organisation and framework conditions for the sustainable safeguarding and visibility of scholarly blogs in moderated discussion rounds, with a particular focus on the role of libraries as potential supporting institutions <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>.</p>
-<section id="these-1-metadaten-und-licenses" class="level3">
-<h3 class="anchored" data-anchor-id="these-1-metadaten-und-licenses">These 1: Metadaten und Licenses</h3>
-<p>The first thesis was: ‘For the long-term archiving of their publications, scholarly blogs must carry out the necessary preparatory work, such as maintaining metadata and issuing (open) licences.’</p>
-<p>The discussion showed that there is often a lack of awareness of these requirements in the blog community. Although blogs are valued as a low-threshold form of communication, it is precisely this low-threshold nature that is in tension with requirements such as metadata maintenance, licensing and technical standardisation.</p>
-<p>According to the discussion, the responsibility lies with the blogs or authors - for example with regard to clear licence declarations, clarification of copyright issues (e.g.&nbsp;for embedded images) or the uniform use of CSS classes to support automated import processes. In this context, infrastructure providers, such as libraries, are responsible for providing technical solutions such as plugins to import blog posts into their information systems, as well as providing low-threshold information services.</p>
-<p>The extent to which nudging strategies could help to establish more sustainable practices was also discussed. The promotion of open licences was highlighted as a particularly relevant field of action in order to overcome legal challenges in subsequent use, for example in the context of archiving.</p>
-</section>
-<section id="these-2-cataloguing" class="level3">
-<h3 class="anchored" data-anchor-id="these-2-cataloguing">These 2: Cataloguing</h3>
-<p>The second thesis focused on the cataloguing of scholarly blogs: ‘The cataloguing of scholarly blogs presents libraries with new challenges, as they can only be catalogued to a limited extent using traditional cataloguing criteria.’</p>
-<p>The discussion focused on how deeply blogs should be catalogued. The variety of formats - from individual posts and comments to multimedia content - as well as the often multiple authorship lead to uncertainties in library practice.</p>
-<p>Technical aspects such as different platforms, software architectures or feed maintenance also make standardisation difficult. The possible use of web scraping or aggregators such as <a href="https://rogue-scholar.org">Rogue Scholar</a> was discussed. The debate was supplemented by considerations on the sustainability of file formats (e.g.&nbsp;PDF-A, HTML), legal categorisation and liability for international content. One thing became clear: A more systematic approach to librarian fields of action in dealing with blogs is needed.</p>
-</section>
-<section id="these-3-responsibility-and-infrastructure-institutions" class="level3">
-<h3 class="anchored" data-anchor-id="these-3-responsibility-and-infrastructure-institutions">These 3: Responsibility and Infrastructure Institutions</h3>
-<p>The third thesis to be discussed was: “The long-term archiving of scholarly blogs must no longer be treated as a secondary task of public institutions. If necessary, this task must be secured by community-supported platforms.”</p>
-<p>This statement was met with broad approval. The focus was on the question of which community can take on this role. Examples from practice showed the commitment of regional depository libraries or specialised information services (FIDs). Several participants reported on ongoing initiatives in their institutions.</p>
-<p>Web archiving services and federated models such as <a href="https://www.w3.org/TR/activitypub/">ActivityPub</a> were discussed as technical solutions. There was consensus that there is a need for better mapping of existing actors, activities and data flows at the infrastructure level.</p>
-</section>
-<section id="concluding-discussion" class="level3">
-<h3 class="anchored" data-anchor-id="concluding-discussion">Concluding discussion</h3>
-<p>In the final discussion, the question of how a sustainable, community-supported archiving of scholarly blogs could be designed was discussed: centralised through a new software solution or decentralised through stronger integration of existing institutions?</p>
-<p>There was a consensus that cooperative models are needed in which different actors take on different roles, for example in metadata management, storage or visibility. A systematic approach was proposed: who is already active, what infrastructures exist and how can a cooperative system be formed from them?</p>
-<p>The potential of web archiving was emphasised, especially in combination with targeted metadata extraction. The idea of parallel archiving, by the DNB, discipline-specific FIDs or institutional repositories, met with broad approval.</p>
-<p><a href="https://rogue-scholar.org">Rogue Scholar</a> was highlighted as an example of good practice. However, it also became clear that there is still considerable room for improvement in ensuring data flows, e.g.&nbsp;for linking archiving, cataloguing and referencing.</p>
-<p>Another topic was the role of scholarly blogs in the reputation system. Some called for blogs to be made more visible and integrated into recognition mechanisms for research evaluation. Others emphasised the independence of blogs, analogous to preprints, but without identical rules.</p>
-<p>This led to the central question of definition: When is a blog considered scientific enough? The Infra Wiss Blogs project applies a broad definition: Scholarly blogs can be understood as those blogs that are written by scholars or are concerned with scholarly topics. The participants also favoured an orientation towards relevance rather than formal scientificity.</p>
-</section>
-<section id="conclusion" class="level3">
-<h3 class="anchored" data-anchor-id="conclusion">Conclusion</h3>
-<p>In the Hands-on Lab, there was overwhelming support for a distributed system with various technical and organisational solutions, supported by a committed, interdisciplinary community that takes responsibility for the maintenance and visibility of scholarly blogs.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official Website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-ochsner2025" class="csl-entry">
-Ochsner, Catharina, Elena Di Rosa, Martin Fenner, Sven Ködel, Heinz Pampel, Britta Woldering, Till Stadtbäumer, Charmaine Voigt, and Jonas Höfting. 2025. <span>“Bibliotheken Als Betreibende Und Bewahrende Institutionen Für Wissenschaftliche Blogs.”</span> In. <a href="https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690">https://nbn-resolving.org/urn:nbn:de:0290-opus4-194690</a>.
-</div>
-<div id="ref-pampel2024" class="csl-entry">
-Pampel, Heinz, and Laura Rothfritz. 2024. <span>“Kooperative Informationsinfrastruktur Für Wissenschaftliche Blogs (Infra Wiss Blogs).”</span> <em>Zenodo</em>, August. <a href="https://doi.org/10.5281/zenodo.13234482">https://doi.org/10.5281/zenodo.13234482</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
-  author = {Pampel, Heinz and Stadtbäumer, Till and Fenner, Martin and
-    Ködel, Sven and Voigt, Charmaine and Woldering, Britta and Ochsner,
-    Catharina and Höfting, Jonas and Onzie Khamis, Christopher},
-  title = {Libraries as Operating and Preserving Institutions for
-    Scholarly Blogs: {Report} on a {Hands-on} {Lab} at the 113th
-    {Bibliocon}},
-  date = {2025-07-23},
-  url = {https://doi.org/10.59350/xqwyd-0g579},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz, Till Stadtbäumer, Martin Fenner, Sven Ködel, Charmaine
-Voigt, Britta Woldering, Catharina Ochsner, Jonas Höfting, and
-Christopher Onzie Khamis. 2025. <span>“Libraries as Operating and
-Preserving Institutions for Scholarly Blogs: Report on a Hands-on Lab at
-the 113th Bibliocon.”</span> July 23, 2025. <a href="https://doi.org/10.59350/xqwyd-0g579">https://doi.org/10.59350/xqwyd-0g579</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/</guid>
-  <pubDate>Tue, 22 Jul 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-07-23-Libraries-as-operating-and-preserving-institutions-for-scholarly-blogs/IMG_3511.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
