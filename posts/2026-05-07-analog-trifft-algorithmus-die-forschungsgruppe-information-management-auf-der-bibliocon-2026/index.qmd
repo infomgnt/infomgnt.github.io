@@ -1,0 +1,121 @@
+---
+title: "Analog trifft Algorithmus: Die Forschungsgruppe Information Management auf der Bibliocon 2026"
+author:
+- name: Jonas Höfting
+  url: https://infomgnt.org/members/Jonas_Höfting/
+  orcid: 0009-0003-4466-1775
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de 
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de 
+- name: Dorothea Strecker
+  url: https://infomgnt.org/members/Dorothea_Strecker/
+  orcid: 0000-0002-9754-3807
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de 
+date: "2026-05-07"
+categories: [Lab Life, Research]
+citation:
+  url: https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/
+image: Hermannplatz.jpg
+bibliography: references_bibliocon2026.bib
+---
+
+Die diesjährige 114. BiblioCon steht unter dem Motto „Analog Meets Algorithm“ und findet vom 19. bis zum 22. Mai 2026 im Estrel Congress Center in Berlin statt. Die Forschungsgruppe Information Management wird dort mit verschiedenen Beiträgen präsent sein. Im Folgenden finden Sie nach Projekten geordnet die Beiträge der Forschungsgruppe.
+
+![Abbildung 1: LGV-Archiv, C 12 D-1-01273: Berlin-Neukölln: Hermannplatz, Ostseite, Ecke Berliner Straße [@Landesgeschichtliche_Vereinigung, [CC BY](https://creativecommons.org/licenses/by/4.0/)].](Hermannplatz.jpg){fig-align="center" width="693"}
+
+# Infra Wiss Blogs
+
+**Wie bleiben Blogs dauerhaft zugänglich? Anforderungen an die Informationsinfrastruktur**
+
+**Wann:** Mittwoch, 20. Mai, 12:00 – 12:30 Uhr
+
+**Wo:** Raum D
+
+**Wer:** Catharina Ochsner und Heinz Pampel
+
+Das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt [Infra Wiss Blogs](https://infrawissblogs.org/) unterstützt Wissenschaftsblogger:innen und Informationsinfrastruktureinrichtungen in Deutschland bei der Entwicklung von Lösungsansätzen für die Sicherung der dauerhaften Zugänglichkeit und Zitierbarkeit von Wissenschaftsblogs. Basierend auf den Ergebnissen einer qualitativen Interviewstudie mit Wissenschaftsblogger:innen werden in dem [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/268) die Anforderungen von Blogger:innen an Informationsinfrastrukturen, wie Bibliotheken, für die langfristige Zugänglichkeit von Wissenschaftsblogs vorgestellt und diskutiert.
+
+**Das Wichtigste ist, dabei zu sein – relevante Arbeitsgruppen finden, Synergien schaffen, Netzwerke aufbauen**
+
+**Wann:** Mittwoch, 20. Mai, 16:30 – 18:00 Uhr
+
+**Wo:** Raum IX / 9
+
+**Wer:** Ursula Arning, Catharina Ochsner und Gesche Wahlen
+
+Zurzeit werden auslaufende (Drittmittel-)Projekte in Vereinen oder an Institutionen verstetigt, Arbeitsgruppen werden ins Leben gerufen, Netzwerke bauen sich auf. Mal tut man sich schwer, vertraute Arbeitsgruppen zu verlassen, ein anderes Mal findet man den Einstieg nicht. Welche Arbeitsgruppen sind für mein Arbeitsgebiet relevant? An welchen nehme ich teil bzw. wie bekomme ich die relevanten Informationen, wenn mein Terminkalender schon überfüllt ist? Gemeinsam wollen wir, ein Netzwerk der DFG-geförderten VIGO-Projekte, im Rahmen eines World Cafés verschiedene Möglichkeiten und Chancen der Vernetzung beleuchten. Mehr Informationen zum Hands-on Lab finden Sie [hier](https://bibliocon2026.abstractserver.com/program/#/details/sessions/163).
+
+**Anforderungen an eine kooperative Informationsinfrastruktur zur Sicherstellung der langfristigen Verfügbarkeit von wissenschaftlichen Blogs**
+
+**Wann:** Mittwoch, 20. Mai, und Donnerstag, 21. Mai, 12:45 - 13:45 Uhr
+
+**Wo:** Kongresssaal II
+
+**Wer:** Johanna Schielke, Catharina Ochsner und Heinz Pampel
+
+Das Poster bietet einen Überblick über einen Anforderungskatalog für eine Informationsinfrastruktur für wissenschaftliche Blogs. Der Anforderungskatalog umfasst (1) funktionale Anforderungen an eine Informationsinfrastruktur, (2) datenschutzrechtliche Anforderungen, (3) Anforderungen an die Datenaggregation und (4) Anforderungen an Schnittstellen für den Import und Export von Daten.
+
+# OA Datenpraxis
+
+**Open-Access-Dashboards im Überblick**
+
+**Wann:** Dienstag, 19. Mai., 16:30 – 17:00 Uhr
+
+**Wer:** Johannes Schneider und Heinz Pampel
+
+Im März 2025 wurden im Projekt OA Datenpraxis rund 60 Open Access Dashboards identifiziert und [erschlossen](https://oa-datenpraxis.de/dashboards.html). Der [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/366) stellt die Ergebnisse der Studie vor und gibt einen Einblick in Open-Access-Dashboards weltweit.
+
+**Hands-on-Lab: How to: Das Publikationsaufkommen Ihrer Einrichtung mit einer offenen Datenquelle erfassen**
+
+**Wann:** Mittwoch, 20. Mai., 14:00 – 16:00 Uhr
+
+**Wer:** Dorothea Strecker und Heinz Pampel
+
+In diesem [Hands-on-Lab](https://bibliocon2026.abstractserver.com/program/#/details/sessions/64) zeigen wir, wie das Publikationsaufkommen wissenschaftlicher Einrichtungen mit der offenen Datenquelle OpenAlex erfasst werden kann. In der Veranstaltung führen wir Sie Schritt für Schritt durch den verwendeten Code. Darum sind Vorkenntnisse in der Programmiersprache R nicht erforderlich.
+
+Bitte bringen Sie einen Laptop mit und erstellen Sie vorab einen kostenlosen [Posit-Cloud Account](https://posit.cloud/plans/free). Die Installation von Software ist nicht notwendig.
+
+Bitte um Voranmeldung bei: dorothea.strecker\@hu-berlin.de
+
+# Pro OAR DE
+
+**Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland**
+
+**Wann:** Dienstag, 19. Mai., 13:00 – 13:30
+
+**Wer:** Jonas Höfting und Heinz Pampel
+
+Das vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Projekt Pro OAR DE untersucht aktuelle Herausforderungen von institutionellen Repositorien (IRs) in der digitalen Wissenschaftskommunikation. In diesem [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/457) werden Empfehlungen präsentiert, die sich der Perspektive von IRs auf strategischer Ebene widmen. Die Empfehlungen beruhen auf einem dreiteiligen Design: einer Interviewstudie und sieben Vernetzungsforen mit Open-Access-Professionals in Deutschland sowie einem Systematic Literature Review zu internationalen Herausforderungen und Zukunftsperspektiven für IRs.
+
+# OASA
+
+**Finanzierung und Strukturen im Wandel: Szenarien für die Open-Access-Transformation**
+
+**Wann:** Donnerstag, 21. Mai, 11:30 – 12:00 Uhr
+
+**Wer:** Heinz Pampel, Marc Lang, Bernhard Mittermaier und Lisa Matthias
+
+Die Transformation von Subskription zu Open Access im Zeitschriftenwesen wird in Deutschland auf nationaler, regionaler und lokaler Ebene durch vielfältige Aktivitäten gefördert. Eine solche Transformation sowie die Weiterentwicklung eines offenen und wissenschaftsgeleiteten Publikationswesens sind allerdings durch mehrere Lücken und Bedarfe erschwert. Der [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/617) erläutert diese Desiderate und stellt vor, wie das von der DFG geförderte Projekt Open Access Szenarienanalysen (OASA) sich diesen und den genannten Herausforderungen widmet.
+
+# Weitere Beiträge
+
+**Zukunft des wissenschaftlichen Publizierens: Die Strategie der Allianz der Wissenschaftsorganisationen 2026–2030**
+
+**Wann:** Donnerstag, 21. Mai., 11:00 – 11:30
+
+**Wer:** Heinz Pampel und Angela Holzer
+
+Die Allianz der Wissenschaftsorganisationen ist ein Zusammenschluss der bedeutendsten Wissenschaftsorganisationen in Deutschland. Das seit 2003 bestehende Engagement für Open Access der Allianz mündete in die Open-Access-Strategie 2021–2025, die im Jahr 2025 zu einer Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026–2030 weiterentwickelt wurde [@allianz2025]. Der [Beitrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/241) stellt die Strategie vor und erläutert die Maßnahmen zu ihrer Umsetzung.
+
+# Stand der Berliner Bibliotheken
+
+Zudem wird das Institut für Bibliotheks- und Informationswissenschaft (IBI) während der gesamten BiblioCon im Ausstellerbereich auf dem Stand der Berliner Bibliotheken vertreten sein. Neben den vielfältigen anderen Angeboten des IBIs, wie etwa Studienberatung für potenzielle Bewerber:innen und einer Demonstration der Eye-Tracking-Technik, wird die Forschungsgruppe Informationen Management dort ein 3D-Puzzle präsentieren. Dieses Objekt der Wissenschaftsvermittlung entstand in Zusammenarbeit mit Friedrich Schmidgall vom Einstein Center Digital Future und wurde bereits auf der Langen Nacht der Wissenschaften 2025 präsentiert [@pampel2025]. Mit seiner Hilfe können zentrale Konzepte von Open Science und Informationsmanagement interaktiv entdeckt werden können.
+
+Wir freuen uns darauf, Sie auf der diesjährigen BiblioCon zu sehen und uns über unsere Arbeit auszutauschen und zu diskutieren!
+
+Weitere Informationen zur Forschungsgruppe finden Sie auf unserer [offiziellen Website](http://hu.berlin/infomgnt). Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

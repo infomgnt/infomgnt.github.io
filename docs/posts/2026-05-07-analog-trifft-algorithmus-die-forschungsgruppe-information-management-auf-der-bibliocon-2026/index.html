@@ -6,11 +6,12 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jonas Höfting">
 <meta name="author" content="Catharina Ochsner">
-<meta name="author" content="Heinz Pampel">
-<meta name="dcterms.date" content="2025-05-16">
+<meta name="author" content="Dorothea Strecker">
+<meta name="dcterms.date" content="2026-05-07">
 
-<title>Research Group Information Management @ Humboldt-Universität zu Berlin - Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs</title>
+<title>Research Group Information Management @ Humboldt-Universität zu Berlin - Analog trifft Algorithmus: Die Forschungsgruppe Information Management auf der Bibliocon 2026</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,7 +24,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -124,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Webinar: Blog archiving with Rogue Scholar using the example of WordPress Blogs</h1>
+      <h1 class="title">Analog trifft Algorithmus: Die Forschungsgruppe Information Management auf der Bibliocon 2026</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">Lab Life</div>
                 <div class="quarto-category">Research</div>
@@ -134,25 +154,35 @@ ul.task-list li input[type="checkbox"] {
     
   <div class="quarto-title-meta-author">
     <div class="quarto-title-meta-heading">Authors</div>
-    <div class="quarto-title-meta-heading">Affiliations</div>
+    <div class="quarto-title-meta-heading">Affiliation</div>
     
       <div class="quarto-title-meta-contents">
-      <p class="author"><a href="https://infomgnt.org/members/Catharina_Ochsner/">Catharina Ochsner</a> <a href="https://orcid.org/0009-0005-3885-3951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author"><a href="https://infomgnt.org/members/Jonas_Höfting/">Jonas Höfting</a> <a href="https://orcid.org/0009-0003-4466-1775" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
       <div class="quarto-title-meta-contents">
           <p class="affiliation">
-              <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">
-              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI)
+              <a href="https://www.ibi.hu-berlin.de/de">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
               </a>
             </p>
         </div>
         <div class="quarto-title-meta-contents">
-      <p class="author"><a href="https://infomgnt.org/members/Heinz_Pampel/">Heinz Pampel</a> <a href="https://orcid.org/0000-0003-3334-2771" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author"><a href="https://infomgnt.org/members/Catharina_Ochsner/">Catharina Ochsner</a> <a href="https://orcid.org/0009-0005-3885-3951" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
       <div class="quarto-title-meta-contents">
           <p class="affiliation">
-              <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">
-              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science (IBI) &amp; Helmholtz-Gesellschaft, Helmholtz Open Science Office
+              <a href="https://www.ibi.hu-berlin.de/de">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+              </a>
+            </p>
+        </div>
+        <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://infomgnt.org/members/Dorothea_Strecker/">Dorothea Strecker</a> <a href="https://orcid.org/0000-0002-9754-3807" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+      <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.ibi.hu-berlin.de/de">
+              Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
               </a>
             </p>
         </div>
@@ -164,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">May 16, 2025</p>
+        <p class="date">May 7, 2026</p>
       </div>
     </div>
     
@@ -182,65 +212,98 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project funded by the German Research Foundation (DFG), we invite you to a webinar on the topic of archiving scholarly blogs. This webinar will focus on the <a href="https://preview.rogue-scholar.org/de">Rogue Scholar</a> service by <a href="https://front-matter.io/">Front Matter</a>. After an introduction to the Infra Wiss Blogs project, we will present and discuss how WordPress-hosted scholarly blogs can be archived with Rogue Scholar. This will be followed by user reports on their experiences of using Rogue Scholar. The webinar will conclude with an open discussion.</p>
-<p>The webinar is aimed at scholars, bloggers, experts from information infrastructures and anyone involved in digital scholarly communication and sustainable archiving. The Webinar will be held in German.</p>
-<p><strong>Date:</strong> Wednesday, June 11th 2025</p>
-<p><strong>Duration:</strong> 10:00 - 11:30</p>
-<p><strong>Please register here:</strong> <a href="https://hu.berlin/infrawissblogs" class="uri">https://hu.berlin/infrawissblogs</a></p>
-<p><strong>Contact:</strong> <a href="mailto:catharina.ochsner@hu-berlin.de">catharina.ochsner@hu-berlin.de</a></p>
-<p>We are currently planning with the following program:</p>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Uhrzeit</th>
-<th>Thema</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>10:00</td>
-<td>Welcome and presentation of Infra Wiss Blogs (Heinz Pampel and Catharina Ochsner)</td>
-</tr>
-<tr class="even">
-<td>10:10</td>
-<td>Introduction to Rogue Scholar (Martin Fenner, Front Matter)</td>
-</tr>
-<tr class="odd">
-<td>10:30</td>
-<td>User perspective I: <a href="https://blog.dini.de/EPub_FIS/ueber-uns/">Gemeinsamer Blog der AGs Forschungsinformationen &amp; -systeme, Elektronisches Publizieren und des Kompetenzzentrums Interoperable Metadaten der Deutsche Initiative für Netzwerkinformation e. V.</a> (DINI) (Daniel Beucke, Niedersächsischen Staats- und Universitätsbibliothek Göttingen)</td>
-</tr>
-<tr class="even">
-<td>10:45</td>
-<td>User perspective II: <a href="https://cstonline.net/">CSTonline, community blog of the journal <em>Critical Studies in Television</em></a> (Tobias Steiner, COPIM)</td>
-</tr>
-<tr class="odd">
-<td>11:00</td>
-<td>Discussion</td>
-</tr>
-<tr class="even">
-<td>11:30</td>
-<td>End of webinar</td>
-</tr>
-</tbody>
-</table>
-<p>Further details and updates on the workshop and the project Infra Wiss Blogs will be communicated via the <a href="https://infrawissblogs.org/">project blog</a> as well as the project’s <a href="https://www.listserv.dfn.de/sympa/info/infra-wiss-blogs">mailing list</a>. If you have any questions, please contact <a href="mailto:catharina.ochsner@hu-berlin.de">Catharina Ochsner</a>.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+<p>Die diesjährige 114. BiblioCon steht unter dem Motto „Analog Meets Algorithm“ und findet vom 19. bis zum 22. Mai 2026 im Estrel Congress Center in Berlin statt. Die Forschungsgruppe Information Management wird dort mit verschiedenen Beiträgen präsent sein. Im Folgenden finden Sie nach Projekten geordnet die Beiträge der Forschungsgruppe.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Hermannplatz.jpg" class="img-fluid figure-img" width="693"></p>
+<figcaption class="figure-caption">Abbildung 1: LGV-Archiv, C 12 D-1-01273: Berlin-Neukölln: Hermannplatz, Ostseite, Ecke Berliner Straße <span class="citation" data-cites="Landesgeschichtliche_Vereinigung">(<a href="#ref-Landesgeschichtliche_Vereinigung" role="doc-biblioref">Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V. 2025</a>, <a href="https://creativecommons.org/licenses/by/4.0/" role="doc-biblioref">CC BY</a>)</span>.</figcaption>
+</figure>
+</div>
+<section id="infra-wiss-blogs" class="level1">
+<h1>Infra Wiss Blogs</h1>
+<p><strong>Wie bleiben Blogs dauerhaft zugänglich? Anforderungen an die Informationsinfrastruktur</strong></p>
+<p><strong>Wann:</strong> Mittwoch, 20. Mai, 12:00 – 12:30 Uhr</p>
+<p><strong>Wo:</strong> Raum D</p>
+<p><strong>Wer:</strong> Catharina Ochsner und Heinz Pampel</p>
+<p>Das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> unterstützt Wissenschaftsblogger:innen und Informationsinfrastruktureinrichtungen in Deutschland bei der Entwicklung von Lösungsansätzen für die Sicherung der dauerhaften Zugänglichkeit und Zitierbarkeit von Wissenschaftsblogs. Basierend auf den Ergebnissen einer qualitativen Interviewstudie mit Wissenschaftsblogger:innen werden in dem <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/268">Vortrag</a> die Anforderungen von Blogger:innen an Informationsinfrastrukturen, wie Bibliotheken, für die langfristige Zugänglichkeit von Wissenschaftsblogs vorgestellt und diskutiert.</p>
+<p><strong>Das Wichtigste ist, dabei zu sein – relevante Arbeitsgruppen finden, Synergien schaffen, Netzwerke aufbauen</strong></p>
+<p><strong>Wann:</strong> Mittwoch, 20. Mai, 16:30 – 18:00 Uhr</p>
+<p><strong>Wo:</strong> Raum IX / 9</p>
+<p><strong>Wer:</strong> Ursula Arning, Catharina Ochsner und Gesche Wahlen</p>
+<p>Zurzeit werden auslaufende (Drittmittel-)Projekte in Vereinen oder an Institutionen verstetigt, Arbeitsgruppen werden ins Leben gerufen, Netzwerke bauen sich auf. Mal tut man sich schwer, vertraute Arbeitsgruppen zu verlassen, ein anderes Mal findet man den Einstieg nicht. Welche Arbeitsgruppen sind für mein Arbeitsgebiet relevant? An welchen nehme ich teil bzw. wie bekomme ich die relevanten Informationen, wenn mein Terminkalender schon überfüllt ist? Gemeinsam wollen wir, ein Netzwerk der DFG-geförderten VIGO-Projekte, im Rahmen eines World Cafés verschiedene Möglichkeiten und Chancen der Vernetzung beleuchten. Mehr Informationen zum Hands-on Lab finden Sie <a href="https://bibliocon2026.abstractserver.com/program/#/details/sessions/163">hier</a>.</p>
+<p><strong>Anforderungen an eine kooperative Informationsinfrastruktur zur Sicherstellung der langfristigen Verfügbarkeit von wissenschaftlichen Blogs</strong></p>
+<p><strong>Wann:</strong> Mittwoch, 20. Mai, und Donnerstag, 21. Mai, 12:45 - 13:45 Uhr</p>
+<p><strong>Wo:</strong> Kongresssaal II</p>
+<p><strong>Wer:</strong> Johanna Schielke, Catharina Ochsner und Heinz Pampel</p>
+<p>Das Poster bietet einen Überblick über einen Anforderungskatalog für eine Informationsinfrastruktur für wissenschaftliche Blogs. Der Anforderungskatalog umfasst (1) funktionale Anforderungen an eine Informationsinfrastruktur, (2) datenschutzrechtliche Anforderungen, (3) Anforderungen an die Datenaggregation und (4) Anforderungen an Schnittstellen für den Import und Export von Daten.</p>
+</section>
+<section id="oa-datenpraxis" class="level1">
+<h1>OA Datenpraxis</h1>
+<p><strong>Open-Access-Dashboards im Überblick</strong></p>
+<p><strong>Wann:</strong> Dienstag, 19. Mai., 16:30 – 17:00 Uhr</p>
+<p><strong>Wer:</strong> Johannes Schneider und Heinz Pampel</p>
+<p>Im März 2025 wurden im Projekt OA Datenpraxis rund 60 Open Access Dashboards identifiziert und <a href="https://oa-datenpraxis.de/dashboards.html">erschlossen</a>. Der <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/366">Vortrag</a> stellt die Ergebnisse der Studie vor und gibt einen Einblick in Open-Access-Dashboards weltweit.</p>
+<p><strong>Hands-on-Lab: How to: Das Publikationsaufkommen Ihrer Einrichtung mit einer offenen Datenquelle erfassen</strong></p>
+<p><strong>Wann:</strong> Mittwoch, 20. Mai., 14:00 – 16:00 Uhr</p>
+<p><strong>Wer:</strong> Dorothea Strecker und Heinz Pampel</p>
+<p>In diesem <a href="https://bibliocon2026.abstractserver.com/program/#/details/sessions/64">Hands-on-Lab</a> zeigen wir, wie das Publikationsaufkommen wissenschaftlicher Einrichtungen mit der offenen Datenquelle OpenAlex erfasst werden kann. In der Veranstaltung führen wir Sie Schritt für Schritt durch den verwendeten Code. Darum sind Vorkenntnisse in der Programmiersprache R nicht erforderlich.</p>
+<p>Bitte bringen Sie einen Laptop mit und erstellen Sie vorab einen kostenlosen <a href="https://posit.cloud/plans/free">Posit-Cloud Account</a>. Die Installation von Software ist nicht notwendig.</p>
+<p>Bitte um Voranmeldung bei: dorothea.strecker@hu-berlin.de</p>
+</section>
+<section id="pro-oar-de" class="level1">
+<h1>Pro OAR DE</h1>
+<p><strong>Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland</strong></p>
+<p><strong>Wann:</strong> Dienstag, 19. Mai., 13:00 – 13:30</p>
+<p><strong>Wer:</strong> Jonas Höfting und Heinz Pampel</p>
+<p>Das vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Projekt Pro OAR DE untersucht aktuelle Herausforderungen von institutionellen Repositorien (IRs) in der digitalen Wissenschaftskommunikation. In diesem <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/457">Vortrag</a> werden Empfehlungen präsentiert, die sich der Perspektive von IRs auf strategischer Ebene widmen. Die Empfehlungen beruhen auf einem dreiteiligen Design: einer Interviewstudie und sieben Vernetzungsforen mit Open-Access-Professionals in Deutschland sowie einem Systematic Literature Review zu internationalen Herausforderungen und Zukunftsperspektiven für IRs.</p>
+</section>
+<section id="oasa" class="level1">
+<h1>OASA</h1>
+<p><strong>Finanzierung und Strukturen im Wandel: Szenarien für die Open-Access-Transformation</strong></p>
+<p><strong>Wann:</strong> Donnerstag, 21. Mai, 11:30 – 12:00 Uhr</p>
+<p><strong>Wer:</strong> Heinz Pampel, Marc Lang, Bernhard Mittermaier und Lisa Matthias</p>
+<p>Die Transformation von Subskription zu Open Access im Zeitschriftenwesen wird in Deutschland auf nationaler, regionaler und lokaler Ebene durch vielfältige Aktivitäten gefördert. Eine solche Transformation sowie die Weiterentwicklung eines offenen und wissenschaftsgeleiteten Publikationswesens sind allerdings durch mehrere Lücken und Bedarfe erschwert. Der <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/617">Vortrag</a> erläutert diese Desiderate und stellt vor, wie das von der DFG geförderte Projekt Open Access Szenarienanalysen (OASA) sich diesen und den genannten Herausforderungen widmet.</p>
+</section>
+<section id="weitere-beiträge" class="level1">
+<h1>Weitere Beiträge</h1>
+<p><strong>Zukunft des wissenschaftlichen Publizierens: Die Strategie der Allianz der Wissenschaftsorganisationen 2026–2030</strong></p>
+<p><strong>Wann:</strong> Donnerstag, 21. Mai., 11:00 – 11:30</p>
+<p><strong>Wer:</strong> Heinz Pampel und Angela Holzer</p>
+<p>Die Allianz der Wissenschaftsorganisationen ist ein Zusammenschluss der bedeutendsten Wissenschaftsorganisationen in Deutschland. Das seit 2003 bestehende Engagement für Open Access der Allianz mündete in die Open-Access-Strategie 2021–2025, die im Jahr 2025 zu einer Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026–2030 weiterentwickelt wurde <span class="citation" data-cites="allianz2025">(<a href="#ref-allianz2025" role="doc-biblioref"><span>“Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026-2030”</span> 2025</a>)</span>. Der <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/241">Beitrag</a> stellt die Strategie vor und erläutert die Maßnahmen zu ihrer Umsetzung.</p>
+</section>
+<section id="stand-der-berliner-bibliotheken" class="level1">
+<h1>Stand der Berliner Bibliotheken</h1>
+<p>Zudem wird das Institut für Bibliotheks- und Informationswissenschaft (IBI) während der gesamten BiblioCon im Ausstellerbereich auf dem Stand der Berliner Bibliotheken vertreten sein. Neben den vielfältigen anderen Angeboten des IBIs, wie etwa Studienberatung für potenzielle Bewerber:innen und einer Demonstration der Eye-Tracking-Technik, wird die Forschungsgruppe Informationen Management dort ein 3D-Puzzle präsentieren. Dieses Objekt der Wissenschaftsvermittlung entstand in Zusammenarbeit mit Friedrich Schmidgall vom Einstein Center Digital Future und wurde bereits auf der Langen Nacht der Wissenschaften 2025 präsentiert <span class="citation" data-cites="pampel2025">(<a href="#ref-pampel2025" role="doc-biblioref">Pampel et al. 2025</a>)</span>. Mit seiner Hilfe können zentrale Konzepte von Open Science und Informationsmanagement interaktiv entdeckt werden können.</p>
+<p>Wir freuen uns darauf, Sie auf der diesjährigen BiblioCon zu sehen und uns über unsere Arbeit auszutauschen und zu diskutieren!</p>
+<p>Weitere Informationen zur Forschungsgruppe finden Sie auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Website</a>. Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
 
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
-  author = {Ochsner, Catharina and Pampel, Heinz},
-  title = {Webinar: {Blog} Archiving with {Rogue} {Scholar} Using the
-    Example of {WordPress} {Blogs}},
-  date = {2025-05-16},
-  url = {https://doi.org/10.59350/72ce4-12298},
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Landesgeschichtliche_Vereinigung" class="csl-entry" role="listitem">
+Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv. 2025. <span>“<span>LGV</span>-Archiv, c 12 d-1-01273: Berlin-Neukölln: Hermannplatz, Ostseite, Ecke Berliner Straße.”</span> <a href="https://global.museum-digital.org/object/3542311?navlang=en">https://global.museum-digital.org/object/3542311?navlang=en</a>.
+</div>
+<div id="ref-pampel2025" class="csl-entry" role="listitem">
+Pampel, Heinz, Friedrich Schmidgall, Laura Rothfritz, Max Liebel, and Johanna Schielke. 2025. <span>“Long Night of Science 2025: Communicating Information Management with a Data Puzzle on Open Science. Front Matter.”</span> July 30, 2025. <a href="https://doi.org/10.59350/bd65p-7r071">https://doi.org/10.59350/bd65p-7r071</a>.
+</div>
+<div id="ref-allianz2025" class="csl-entry" role="listitem">
+<span>“Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026-2030.”</span> 2025, July. <a href="https://doi.org/10.5281/zenodo.15853225">https://doi.org/10.5281/zenodo.15853225</a>.
+</div>
+</div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2026,
+  author = {Höfting, Jonas and Ochsner, Catharina and Strecker,
+    Dorothea},
+  title = {Analog Trifft {Algorithmus:} {Die} {Forschungsgruppe}
+    {Information} {Management} Auf Der {Bibliocon} 2026},
+  date = {2026-05-07},
+  url = {https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/},
   langid = {en}
 }
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas" role="listitem">
-Ochsner, Catharina, and Heinz Pampel. 2025. <span>“Webinar: Blog
-Archiving with Rogue Scholar Using the Example of WordPress
-Blogs.”</span> May 16, 2025. <a href="https://doi.org/10.59350/72ce4-12298">https://doi.org/10.59350/72ce4-12298</a>.
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+Höfting, Jonas, Catharina Ochsner, and Dorothea Strecker. 2026.
+<span>“Analog Trifft Algorithmus: Die Forschungsgruppe Information
+Management Auf Der Bibliocon 2026.”</span> May 7, 2026. <a href="https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/">https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
