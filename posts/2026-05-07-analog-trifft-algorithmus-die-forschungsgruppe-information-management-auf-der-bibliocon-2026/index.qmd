@@ -19,7 +19,7 @@ author:
 date: "2026-05-07"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/
+  url: https://doi.org/10.59350/eeba5-q9560
 image: Hermannplatz.jpg
 bibliography: references_bibliocon2026.bib
 ---
@@ -27,6 +27,8 @@ bibliography: references_bibliocon2026.bib
 Die diesjährige 114. BiblioCon steht unter dem Motto „Analog Meets Algorithm“ und findet vom 19. bis zum 22. Mai 2026 im Estrel Congress Center in Berlin statt. Die Forschungsgruppe Information Management wird dort mit verschiedenen Beiträgen präsent sein. Im Folgenden finden Sie nach Projekten geordnet die Beiträge der Forschungsgruppe.
 
 ![Abbildung 1: LGV-Archiv, C 12 D-1-01273: Berlin-Neukölln: Hermannplatz, Ostseite, Ecke Berliner Straße [@Landesgeschichtliche_Vereinigung, [CC BY](https://creativecommons.org/licenses/by/4.0/)].](Hermannplatz.jpg){fig-align="center" width="693"}
+
+---
 
 # Infra Wiss Blogs
 
@@ -60,6 +62,8 @@ Zurzeit werden auslaufende (Drittmittel-)Projekte in Vereinen oder an Institutio
 
 Das Poster bietet einen Überblick über einen Anforderungskatalog für eine Informationsinfrastruktur für wissenschaftliche Blogs. Der Anforderungskatalog umfasst (1) funktionale Anforderungen an eine Informationsinfrastruktur, (2) datenschutzrechtliche Anforderungen, (3) Anforderungen an die Datenaggregation und (4) Anforderungen an Schnittstellen für den Import und Export von Daten.
 
+---
+
 # OA Datenpraxis
 
 **Open-Access-Dashboards im Überblick**
@@ -82,6 +86,8 @@ Bitte bringen Sie einen Laptop mit und erstellen Sie vorab einen kostenlosen [Po
 
 Bitte um Voranmeldung bei: dorothea.strecker\@hu-berlin.de
 
+---
+
 # Pro OAR DE
 
 **Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland**
@@ -91,6 +97,8 @@ Bitte um Voranmeldung bei: dorothea.strecker\@hu-berlin.de
 **Wer:** Jonas Höfting und Heinz Pampel
 
 Das vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Projekt Pro OAR DE untersucht aktuelle Herausforderungen von institutionellen Repositorien (IRs) in der digitalen Wissenschaftskommunikation. In diesem [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/457) werden Empfehlungen präsentiert, die sich der Perspektive von IRs auf strategischer Ebene widmen. Die Empfehlungen beruhen auf einem dreiteiligen Design: einer Interviewstudie und sieben Vernetzungsforen mit Open-Access-Professionals in Deutschland sowie einem Systematic Literature Review zu internationalen Herausforderungen und Zukunftsperspektiven für IRs.
+
+---
 
 # OASA
 
@@ -102,6 +110,8 @@ Das vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) gef�
 
 Die Transformation von Subskription zu Open Access im Zeitschriftenwesen wird in Deutschland auf nationaler, regionaler und lokaler Ebene durch vielfältige Aktivitäten gefördert. Eine solche Transformation sowie die Weiterentwicklung eines offenen und wissenschaftsgeleiteten Publikationswesens sind allerdings durch mehrere Lücken und Bedarfe erschwert. Der [Vortrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/617) erläutert diese Desiderate und stellt vor, wie das von der DFG geförderte Projekt Open Access Szenarienanalysen (OASA) sich diesen und den genannten Herausforderungen widmet.
 
+---
+
 # Weitere Beiträge
 
 **Zukunft des wissenschaftlichen Publizierens: Die Strategie der Allianz der Wissenschaftsorganisationen 2026–2030**
@@ -111,6 +121,8 @@ Die Transformation von Subskription zu Open Access im Zeitschriftenwesen wird in
 **Wer:** Heinz Pampel und Angela Holzer
 
 Die Allianz der Wissenschaftsorganisationen ist ein Zusammenschluss der bedeutendsten Wissenschaftsorganisationen in Deutschland. Das seit 2003 bestehende Engagement für Open Access der Allianz mündete in die Open-Access-Strategie 2021–2025, die im Jahr 2025 zu einer Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026–2030 weiterentwickelt wurde [@allianz2025]. Der [Beitrag](https://bibliocon2026.abstractserver.com/program/#/details/presentations/241) stellt die Strategie vor und erläutert die Maßnahmen zu ihrer Umsetzung.
+
+---
 
 # Stand der Berliner Bibliotheken
 

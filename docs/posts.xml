@@ -29,6 +29,7 @@
 <figcaption class="figure-caption">Abbildung 1: LGV-Archiv, C 12 D-1-01273: Berlin-Neukölln: Hermannplatz, Ostseite, Ecke Berliner Straße <span class="citation" data-cites="Landesgeschichtliche_Vereinigung">(Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V. 2025, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY</a>)</span>.</figcaption>
 </figure>
 </div>
+<hr>
 <section id="infra-wiss-blogs" class="level1">
 <h1>Infra Wiss Blogs</h1>
 <p><strong>Wie bleiben Blogs dauerhaft zugänglich? Anforderungen an die Informationsinfrastruktur</strong></p>
@@ -46,6 +47,7 @@
 <p><strong>Wo:</strong> Kongresssaal II</p>
 <p><strong>Wer:</strong> Johanna Schielke, Catharina Ochsner und Heinz Pampel</p>
 <p>Das Poster bietet einen Überblick über einen Anforderungskatalog für eine Informationsinfrastruktur für wissenschaftliche Blogs. Der Anforderungskatalog umfasst (1) funktionale Anforderungen an eine Informationsinfrastruktur, (2) datenschutzrechtliche Anforderungen, (3) Anforderungen an die Datenaggregation und (4) Anforderungen an Schnittstellen für den Import und Export von Daten.</p>
+<hr>
 </section>
 <section id="oa-datenpraxis" class="level1">
 <h1>OA Datenpraxis</h1>
@@ -59,6 +61,7 @@
 <p>In diesem <a href="https://bibliocon2026.abstractserver.com/program/#/details/sessions/64">Hands-on-Lab</a> zeigen wir, wie das Publikationsaufkommen wissenschaftlicher Einrichtungen mit der offenen Datenquelle OpenAlex erfasst werden kann. In der Veranstaltung führen wir Sie Schritt für Schritt durch den verwendeten Code. Darum sind Vorkenntnisse in der Programmiersprache R nicht erforderlich.</p>
 <p>Bitte bringen Sie einen Laptop mit und erstellen Sie vorab einen kostenlosen <a href="https://posit.cloud/plans/free">Posit-Cloud Account</a>. Die Installation von Software ist nicht notwendig.</p>
 <p>Bitte um Voranmeldung bei: dorothea.strecker@hu-berlin.de</p>
+<hr>
 </section>
 <section id="pro-oar-de" class="level1">
 <h1>Pro OAR DE</h1>
@@ -66,6 +69,7 @@
 <p><strong>Wann:</strong> Dienstag, 19. Mai., 13:00 – 13:30</p>
 <p><strong>Wer:</strong> Jonas Höfting und Heinz Pampel</p>
 <p>Das vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) geförderte Projekt Pro OAR DE untersucht aktuelle Herausforderungen von institutionellen Repositorien (IRs) in der digitalen Wissenschaftskommunikation. In diesem <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/457">Vortrag</a> werden Empfehlungen präsentiert, die sich der Perspektive von IRs auf strategischer Ebene widmen. Die Empfehlungen beruhen auf einem dreiteiligen Design: einer Interviewstudie und sieben Vernetzungsforen mit Open-Access-Professionals in Deutschland sowie einem Systematic Literature Review zu internationalen Herausforderungen und Zukunftsperspektiven für IRs.</p>
+<hr>
 </section>
 <section id="oasa" class="level1">
 <h1>OASA</h1>
@@ -73,6 +77,7 @@
 <p><strong>Wann:</strong> Donnerstag, 21. Mai, 11:30 – 12:00 Uhr</p>
 <p><strong>Wer:</strong> Heinz Pampel, Marc Lang, Bernhard Mittermaier und Lisa Matthias</p>
 <p>Die Transformation von Subskription zu Open Access im Zeitschriftenwesen wird in Deutschland auf nationaler, regionaler und lokaler Ebene durch vielfältige Aktivitäten gefördert. Eine solche Transformation sowie die Weiterentwicklung eines offenen und wissenschaftsgeleiteten Publikationswesens sind allerdings durch mehrere Lücken und Bedarfe erschwert. Der <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/617">Vortrag</a> erläutert diese Desiderate und stellt vor, wie das von der DFG geförderte Projekt Open Access Szenarienanalysen (OASA) sich diesen und den genannten Herausforderungen widmet.</p>
+<hr>
 </section>
 <section id="weitere-beiträge" class="level1">
 <h1>Weitere Beiträge</h1>
@@ -80,6 +85,7 @@
 <p><strong>Wann:</strong> Donnerstag, 21. Mai., 11:00 – 11:30</p>
 <p><strong>Wer:</strong> Heinz Pampel und Angela Holzer</p>
 <p>Die Allianz der Wissenschaftsorganisationen ist ein Zusammenschluss der bedeutendsten Wissenschaftsorganisationen in Deutschland. Das seit 2003 bestehende Engagement für Open Access der Allianz mündete in die Open-Access-Strategie 2021–2025, die im Jahr 2025 zu einer Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026–2030 weiterentwickelt wurde <span class="citation" data-cites="allianz2025">(<span>“Strategie der Allianz für die Weiterentwicklung des wissenschaftlichen Publikationswesens 2026-2030”</span> 2025)</span>. Der <a href="https://bibliocon2026.abstractserver.com/program/#/details/presentations/241">Beitrag</a> stellt die Strategie vor und erläutert die Maßnahmen zu ihrer Umsetzung.</p>
+<hr>
 </section>
 <section id="stand-der-berliner-bibliotheken" class="level1">
 <h1>Stand der Berliner Bibliotheken</h1>
@@ -107,13 +113,13 @@ Pampel, Heinz, Friedrich Schmidgall, Laura Rothfritz, Max Liebel, and Johanna Sc
   title = {Analog Trifft {Algorithmus:} {Die} {Forschungsgruppe}
     {Information} {Management} Auf Der {Bibliocon} 2026},
   date = {2026-05-07},
-  url = {https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/},
+  url = {https://doi.org/10.59350/eeba5-q9560},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2026" class="csl-entry quarto-appendix-citeas">
 Höfting, Jonas, Catharina Ochsner, and Dorothea Strecker. 2026.
 <span>“Analog Trifft Algorithmus: Die Forschungsgruppe Information
-Management Auf Der Bibliocon 2026.”</span> May 7, 2026. <a href="https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/">https://infomgnt.org/posts/2026-05-07-analog-trifft-algorithmus-die-forschungsgruppe-information-management-auf-der-bibliocon-2026/</a>.
+Management Auf Der Bibliocon 2026.”</span> May 7, 2026. <a href="https://doi.org/10.59350/eeba5-q9560">https://doi.org/10.59350/eeba5-q9560</a>.
 </div></div></section></div> ]]></description>
   <category>Lab Life</category>
   <category>Research</category>
