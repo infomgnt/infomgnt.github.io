@@ -1,0 +1,34 @@
+---
+title: "Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices"
+author:
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de 
+- name: Heinz Pampel
+  url: https://infomgnt.org/members/Heinz_Pampel/
+  orcid: 0000-0003-3334-2771
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://www.ibi.hu-berlin.de/de 
+date: "2026-05-18"
+categories: [Lab Life, Research] 
+citation:
+  url: https://infomgnt.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs-bloggers-attitudes-and-practices/
+image: iConf.png
+bibliography: references_iConf.bib
+---
+
+We are happy to announce that our short paper “[Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices](https://publicera.kb.se/ir/article/view/64176)” has been published in [Information Research](https://publicera.kb.se/ir). The article is being published as part of the proceedings of the [iConference 2026](https://www.ischools.org/iconference) which took place march 29th - april 2nd 2026 at [Edinburgh Napier University](https://www.napier.ac.uk/) under the theme: Information Literacies, Authenticity and Use: The Move Towards a Digitally Enlightened Society.
+
+![Figure 1: Screenshot of the Article “Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices” [@ochsner]](iConf.png)
+
+The article explores the integration of scholarly blogs into digital research and information infrastructures. Based on 13 semi-structured interviews we explored the attitudes and practices of German scholarly bloggers regarding the long-term accessibility of their blogs. We found that bloggers recognize the importance of making their blogs long-term accessible and express a desire for their integration into existing digital infrastructures. However, bloggers face organizational challenges, leading to varying levels of engagement in preservation practices, ranging from obtaining formal identifiers like ISSNs and DOIs to relying on individual strategies, such as local backups. We propose clearer guidelines and support systems to facilitate the long-term accessibility of scholarly blogs [@ochsner] The article can be found [here](https://doi.org/10.47989/ir31iConf64176).
+
+Ochsner, C., & Pampel, H. (2026). Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices. Information Research an International Electronic Journal, 31(iConf), 1761–1769. <https://doi.org/10.47989/ir31iConf64176>
+
+The slides for the talk were published on Zenodo and can be accessed [here](https://doi.org/10.5281/zenodo.19607536). We thank the iConference for giving us the opportunity to present our research and the anonymous reviewers for their helpful feedback.
+
+Further information about the research group can be found on our [official website](http://hu.berlin/infomgnt).
+
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
