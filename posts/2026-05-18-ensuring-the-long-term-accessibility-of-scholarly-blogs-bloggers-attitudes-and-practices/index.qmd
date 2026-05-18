@@ -14,7 +14,7 @@ author:
 date: "2026-05-18"
 categories: [Lab Life, Research] 
 citation:
-  url: https://infomgnt.org/posts/2026-05-18-ensuring-the-long-term-accessibility-of-scholarly-blogs-bloggers-attitudes-and-practices/
+  url: https://doi.org/10.59350/9q8qf-mcn24
 image: iConf.png
 bibliography: references_iConf.bib
 ---
