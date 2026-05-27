@@ -14,7 +14,7 @@ author:
 date: "2026-05-27"
 categories: [Research]
 citation:
-  url: https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/
+  url: https://doi.org/10.59350/1n10v-cfy19
 image: empfehlungen_rfc.png
 bibliography: references_empfehlungen.bib
 ---
