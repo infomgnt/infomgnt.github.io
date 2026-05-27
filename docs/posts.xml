@@ -10,7 +10,90 @@
 <atom:link href="https://infomgnt.org/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 17 May 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Aufruf zur Mitgestaltung: Empfehlungen zur Professionalisierung institutioneller Open Access Repositorien</title>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Heinz Pampel</dc:creator>
+  <link>https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Institutionelle Repositorien (IRs) sind heute ein zentraler Bestandteil der Informationsinfrastruktur vieler Forschungseinrichtungen. Mit der wachsenden strategischen Bedeutung von Öffnungsprozessen in der Wissenschaft, die unter dem Begriff Open Science diskutiert werden, steigen auch die Anforderungen an den Betrieb von IRs. Dabei wirken sich wandelnde Anforderungen aus wissenschaftlichen Communities, technologische Entwicklungen und förderpolitische Entwicklungen auf ihren Betrieb aus.</p>
+<p>Dank der Förderung des Bundesministeriums für Forschung, Technologie und Raumfahrt (BMFTR) haben wir uns im Projekt <a href="https://infomgnt.org/projects/pro-oar-de/">Pro OAR DE</a> intensiv mit dem Stand und der Perspektive der IRs in Deutschland beschäftigt.</p>
+<section id="empirische-grundlage" class="level2">
+<h2 class="anchored" data-anchor-id="empirische-grundlage">Empirische Grundlage</h2>
+<p>Den Ausgangspunkt bildete ein Systematic Literature Review, das die in der internationalen bibliotheks- und informationswissenschaftlichen Literatur diskutierten Herausforderungen für den Betrieb von IRs untersuchte <span class="citation" data-cites="rothfritz_current_2026">(Rothfritz et al. 2026)</span>. Ergänzend dazu wurden 15 qualitative Expert:inneninterviews mit IR-Manager:innen deutscher wissenschaftlicher Bibliotheken geführt <span class="citation" data-cites="wrzesinski_challenges_2026">(Wrzesinski et al. 2026)</span>. Aufbauend auf diesen Ergebnissen organisierte das Projektteam anschließend <a href="https://zenodo.org/communities/infomgnt/records?q=&amp;f=publication_date%3A2025..2025&amp;f=resource_type%3Apublication%2Binner%3Apublication-report&amp;l=list&amp;p=1&amp;s=10&amp;sort=newest">sieben virtuelle Vernetzungsforen</a> zu zentralen Themenfeldern. Diese kombinierten Impulsvorträge mit Diskussionen in Kleingruppen; die Ergebnisse wurden dokumentiert und als praxisorientierte Handreichungen veröffentlicht.</p>
+</section>
+<section id="zehn-empfehlungen" class="level2">
+<h2 class="anchored" data-anchor-id="zehn-empfehlungen">Zehn Empfehlungen</h2>
+<p>Die Ergebnisse dieser drei Projektteile wurden zusammengeführt, um Handlungsfelder und Lösungsvorschläge zu extrahieren, und um weitere Aspekte ergänzt, die im Laufe der Projektlaufzeit die Fachdiskussion prägten. Das Resultat sind Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland, die zehn Handlungsfelder adressieren:</p>
+<ol type="1">
+<li><p><strong>Institutionelle Governance und Verantwortung stärken</strong> – IRs sollten verbindlich in institutionellen Strategien verankert und von der Leitungsebene ausdrücklich als strategische Infrastruktur anerkannt werden.</p></li>
+<li><p><strong>Finanzielle und personelle Ressourcen nachhaltig sichern</strong> – Gefordert werden langfristige Finanzierungsmodelle sowie gezielte Professionalisierung des Personals an den Schnittstellen von Bibliothek, IT, Verwaltung und Wissenschaft.</p></li>
+<li><p><strong>Monitoring etablieren und systematisch nutzen</strong> – Einrichtungen sollten strategisch entscheiden, welche Rolle IRs für Publikations-, Kosten- und Compliance-Monitoring spielen sollen und wie die gewonnenen Daten in Entscheidungsprozesse einfließen.</p></li>
+<li><p><strong>Künstlicher Intelligenz strategisch begegnen</strong> – Empfohlen werden ein strategisches Bot-Management entlang der COAR-Initiative „Dealing with Bots” <span class="citation" data-cites="shearer_open_2025">(Shearer and Walk 2025)</span> sowie die verantwortungsvolle Nutzung KI-gestützter Werkzeuge im IR-Betrieb.</p></li>
+<li><p><strong>Rechtliche Rahmenbedingungen berücksichtigen</strong> – Empfohlen werden integrierte Beratungsangebote zu Lizenzierung und Zweitveröffentlichung sowie standardisierte Verfahren zur Rechteprüfung.</p></li>
+<li><p><strong>Kommunikation und Vernetzung ausbauen</strong> – Notwendig sind klare Organisations- und Kommunikationsstrukturen, zielgruppenspezifische Angebote für Wissenschaftler:innen sowie stärkere nationale und internationale Vernetzung.</p></li>
+<li><p><strong>Interoperable und nachhaltige Systeme etablieren</strong> – Empfohlen wird die konsequente Nutzung etablierter Standards, persistenter Identifikatoren und interoperabler Open-Source-Lösungen.</p></li>
+<li><p><strong>Vielfalt wissenschaftlicher Outputs anerkennen und unterstützen</strong> – Unterschiedliche Publikationsformate sollten technisch und organisatorisch besser berücksichtigt sowie die Vernetzung mit Forschungsdaten strategisch gestaltet werden.</p></li>
+<li><p><strong>Metadatenqualität erhöhen</strong> – Empfohlen werden professionalisierte Kurationsworkflows mit hohem Automatisierungsgrad sowie benutzerfreundliche Eingabesysteme und Interfaces.</p></li>
+<li><p><strong>Digitale Langzeitverfügbarkeit sicherstellen</strong> – Gefordert werden institutionelle Konzepte zur Langzeitverfügbarkeit sowie Kooperationen mit spezialisierten Einrichtungen.</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/empfehlungen_rfc.png" class="img-fluid figure-img"></p>
+<figcaption>Abbildung 1: Screenshot des Empfehlungs-Dokuments.</figcaption>
+</figure>
+</div>
+</section>
+<section id="jetzt-mitgestalten" class="level2">
+<h2 class="anchored" data-anchor-id="jetzt-mitgestalten">Jetzt mitgestalten</h2>
+<p>Bevor diese Empfehlungen final veröffentlicht werden, durchlaufen sie einen Request-for-Comments-Prozess (RfC). Ziel dieses Verfahrens ist die Qualitätssicherung und die Entwicklung einer möglichst breiten Konsensbasis innerhalb der Open-Access-Community. Das Projektteam versteht den RfC ausdrücklich als offene Einladung zur Mitgestaltung: Rückmeldungen können von kleineren Formulierungsvorschlägen bis hin zu grundlegender Kritik reichen. Besonders gefragt ist, welche Themen aus Sicht der Community noch fehlen oder welche Vorschläge geändert werden sollten. Im Anschluss an die Kommentierungsphase wird das Projektteam die eingegangenen Rückmeldungen einarbeiten und schließlich eine finale Version der Empfehlungen veröffentlichen.</p>
+<p>Für die Beteiligung stehen zwei Wege offen: Das <a href="https://docs.google.com/document/d/1c6CvGNJ4pZ_Dlawz4JokZfOp_rVy3V5FHZ6dyJGGud0/edit?usp=sharing">Google-Dokument</a> ermöglicht eine öffentliche Kommentierung direkt im Dokument. Wer anonym kommentieren oder keinen Google-Account nutzen möchte, kann alternativ die <a href="https://hu.berlin/79486">ODT-Version</a> herunterladen, lokal kommentieren und per E-Mail an <a href="mailto:jonas.hoefting@hu-berlin.de">jonas.hoefting@hu-berlin.de</a> einsenden.</p>
+<p>In beiden Fällen ist die Kommentierung bis zum 14.06.2026 möglich.</p>
+<p>Das Projektteam bedankt sich herzlich bei allen Beteiligten – den Interviewpartner:innen, den Vortragenden und Teilnehmenden der Vernetzungsforen sowie allen Personen, die sich am RfC beteiligen.</p>
+<p>Das Projekt Pro OAR DE wird vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) unter dem Förderkennzeichen 16KOA001 gefördert.</p>
+<hr>
+<p>Weitere Informationen zur Forschungsgruppe finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Website</a>.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-rothfritz_current_2026" class="csl-entry">
+Rothfritz, Laura, Lisa Matthias, Heinz Pampel, and Marcel Wrzesinski. 2026. <span>“Current Challenges and Future Directions for Institutional Repositories: A Systematic Literature Review.”</span> <em>Journal of the Association for Information Science and Technology</em> 77 (1): 301–22. <a href="https://doi.org/10.1002/asi.70016">https://doi.org/10.1002/asi.70016</a>.
+</div>
+<div id="ref-shearer_open_2025" class="csl-entry">
+Shearer, Kathleen, and Paul Walk. 2025. <span>“Open Repositories Are Being Profoundly Impacted by <span>AI</span> Bots and Other Crawlers: Report from a <span>COAR</span> Survey.”</span> <span>COAR</span>. <a href="https://coar-repositories.org/news-updates/open-repositories-are-being-profoundly-impacted-by-ai-bots-and-other-crawlers-results-of-a-coar-survey/">https://coar-repositories.org/news-updates/open-repositories-are-being-profoundly-impacted-by-ai-bots-and-other-crawlers-results-of-a-coar-survey/</a>.
+</div>
+<div id="ref-wrzesinski_challenges_2026" class="csl-entry">
+Wrzesinski, Marcel, Heinz Pampel, Laura Rothfritz, and Christopher Onzie Khamis. 2026. <span>“Challenges and Chances for Innovation for the Institutional Repository Landscape in Germany: Results from an Interview Study.”</span> <em>Journal of Librarianship and Scholarly Communication</em> 14 (1). <a href="https://doi.org/10.31274/jlsc.19047">https://doi.org/10.31274/jlsc.19047</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2026,
+  author = {Höfting, Jonas and Pampel, Heinz},
+  title = {Aufruf Zur {Mitgestaltung:} {Empfehlungen} Zur
+    {Professionalisierung} Institutioneller {Open} {Access}
+    {Repositorien}},
+  date = {2026-05-27},
+  url = {https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2026" class="csl-entry quarto-appendix-citeas">
+Höfting, Jonas, and Heinz Pampel. 2026. <span>“Aufruf Zur Mitgestaltung:
+Empfehlungen Zur Professionalisierung Institutioneller Open Access
+Repositorien.”</span> May 27, 2026. <a href="https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/">https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/</guid>
+  <pubDate>Tue, 26 May 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-05-27-aufruf-zur-mitgestaltung-empfehlungen-zur-professionalisierung-institutioneller-open-access-repositorien/empfehlungen_rfc.png" medium="image" type="image/png" height="183" width="144"/>
+</item>
 <item>
   <title>Ensuring the long-term accessibility of scholarly blogs: Bloggers’ attitudes and practices</title>
   <dc:creator>Catharina Ochsner</dc:creator>
@@ -1329,46 +1412,6 @@ Academia, Administration, Civil Society &amp; Culture.”</span> August
   <guid>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/</guid>
   <pubDate>Thu, 21 Aug 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/berlin_stadt_des_offenen_wissens.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Interview on Deutschlandfunk Kultur About Belgian Ruling Against Shadow Libraries</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Last week, I was interviewed on the program <a href="https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html">Breitband</a> on Deutschlandfunk Kultur about the ruling of a Belgian court against four shadow libraries, as well as the Open Library of the Internet Archive (Krempl, 2025). The broadcast is now available <a href="https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html">online</a>. Enjoy listening!</p>
-<p><img src="https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/interview-on-deutschlandfunk-kultur.jpg" class="img-fluid"></p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-deutschlandfunkkulturde_fitness_2025" class="csl-entry">
-deutschlandfunkkultur.de. 2025. <span>“Fitness <span>Tracker</span> Und <span>Co</span>: <span>Was</span> Passiert Mit Unseren Sensiblen <span>Daten</span>?”</span> <em>Deutschlandfunk Kultur</em>. <a href="https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html">https://www.deutschlandfunkkultur.de/tracking-am-handgelenk-was-passiert-mit-den-daten-aus-unseren-wearables-100.html</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
-  author = {Pampel, Heinz},
-  title = {Interview on {Deutschlandfunk} {Kultur} {About} {Belgian}
-    {Ruling} {Against} {Shadow} {Libraries}},
-  date = {2025-08-13},
-  url = {https://doi.org/10.59350/bn0bz-73473},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2025. <span>“Interview on Deutschlandfunk Kultur About
-Belgian Ruling Against Shadow Libraries.”</span> August 13, 2025. <a href="https://doi.org/10.59350/bn0bz-73473">https://doi.org/10.59350/bn0bz-73473</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/</guid>
-  <pubDate>Tue, 12 Aug 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-08-13-interview-on-deutschlandfunk-kultur/interview-on-deutschlandfunk-kultur.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
