@@ -14,7 +14,7 @@ author:
 date: "2026-06-05"
 categories: [Lab Life, Research]
 citation:
-  url: https://infomgnt.org/posts/DATE-TITLE/
+  url: https://doi.org/10.59350/kwnez-f7r13
 image: recap_securing_scholarly_blogs.png
 ---
 
