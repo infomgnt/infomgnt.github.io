@@ -10,7 +10,59 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 26 May 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Recap: Practices for Securing Scholarly Blogs</title>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <dc:creator>Johanna Schielke</dc:creator>
+  <link>https://infomgnt.org/posts/2026-06-05-recap-practices-for-securing-scholarly-blogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>As part of the <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> project, funded by the <a href="https://www.dfg.de/">German Research Foundation (DFG)</a>, on May 29 2026 we hosted an <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/online-workshop-verfahren-der-sicherung-von-wissenschaftsblogs">online workshop</a> on the digital preservation and accessibility of blogs with the goal of bringing together experts from various information infrastructure institutions to present existing procedures and discuss them collaboratively. The workshop was enriched by three contributions by experts from infrastructure facilities that already integrate blogs into their collections.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-06-05-recap-practices-for-securing-scholarly-blogs/recap_securing_scholarly_blogs.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Ivo Vogel and Nihal Ariz from the <a href="https://intrecht.de/en/">Specialized Information Service for International and Interdisciplinary Legal Research - FID intRecht</a> presented how scholarly blogs are integrated into the <a href="https://intrechtdok.de/content/index.xml">intRechtDok</a> repository. Michael Czolkoß-Hettwer from the <a href="https://pollux-fid.de/">Specialized Information Service Political Science (Pollux)</a> talked about Blog preservation efforts at Pollux while Jochen Walter from the <a href="https://www.dla-marbach.de/en/">German Literature Archive (Deutsches Literaturarchiv, DLA</a> provided insights into the archiving of digital literature and blogs. All presentations were published:</p>
+<p>Czolkoß-Hettwer, D. M. (2026, May 29). Wissenschaftsblogs &amp; Pollux: Indexierungsverfahren und Unterstützung von Blogs bei der Langzeitverfügbarkeit. Zenodo. <a href="https://doi.org/10.5281/zenodo.20491760" class="uri">https://doi.org/10.5281/zenodo.20491760</a></p>
+<p>Ochsner, C., &amp; Pampel, H. (2026, May 29). Online-Workshop: Verfahren der Sicherung von Wissenschaftsblogs. Zenodo. <a href="https://doi.org/10.5281/zenodo.20492209" class="uri">https://doi.org/10.5281/zenodo.20492209</a></p>
+<p>Vogel, I., Ariz, N., (2026). Von flüchtigen Blogposts zu zitierfähigen Forschungsressourcen: Wissenschaftsblogs in intRechtDok. <a href="https://doi.org/10.17176/20260529-120200-0" class="uri">https://doi.org/10.17176/20260529-120200-0</a></p>
+<p>Walter, J. (2026, May 29). Verfahren der Sicherung von Blogs: Praxis am DLA Marbach. Zenodo. <a href="https://doi.org/10.5281/zenodo.20526739" class="uri">https://doi.org/10.5281/zenodo.20526739</a></p>
+<section id="discussion" class="level2">
+<h2 class="anchored" data-anchor-id="discussion">Discussion</h2>
+<p>Together with more than 30 participants from specialized information services, libraries, archives, and research infrastructure organizations, we discussed practices of integrating blogs into digital research and information infrastructures. The discussion revealed that many institutions face similar challenges. A key topic was the question of how discussions and cross-references between blog posts can be documented over the long term. While individual replies or follow-up posts can be archived, it became clear that it is technically and organizationally difficult to capture the full history of discussions. Furthermore, participants discussed the question of which blogs should be considered scholarly blogs. Criteria such as academic affiliations, editorial quality control, and editorial boards were discussed. At the same time, it became clear that the diversity of scholarly blog formats makes it difficult to draw clear distinctions. Several participants emphasized the growing relevance of blogs. They noted that these are no longer merely communication tools, but are increasingly evolving into independent research resources and subjects of research in the history of science.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Participants agreed that the long-term preservation of scholarly blogs is much more than a technical task. It requires the interplay of archiving, metadata standards, persistent identifiers, organizational processes, and collaboration between blog operators and infrastructure providers. At the same time, it became clear that viable solutions already exist today. Whether through repositories, aggregators, or archiving initiatives, scholarly blogs are increasingly recognized as part of the academic publishing landscape. Their long-term preservation is thus not only a matter of availability but also of safeguarding academic communication and the scholarly record.</p>
+<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
+<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2026,
+  author = {Ochsner, Catharina and Schielke, Johanna},
+  title = {Recap: {Practices} for {Securing} {Scholarly} {Blogs}},
+  date = {2026-06-05},
+  url = {https://infomgnt.org/posts/DATE-TITLE/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2026" class="csl-entry quarto-appendix-citeas">
+Ochsner, Catharina, and Johanna Schielke. 2026. <span>“Recap: Practices
+for Securing Scholarly Blogs.”</span> June 5, 2026. <a href="https://infomgnt.org/posts/DATE-TITLE/">https://infomgnt.org/posts/DATE-TITLE/</a>.
+</div></div></section></div> ]]></description>
+  <category>Lab Life</category>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-06-05-recap-practices-for-securing-scholarly-blogs/</guid>
+  <pubDate>Thu, 04 Jun 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-06-05-recap-practices-for-securing-scholarly-blogs/recap_securing_scholarly_blogs.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Aufruf zur Mitgestaltung: Empfehlungen zur Professionalisierung institutioneller Open Access Repositorien</title>
   <dc:creator>Jonas Höfting</dc:creator>
@@ -1372,46 +1424,6 @@ International Open Access Week 2025.”</span> October 1, 2025. <a href="https:/
   <guid>https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/</guid>
   <pubDate>Tue, 30 Sep 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-01-panel-discussion-to-kick-off-the-international-open-access-week/OAWeek2025.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Berlin – City of Open Knowledge for Academia, Administration, Civil Society &amp; Culture</title>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <link>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I am pleased to share that our <a href="http://hu.berlin/infomgnt">research group</a> is a partner of the <a href="https://www.berlin-university-alliance.de/commitments/research-quality/openx/berlin-stow/index.html">“Berlin – City of Open Knowledge for Academia, Administration, Civil Society &amp; Culture”</a> conference.</p>
-<p>The conference will take place on October 23, 2025, from 9:30 AM to 4:30 PM, as part of the international <a href="https://www.openaccessweek.org/">Open Access Week 2025</a>.</p>
-<p>This event will bring together experts, practitioners, and engaged citizens to explore the future of open knowledge-sharing in Berlin. Through a variety of interactive formats, participants will discuss strategies, present projects, and identify opportunities for cross-sector collaboration. A key element of the program is an Open Lab / Barcamp session, designed for self-organized discussions, project showcases, and idea exchanges.</p>
-<p><img src="https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/berlin_stadt_des_offenen_wissens.jpeg" class="img-fluid"></p>
-<p>Registration is <a href="https://www.berlin-university-alliance.de/commitments/research-quality/openx/berlin-stow/index.html">now open</a>. Please note, the conference will be held in German. The event will be hosted at the Seminarzentrum (Silberlaube) at Freie Universität Berlin.</p>
-<p>The conference, supported by the Berlin University Alliance (BUA), is organized by colleagues from BUA, Humboldt-Universität zu Berlin, Open Research Office Berlin, Stiftung Preußischer Kulturbesitz, Staatsbibliothek zu Berlin, Universität der Künste, and Weizenbaum Institut.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pampel2025,
-  author = {Pampel, Heinz},
-  title = {Berlin – {City} of {Open} {Knowledge} for {Academia,}
-    {Administration,} {Civil} {Society} \&amp; {Culture}},
-  date = {2025-08-22},
-  url = {https://doi.org/10.59350/j9987-g2h67},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pampel2025" class="csl-entry quarto-appendix-citeas">
-Pampel, Heinz. 2025. <span>“Berlin – City of Open Knowledge for
-Academia, Administration, Civil Society &amp; Culture.”</span> August
-22, 2025. <a href="https://doi.org/10.59350/j9987-g2h67">https://doi.org/10.59350/j9987-g2h67</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/</guid>
-  <pubDate>Thu, 21 Aug 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-08-22-berlin-city-of-open-knowledge-for-academia-administration-civil-society-culture/berlin_stadt_des_offenen_wissens.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
