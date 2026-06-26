@@ -14,7 +14,7 @@ author:
 date: "2026-06-25"
 categories: [Research]
 citation:
-  url: https://infomgnt.org/posts/2026-06-25-aufruf-zur-mitgestaltung-materialsammlung-fuer-die-gestaltung-des-institutionellen-pulikationskostenmonitorings/
+  url: https://doi.org/10.59350/rn9w2-y3g63
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
