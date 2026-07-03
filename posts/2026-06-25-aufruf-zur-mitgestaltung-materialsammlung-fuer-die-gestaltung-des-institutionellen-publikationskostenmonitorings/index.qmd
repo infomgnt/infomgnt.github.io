@@ -5,11 +5,13 @@ author:
   url: https://infomgnt.org/members/Dorothea_Strecker/
   orcid: 0000-0002-9754-3807
   affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://ror.org/01hcx6992 
   ror: https://ror.org/01hcx6992
 - name: Heinz Pampel
   url: https://infomgnt.org/members/Heinz_Pampel/
   orcid: 0000-0003-3334-2771
   affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science ; Helmholtz-Gemeinschaft, Helmholtz Open Science Office
+  affiliation-url: https://ror.org/01hcx6992
   ror: https://ror.org/01hcx6992
 date: "2026-06-25"
 categories: [Research]
