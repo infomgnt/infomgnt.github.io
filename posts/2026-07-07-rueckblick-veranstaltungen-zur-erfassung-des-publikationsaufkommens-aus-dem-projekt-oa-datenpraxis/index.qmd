@@ -15,7 +15,7 @@ author:
 date: "2026-07-07"
 categories: [Research]
 citation:
-  url: https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis
+  url: https://doi.org/10.59350/asmr6-d5229
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
