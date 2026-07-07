@@ -10,7 +10,58 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Wed, 24 Jun 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Rückblick: Veranstaltungen zur Erfassung des Publikationsaufkommens aus dem Projekt OA Datenpraxis</title>
+  <dc:creator>Dorothea Strecker</dc:creator>
+  <dc:creator>Sophia Dörner</dc:creator>
+  <link>https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Das DFG-Projekt <a href="https://oa-datenpraxis.de">OA Datenpraxis</a> unterstützt durch verschiedene Initiativen den Umgang mit Daten im Kontext der Open-Access-Transformation. In zwei praxisorientierten Veranstaltungen haben wir uns kürzlich mit der Erfassung des Publikationsaufkommens einer Einrichtung mithilfe der offenen Datenquelle <a href="https://openalex.org/about">OpenAlex</a> beschäftigt.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis/logo_oa_datenpraxis.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>Am 20.05.2026 haben wir bei der 114. BiblioCon in Berlin ein <a href="https://oa-datenpraxis.de/events/bibliocon26_20260520.html">Hands-on Lab</a> angeboten. Bei der Veranstaltung “How To: Das Publikationsaufkommen Ihrer Einrichtung mit einer offenen Datenquelle erfassen” haben wir mit etwa 30 Teilnehmenden erarbeitet, wie sie mit Hilfe eines R-Notebooks Publikationsdaten ihrer Einrichtung anhand der ROR-ID über die OpenAlex API abfragen können. Danach haben wir die abgefragten Datensätze exploriert und für die weitere Auswertung vorbereitet; als Beispiel für die Datenbereinigung haben wir einen Ansatz zur Disambiguierung der Namensansetzungen von Verlagen durchgespielt. Aufgrund des großen Interesses haben wir das Format am 01.07.2026 mit einer ähnlichen Teilnehmendenzahl in einem Webinar wiederholt.</p>
+<p>Beide Veranstaltungen waren in ihrem Aufbau angelehnt an das Format und die <em>teaching philosophy</em> von <a href="https://carpentries.org/">The Carpentries</a>. The Carpentries ist eine Initiative mit globaler Community, die Workshops zum Erlernen von grundlegenden Programmier- und Data-Science-Kenntnissen entwickelt und unterrichtet. Die Workshops basieren auf einem praxisorientierten Ansatz („Code with me“) und es wird besonderer Wert auf eine inklusive und unterstützende (Lern-)Kultur gelegt.</p>
+<p>Beide Veranstaltungen von OA Datenpraxis folgten ebenfalls diesen Prinzipien und setzten keine Programmierkenntnisse voraus. Dadurch sollten insbesondere auch Personen zur Teilnahme ermutigt werden, die in ihrer bisherigen Berufspraxis noch wenig Berührungspunkte mit Datenanalysen gesammelt hatten. Während der Veranstaltungen wurden die Teilnehmenden ebenfalls ermutigt, sich aktiv zu beteiligen sowie Fragen zu stellen. Besonders interessiert waren die Teilnehmenden an der Präzisierung der Treffermenge, z. B. durch Boolesche Operatoren oder die Einschränkung auf Corresponding Authors, sowie die Ermittlung des Publikationsaufkommens bestimmter Autor:innen.</p>
+<p>Die bei den Veranstaltungen genutzten Materialien wurden auf <a href="https://github.com/oa-datenpraxis/materials/tree/main/BiblioCon26">GitHub</a> veröffentlicht. Dort ist unter anderem ein Musternotebook abgelegt, das neben Codeblöcken auch Erläuterungen zum Vorgehen enthält. Mit diesen Materialien können alle Interessierten die Inhalte der Veranstaltungen eigenständig nachvollziehen.</p>
+<p>Ergänzend weisen wir gerne noch auf interaktive Notebooks hin, die wir im Rahmen des Projekts erstellt haben. Die Notebooks sind auf der OA Datenpraxis Projektwebseite veröffentlicht und können direkt im Browser ausgeführt werden – die Installation von Software ist darum nicht erforderlich.</p>
+<ul>
+<li><p><a href="https://oa-datenpraxis.de/OpenAPC.html">Open Access Cost Monitoring with OpenAPC</a></p></li>
+<li><p><a href="https://oa-datenpraxis.de/OpenAlex.html">Open Access Monitoring</a></p></li>
+<li><p><a href="https://oa-datenpraxis.de/ROR.html">Affiliation search using ROR IDs</a></p></li>
+</ul>
+<hr>
+<p>Weitere Informationen zur Forschungsgruppe finden sich auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Website</a>.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">(View License)</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2026,
+  author = {Strecker, Dorothea and Dörner, Sophia},
+  title = {Rückblick: {Veranstaltungen} Zur {Erfassung} Des
+    {Publikationsaufkommens} Aus Dem {Projekt} {OA} {Datenpraxis}},
+  date = {2026-07-07},
+  url = {https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2026" class="csl-entry quarto-appendix-citeas">
+Strecker, Dorothea, and Sophia Dörner. 2026. <span>“Rückblick:
+Veranstaltungen Zur Erfassung Des Publikationsaufkommens Aus Dem Projekt
+OA Datenpraxis.”</span> July 7, 2026. <a href="https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis">https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <guid>https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis/</guid>
+  <pubDate>Mon, 06 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-07-07-rueckblick-veranstaltungen-zur-erfassung-des-publikationsaufkommens-aus-dem-projekt-oa-datenpraxis/logo_oa_datenpraxis.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Aufruf zur Mitgestaltung: Materialsammlung fuer die Gestaltung des institutionellen Publikationskostenmonitorings</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1377,63 +1428,6 @@ Open Access Landscape.”</span> October 7, 2025. <a href="https://doi.org/10.59
   <guid>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</guid>
   <pubDate>Mon, 06 Oct 2025 22:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Report from the BUA fellowship: Metadata flows in the context of research data</title>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I recently returned from a research stay at the University of Ottawa: A grant by the Berlin University Alliance (BUA) - through the <a href="https://www.berlin-university-alliance.de/en/commitments/research-quality/forschung/fellowship/index.html">BUA Fellowship Program of the Objective 3 - Advancing Research Quality and Value</a> - allowed me to visit Stefanie Haustein, associate professor at the School of Information Studies at the University of Ottawa and co-director of the <a href="https://www.scholcommlab.ca/">Scholarly Communications Lab</a>.</p>
-<p><img src="https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/Desmarais_Building.jpeg" class="img-fluid"></p>
-<p>During my stay, I investigated how metadata describing research data flows from local to global contexts. I previously wrote about my research and why it matters on this blog <span class="citation" data-cites="strecker_bua_2025">(Strecker 2025)</span>. In the course of my stay, I was able to collect and prepare data for analysis. As a first step, I reviewed records of the registry of research data repositories <a href="https://www.re3data.org">re3data</a> to check the status of OAI-PMH endpoints listed there. Next, I determined which endpoints expose metadata in specialized format using the <a href="https://rdamsc.bath.ac.uk">RDA Metadata Standards Catalog</a>, and checked which repositories have assigned DOIs to their resources. I selected 8 research data repositories - four from the social sciences and four from the geosciences. For each of these repositories, I retrieved metadata records based on (1) the specialized metadata schema, and (2) the DataCite Metadata Schema. The procedure I used ensures that these records describe the same resource, but in two different schemas. To prepare for the analysis, I updated and extended existing mappings between 3 specialized metadata schemas and the DataCite Metadata Schema. I am currently preparing a manuscript that will outline the results of this study.</p>
-<p>In the six weeks I spent in Ottawa, I was also able to participate in another research activity - I contributed to a data collection initiative at the Scholarly Communications Lab that contextualized a recent suggestion by the National Institutes of Health (NIH) in the USA to cap APC funding. The data was initially used in a Science news article <span class="citation" data-cites="brainard_nih_nodate">(Brainard, n.d.)</span>. After extending the dataset further to include more journals and articles, it was published <span class="citation" data-cites="haustein_apcs_2025">(Haustein et al. 2025a)</span> alongside two blog posts <span class="citation" data-cites="haustein_nih_2025 the_scholarly_communications_lab_shaking_2025">(Haustein et al. 2025b; The Scholarly Communications Lab 2025)</span>.</p>
-<p>I was also able to present my research to members of the Scholarly Communications Lab and University of Ottawa faculty members, and to discuss shared interests throughout my stay. Prof.&nbsp;Haustein also invited me to contribute materials on metadata for research data to a knowledge organization course.</p>
-<p>The stay was very beneficial to my research. I was able to explore my chosen topic in depth and establish contact with colleagues that share my interests. I would like to thank the BUA for giving me this opportunity, and Stefanie Haustein, the Scholarly Communications Lab and University of Ottawa faculty for the welcoming atmosphere.</p>
-<p>Further information about the research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-brainard_nih_nodate" class="csl-entry">
-Brainard, Jeffrey. n.d. <span>“<span>NIH</span> Details Options for Limiting Its Payments for Open-Access Publishing Fees.”</span> <em>Science News</em>. <a href="https://doi.org/10.1126/science.zrf8mfm">https://doi.org/10.1126/science.zrf8mfm</a>.
-</div>
-<div id="ref-haustein_apcs_2025" class="csl-entry">
-Haustein, Stefanie, Eric Schares, Juan Pablo Alperin, Flavia Camargo, Lisa Matthias, Lucía Céspedes, Constance Poitras, and Dorothea Strecker. 2025a. <span>“<span>APCs</span> of 2,228 Journals Where <span>NIH</span>-Funded Authors Published in 2025.”</span> Harvard Dataverse. <a href="https://doi.org/10.7910/DVN/3XDMNF">https://doi.org/10.7910/DVN/3XDMNF</a>.
-</div>
-<div id="ref-haustein_nih_2025" class="csl-entry">
-———. 2025b. <span>“<span>NIH</span> Explores Capping <span>APCs</span>: <span>Let</span>’s Look at the Evidence.”</span> <em>Scholarly Communications Lab <span></span> ScholCommLab</em>. <a href="https://www.scholcommlab.ca/2025/09/03/nih-apc-caps/">https://www.scholcommlab.ca/2025/09/03/nih-apc-caps/</a>.
-</div>
-<div id="ref-strecker_bua_2025" class="csl-entry">
-Strecker, Dorothea. 2025. <span>“<span>BUA</span> Fellowship: <span>Metadata</span> Flows in the Context of Research Data.”</span> <em>Research Group Information Management @ Humboldt-Universität Zu Berlin</em>. <a href="https://doi.org/10.59350/wwwj7-4cm07">https://doi.org/10.59350/wwwj7-4cm07</a>.
-</div>
-<div id="ref-the_scholarly_communications_lab_shaking_2025" class="csl-entry">
-The Scholarly Communications Lab. 2025. <span>“Shaking up the Scholarly Publishing Market – <span>Why</span> Caps on <span>APCs</span> Could Backfire - <span>Impact</span> of <span>Social</span> <span>Sciences</span>.”</span> <em>LSE Impact Blog</em>. <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/">https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/11/shaking-up-the-scholarly-publishing-market-why-caps-on-apcs-could-backfire/</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{strecker2025,
-  author = {Strecker, Dorothea},
-  title = {Report from the {BUA} Fellowship: {Metadata} Flows in the
-    Context of Research Data},
-  date = {2025-10-03},
-  url = {https://doi.org/10.59350/fzz0a-wv919},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-strecker2025" class="csl-entry quarto-appendix-citeas">
-Strecker, Dorothea. 2025. <span>“Report from the BUA Fellowship:
-Metadata Flows in the Context of Research Data.”</span> October 3, 2025.
-<a href="https://doi.org/10.59350/fzz0a-wv919">https://doi.org/10.59350/fzz0a-wv919</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/</guid>
-  <pubDate>Thu, 02 Oct 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-10-03-Report-from-the-BUA-fellowship-Metadata-flows-in-the-context-of-research-data/Desmarais_Building.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
