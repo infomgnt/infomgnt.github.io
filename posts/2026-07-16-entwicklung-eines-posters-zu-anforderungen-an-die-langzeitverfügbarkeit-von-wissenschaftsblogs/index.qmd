@@ -1,0 +1,62 @@
+---
+title: "Entwicklung eines Posters zu Anforderungen an die Langzeitverfuegbarkeit von Wissenschaftsblogs"
+author:
+- name: Johanna Schielke
+  url: https://infomgnt.org/members/Johanna_Schielke/
+  orcid: 0009-0002-8619-5779
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science
+  affiliation-url: https://ror.org/01hcx6992
+  ror: https://ror.org/01hcx6992
+date: "2026-07-16"
+categories: [Research, Lab Life, Students]
+citation:
+  url: https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfuegbarkeit-von-wissenschaftsblogs
+license:
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+funder:
+  name: "Deutsche Forschungsgemeinschaft"
+  funder-id: https://ror.org/018mejw64
+  grant-number: "528958385"
+  program: "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs)"
+image: poster_datei_rgb.jpg
+bibliography: references_2026_07_16.bib
+---
+
+Wissenschaftsblogs stellen einen wichtigen Bestandteil der wissenschaftlichen Kommunikationskultur dar [@ochsner_requirements_2026]. Als interaktive Publikationsformen [@konig_herausforderung_2015] unterstützen Blogs den Austausch unter Forschenden und tragen gleichzeitig zur Dialogförderung zwischen Wissenschaft und Gesellschaft bei. Blogs regen Diskussionen an und ermöglichen eine direkte, schnelle sowie offene Kommunikation von Forschungsergebnissen [@konig_herausforderung_2015; @ochsner_requirements_2026]. In Bezug auf ihre Langzeitverfügbarkeit und Zitierfähigkeit stehen Wissenschaftsblogs jedoch vor besonderen Herausforderungen [@ochsner_requirements_2026]. Um die Sicherung und Auffindbarkeit von Inhalten dauerhaft gewährleisten zu können, wurde im Rahmen des von der [Deutschen Forschungsgemeinschaft (DFG)](https://www.dfg.de/) geförderten Projekts [Infra Wiss Blogs](https://infrawissblogs.org/) ein Anforderungskatalog entwickelt, der anhand einer kooperativen Informationsinfrastruktur Maßnahmen zur langfristigen Verfügbarkeit und eindeutigen Zitierbarkeit von Wissenschaftsblogs darstellt [@ochsner_requirements_2026]. Als Teil der \[Forschungsgruppe Information Management\] (https://www.ibi.hu-berlin.de/de/forschung/infomanagement) am [Institut für Bibliotheks- und Informationswissenschaft (IBI)](https://www.ibi.hu-berlin.de) habe ich zur bildlichen Vermittlung der Kataloginhalte ein wissenschaftliches Poster gestaltet.
+
+------------------------------------------------------------------------
+
+![Wissenschaftsposter: “Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs”](poster_datei_rgb.jpg){fig-align="center"}
+
+------------------------------------------------------------------------
+
+### Zum Gestaltungsprozess des Posters:
+
+Für die visuelle Gestaltung des Posters hatte ich zunächst mehrere Ideen, die ich anhand von Mind-Maps und kleinen Skizzen auf Papier weiterentwickelt oder verändert habe. Ich mag Fantasy und Science-Fiction und hatte deshalb den Einfall, die Inhalte des Anforderungskatalogs in ein ‚magisches Bild-Setting‘ zu übertragen, das gleichzeitig Spaß beim Anschauen macht und die wissenschaftlichen Inhalte gut transportieren kann. Bisher habe ich vor allem Illustrationen für Veranstaltungs- und Konzertposter angefertigt und fand es spannend, mir die Gestaltung für ein wissenschaftliches Poster überlegen zu können.
+
+Im Prozess der Bildentwicklung habe ich alle Motive per Hand gezeichnet und anschließend am Computer eingefärbt. Hierbei entschied ich mich dazu, die Zeichnungen in der Größe der final geplanten Druckversion (DIN-A0) anzufertigen. Ich finde, dass man dadurch einen besonders guten Eindruck zur Wirkung einzelner Bildelemente und deren Beziehung zueinander erhalten kann. Weil ich kein Papier in der passenden Größe zur Hand hatte, habe ich dafür einfach mehrere A3-große Blätter zusammengeklebt. Darauf konnte ich nun eine vergrößerte Bleistiftzeichnung meiner kleinen Skizze übertragen. Nach einer erneuten Überarbeitung dieser Vorzeichnung trennte ich alle Papiere wieder voneinander, um im Anschluss einzelne Bildteile am Schreibtisch mit schwarzer Tusche und Pinsel nachzuzeichnen.
+
+------------------------------------------------------------------------
+
+::: {#fig-zeichnungen layout-ncol="3"}
+![Tuschen der einzelnen Bleistiftzeichnungen](zeichnung_1.jpg){#Zeichnung-1}
+
+![Fertig gezeichnete Details](zeichnung_2.jpg){#Zeichnung-2}
+
+![Zusammenlegen aller Tuschezeichnungen](zeichnung_3.jpg){#Zeichnung-3}
+
+(Fotos von Catharina Ochsner & Johanna Schielke)
+:::
+
+------------------------------------------------------------------------
+
+Im nächsten Schritt habe ich die insgesamt zehn fertig gezeichneten A3-Blätter eingescannt und am Computer mit verschiedenen Bildbearbeitungsprogrammen zu einer einzelnen Datei zusammengefügt. Der Einfärbungsprozess der bisherigen schwarz-weißen Version fand ebenfalls digital statt. Nachdem der fertiggestellte Bildteil des Posters exportiert war, konnte ich mithilfe eines Textbearbeitungsprogramms den schriftlichen Inhalt zum Anforderungskatalog einfügen und entsprechend formatieren.
+
+Das Wissenschaftsposter war Teil der Poster-Ausstellung auf der 114. BiblioCon (2026) in Berlin [@schielke_anforderungen_2026] und ist derzeit am Institut für Bibliotheks- und Informationswissenschaft (IBI) der Humboldt-Universität zu Berlin ausgestellt.
+
+------------------------------------------------------------------------
+
+Weitere Informationen zum Projekt InfraWissBlogs und zu der Forschungsgruppe Information Management sind auf unserer [offiziellen Webseite](http://hu.berlin/infomgnt) zu finden.
+
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).

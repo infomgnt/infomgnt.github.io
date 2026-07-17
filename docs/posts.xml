@@ -10,7 +10,107 @@
 <atom:link href="https://infomgnt.org/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 06 Jul 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Entwicklung eines Posters zu Anforderungen an die Langzeitverfuegbarkeit von Wissenschaftsblogs</title>
+  <dc:creator>Johanna Schielke</dc:creator>
+  <link>https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Wissenschaftsblogs stellen einen wichtigen Bestandteil der wissenschaftlichen Kommunikationskultur dar <span class="citation" data-cites="ochsner_requirements_2026">(Ochsner and Pampel 2026)</span>. Als interaktive Publikationsformen <span class="citation" data-cites="konig_herausforderung_2015">(König 2015)</span> unterstützen Blogs den Austausch unter Forschenden und tragen gleichzeitig zur Dialogförderung zwischen Wissenschaft und Gesellschaft bei. Blogs regen Diskussionen an und ermöglichen eine direkte, schnelle sowie offene Kommunikation von Forschungsergebnissen <span class="citation" data-cites="konig_herausforderung_2015 ochsner_requirements_2026">(König 2015; Ochsner and Pampel 2026)</span>. In Bezug auf ihre Langzeitverfügbarkeit und Zitierfähigkeit stehen Wissenschaftsblogs jedoch vor besonderen Herausforderungen <span class="citation" data-cites="ochsner_requirements_2026">(Ochsner and Pampel 2026)</span>. Um die Sicherung und Auffindbarkeit von Inhalten dauerhaft gewährleisten zu können, wurde im Rahmen des von der <a href="https://www.dfg.de/">Deutschen Forschungsgemeinschaft (DFG)</a> geförderten Projekts <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> ein Anforderungskatalog entwickelt, der anhand einer kooperativen Informationsinfrastruktur Maßnahmen zur langfristigen Verfügbarkeit und eindeutigen Zitierbarkeit von Wissenschaftsblogs darstellt <span class="citation" data-cites="ochsner_requirements_2026">(Ochsner and Pampel 2026)</span>. Als Teil der [Forschungsgruppe Information Management] (https://www.ibi.hu-berlin.de/de/forschung/infomanagement) am <a href="https://www.ibi.hu-berlin.de">Institut für Bibliotheks- und Informationswissenschaft (IBI)</a> habe ich zur bildlichen Vermittlung der Kataloginhalte ein wissenschaftliches Poster gestaltet.</p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/poster_datei_rgb.jpg" class="img-fluid figure-img"></p>
+<figcaption>Wissenschaftsposter: “Anforderungen an eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs”</figcaption>
+</figure>
+</div>
+<hr>
+<section id="zum-gestaltungsprozess-des-posters" class="level3">
+<h3 class="anchored" data-anchor-id="zum-gestaltungsprozess-des-posters">Zum Gestaltungsprozess des Posters:</h3>
+<p>Für die visuelle Gestaltung des Posters hatte ich zunächst mehrere Ideen, die ich anhand von Mind-Maps und kleinen Skizzen auf Papier weiterentwickelt oder verändert habe. Ich mag Fantasy und Science-Fiction und hatte deshalb den Einfall, die Inhalte des Anforderungskatalogs in ein ‚magisches Bild-Setting‘ zu übertragen, das gleichzeitig Spaß beim Anschauen macht und die wissenschaftlichen Inhalte gut transportieren kann. Bisher habe ich vor allem Illustrationen für Veranstaltungs- und Konzertposter angefertigt und fand es spannend, mir die Gestaltung für ein wissenschaftliches Poster überlegen zu können.</p>
+<p>Im Prozess der Bildentwicklung habe ich alle Motive per Hand gezeichnet und anschließend am Computer eingefärbt. Hierbei entschied ich mich dazu, die Zeichnungen in der Größe der final geplanten Druckversion (DIN-A0) anzufertigen. Ich finde, dass man dadurch einen besonders guten Eindruck zur Wirkung einzelner Bildelemente und deren Beziehung zueinander erhalten kann. Weil ich kein Papier in der passenden Größe zur Hand hatte, habe ich dafür einfach mehrere A3-große Blätter zusammengeklebt. Darauf konnte ich nun eine vergrößerte Bleistiftzeichnung meiner kleinen Skizze übertragen. Nach einer erneuten Überarbeitung dieser Vorzeichnung trennte ich alle Papiere wieder voneinander, um im Anschluss einzelne Bildteile am Schreibtisch mit schwarzer Tusche und Pinsel nachzuzeichnen.</p>
+<hr>
+<div id="fig-zeichnungen" class="quarto-layout-panel">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-zeichnungen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="Zeichnung-1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/zeichnung_1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Tuschen der einzelnen Bleistiftzeichnungen</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="Zeichnung-2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/zeichnung_2.jpg" class="img-fluid figure-img"></p>
+<figcaption>Fertig gezeichnete Details</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div id="Zeichnung-3" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/zeichnung_3.jpg" class="img-fluid figure-img"></p>
+<figcaption>Zusammenlegen aller Tuschezeichnungen</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-zeichnungen-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: (Fotos von Catharina Ochsner &amp; Johanna Schielke)
+</figcaption>
+</figure>
+</div>
+<hr>
+<p>Im nächsten Schritt habe ich die insgesamt zehn fertig gezeichneten A3-Blätter eingescannt und am Computer mit verschiedenen Bildbearbeitungsprogrammen zu einer einzelnen Datei zusammengefügt. Der Einfärbungsprozess der bisherigen schwarz-weißen Version fand ebenfalls digital statt. Nachdem der fertiggestellte Bildteil des Posters exportiert war, konnte ich mithilfe eines Textbearbeitungsprogramms den schriftlichen Inhalt zum Anforderungskatalog einfügen und entsprechend formatieren.</p>
+<p>Das Wissenschaftsposter war Teil der Poster-Ausstellung auf der 114. BiblioCon (2026) in Berlin <span class="citation" data-cites="schielke_anforderungen_2026">(Schielke, Ochsner, and Pampel 2026)</span> und ist derzeit am Institut für Bibliotheks- und Informationswissenschaft (IBI) der Humboldt-Universität zu Berlin ausgestellt.</p>
+<hr>
+<p>Weitere Informationen zum Projekt InfraWissBlogs und zu der Forschungsgruppe Information Management sind auf unserer <a href="http://hu.berlin/infomgnt">offiziellen Webseite</a> zu finden.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-konig_herausforderung_2015" class="csl-entry">
+König, Mareike. 2015. <span>“Herausforderung Für Unsere <span>Wissenschaftskultur</span>: <span>Weblogs</span> in Den <span>Geisteswissenschaften</span>.”</span> In <em>Digital <span>Humanities</span>. <span>Praktiken</span> Der <span>Digitalisierung</span>, Der <span>Dissemination</span> Und Der <span>Selbstreflexivität</span></em>, 57–74. Historische <span>Mitteilungen</span> - <span>Beihefte</span> 91. Franz Steiner Verlag. <a href="https://shs.hal.science/halshs-01264402">https://shs.hal.science/halshs-01264402</a>.
+</div>
+<div id="ref-ochsner_requirements_2026" class="csl-entry">
+Ochsner, Catharina, and Heinz Pampel. 2026. <span>“Requirements for a Cooperative Information Infrastructure for the Digital Preservation of Scholarly Blogs.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2605.31117">https://doi.org/10.48550/arXiv.2605.31117</a>.
+</div>
+<div id="ref-schielke_anforderungen_2026" class="csl-entry">
+Schielke, Johanna, Catharina Ochsner, and Heinz Pampel. 2026. <span>“Anforderungen an Eine Kooperative <span>Informationsinfrastruktur</span> Für Die Langfristige <span>Verfügbarkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <a href="https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/20527">https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/20527</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">(View License)</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{schielke2026,
+  author = {Schielke, Johanna},
+  title = {Entwicklung Eines {Posters} Zu {Anforderungen} an Die
+    {Langzeitverfuegbarkeit} von {Wissenschaftsblogs}},
+  date = {2026-07-16},
+  url = {https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfuegbarkeit-von-wissenschaftsblogs},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-schielke2026" class="csl-entry quarto-appendix-citeas">
+Schielke, Johanna. 2026. <span>“Entwicklung Eines Posters Zu
+Anforderungen an Die Langzeitverfuegbarkeit von
+Wissenschaftsblogs.”</span> July 16, 2026. <a href="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfuegbarkeit-von-wissenschaftsblogs">https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfuegbarkeit-von-wissenschaftsblogs</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <category>Lab Life</category>
+  <category>Students</category>
+  <guid>https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/</guid>
+  <pubDate>Wed, 15 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-07-16-entwicklung-eines-posters-zu-anforderungen-an-die-langzeitverfügbarkeit-von-wissenschaftsblogs/poster_datei_rgb.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Rückblick: Veranstaltungen zur Erfassung des Publikationsaufkommens aus dem Projekt OA Datenpraxis</title>
   <dc:creator>Dorothea Strecker</dc:creator>
@@ -1358,76 +1458,6 @@ Open-Access-Monitorings.”</span> October 27, 2025. <a href="https://doi.org/10
   <guid>https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/</guid>
   <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-10-27-praktiken-und-infrastrukturen-des-open-access-monioring/oat.png" medium="image" type="image/png" height="80" width="144"/>
-</item>
-<item>
-  <title>Scholarly Blogs as an Integral Part of the Open Access Landscape</title>
-  <dc:creator>Catharina Ochsner</dc:creator>
-  <dc:creator>Heinz Pampel</dc:creator>
-  <dc:creator>Björn Gebert</dc:creator>
-  <dc:creator>Melanie Seltmann</dc:creator>
-  <dc:creator>Ulrike Wuttke</dc:creator>
-  <link>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" class="img-fluid"></p>
-<p>The Infra Wiss Blogs project by the Research Group Information Management was represented at this year’s <a href="https://open-access-tage.de/open-access-tage-2025-konstanz">Open Access Days</a> with the workshop “Scholarly blogs as an integral part of the open access landscape”. The workshop was organised by Catharina Ochsner and Heinz Pampel (<a href="https://www.hu-berlin.de/de">Humboldt Universität zu Berlin (HU Berlin)</a>, <a href="https://www.ibi.hu-berlin.de/de">Berlin School of Library and Information Science (IBI)</a> in collaboration with Björn Gebert (<a href="https://mittelalter.hypotheses.org/">Mittelalterblog</a> &amp; <a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Niedersächsische Staats-und Universitätsbibliothek Göttingen</a>), Melanie Seltmann (HU, IBI) and Ulrike Wuttke (<a href="https://www.fh-potsdam.de/">University of Applied Sciences Potsdam, SeDOA</a>).</p>
-<p>Guided by the question “How can science blogs be institutionally anchored as an integral part of the open access landscape?” participants examined the opportunities and challenges of institutionally linking scholarly blogs. Initial results from the Infra Wiss Blogs project were presented <span class="citation" data-cites="ochsner2025">(Ochsner et al. 2025)</span>. The aim of the workshop was to develop an understanding of the role of blogs as sustainable open access infrastructures, identify institutional challenges and develop solutions for the institutional integration of scholarly blogs in order to promote science blogs in the spirit of open access in a sustainable manner. This blog post documents the workshop from the organisers’ perspective.</p>
-<section id="discussion" class="level1">
-<h1>Discussion</h1>
-<p>Based on two thesis participants discussed the role of scholarly blogs as open access tools.</p>
-<section id="thesis-1" class="level2">
-<h2 class="anchored" data-anchor-id="thesis-1">Thesis 1</h2>
-<p><strong>Information infrastructure facilities must offer the possibility of archiving and persistent addressing of science blogs.</strong> On the one hand, participants emphasised that scholarly blogs are important for the visibility and accessibility of scientific content and should therefore be included in long-term archiving in a similar way to other forms of publication. On the other hand, participants pointed out that resources, responsibilities and technical standards still remain unclear. A recurring issue concerned the independence of bloggers. Many participants value the freedom to publish without institutional guidelines. Yet, it was also acknowledged that long-term archiving requires rules and processes. Scholarly blogs, described during the workshop as the “punk rock of publishing,” are spontaneous, independent, and unconventional—features not always compatible with formal requirements. Also, some bloggers wished to maintain a possibility to delete their posts in the future. As a possible solution, participants suggested plugins that make metadata easily reusable, among other things. Discussion also focused on which actors should be responsible for long-term availability: a mandatory deposit at the German National Library (DNB), state library repositories, consortia, or collaboratively maintained infrastructures. Federalism was identified as an obstacle in this context. Participants also opposed granting monopoly positions to single institutions, not least with regard to the researchers’ own academic journey from one institution to another, instead advocating for an independent infrastructure. Responsibility for the long-term availability of scholarly blogs was also assigned to scholarly blog platforms, in particular <a href="https://hypotheses.org/">Hypotheses</a>. According to the participants, these should develop an archiving strategy, also in cooperation with the German National Library (DNB). In contrast, those who host a blog themselves are responsible for its long-term availability, according to the participants.</p>
-</section>
-<section id="thesis-2" class="level2">
-<h2 class="anchored" data-anchor-id="thesis-2">Thesis 2</h2>
-<p><strong>Scholarly bloggers are encouraged to ensure that they comply with open science practices and FAIR principles.</strong></p>
-<p>According to the participants, there were also differing perspectives on this topic. On the one hand, it was acknowledged that bloggers should bear a minimum degree of personal responsibility. On the other hand, the participants agreed that individual researchers could not be expected to have comprehensive technical or information science knowledge. The participants emphasised that the motivation of many bloggers lies primarily in making their topic accessible and bringing it into scientific discourse – not in systematically pursuing open science. According to the participants, libraries and information infrastructures could play an important role here: they could transfer skills, create technical frameworks and facilitate compliance with standards. Participants critically discussed the applicability of the FAIR principles <span class="citation" data-cites="FAIR">(Wilkinson et al. 2016)</span>. Since the FAIR principles were originally developed for research data, they are not a “natural fit” for blogs and would need adaptation, according to statements made in the workshop. In addition, participants pointed out that not all bloggers want to make their content interoperable or reusable – especially with regard to its use by Artificial Intelligence (AI) processes. Instead of rigid requirements, it was therefore suggested that specific guidelines for blogs be developed, based, for example, on the principles of good scientific practice (GWP) that also names blogs as a publication medium <span class="citation" data-cites="GWP">(Forschungsgemeinschaft 2025)</span>. The contributions also made it clear that blanket demands carry the risk of reinforcing existing inequalities among bloggers. According to the participants, many scholars have neither the time nor the technical resources to comply with complex standards. It therefore remains important to respect the autonomy of bloggers while providing low-threshold support services.</p>
-</section>
-</section>
-<section id="conclusion" class="level1">
-<h1>Conclusion</h1>
-<p>Scholarly blogs are already an important part of open science communication today: they create visibility, increase accessibility and enable a low-threshold form of scientific exchange. At the same time, numerous open questions arise with regard to institutional embedding, for example, questions about responsibilities, resources and technical standards.</p>
-<p>Further information about the research group Information Management can be found on the <a href="http://hu.berlin/infomgnt">official website</a> at Humboldt-Universität zu Berlin.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-GWP" class="csl-entry">
-Forschungsgemeinschaft, Deutsche. 2025. <span>“Guidelines for <span>Safeguarding</span> <span>Good</span> <span>Research</span> <span>Practice</span>. <span>Code</span> of <span>Conduct</span>,”</span> January. <a href="https://doi.org/10.5281/zenodo.14281892">https://doi.org/10.5281/zenodo.14281892</a>.
-</div>
-<div id="ref-ochsner2025" class="csl-entry">
-Ochsner, Catharina, Heinz Pampel, Jonas Höfting, and Laura Rothfritz. 2025. <span>“Scholarly <span>Blogs</span>: <span>An</span> <span>Analysis</span> of <span>Infrastructural</span> <span>Aspects</span> <span>Based</span> on <span>German</span> <span>Scholarly</span> <span>Blogs</span>.”</span> <em>Journal of Documentation [In Press]</em>. <a href="https://doi.org/10.1108/JD-02-2025-0053">https://doi.org/10.1108/JD-02-2025-0053</a>.
-</div>
-<div id="ref-FAIR" class="csl-entry">
-Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The <span>FAIR</span> <span>Guiding</span> <span>Principles</span> for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (1): 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{ochsner2025,
-  author = {Ochsner, Catharina and Pampel, Heinz and Gebert, Björn and
-    Seltmann, Melanie and Wuttke, Ulrike},
-  title = {Scholarly {Blogs} as an {Integral} {Part} of the {Open}
-    {Access} {Landscape}},
-  date = {2025-10-07},
-  url = {https://doi.org/10.59350/9fkvd-w2138},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ochsner2025" class="csl-entry quarto-appendix-citeas">
-Ochsner, Catharina, Heinz Pampel, Björn Gebert, Melanie Seltmann, and
-Ulrike Wuttke. 2025. <span>“Scholarly Blogs as an Integral Part of the
-Open Access Landscape.”</span> October 7, 2025. <a href="https://doi.org/10.59350/9fkvd-w2138">https://doi.org/10.59350/9fkvd-w2138</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/</guid>
-  <pubDate>Mon, 06 Oct 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-10-07-scholarly-blogs-as-an-integral-part-of-the-open-access-landscape/OA25Workshop.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
