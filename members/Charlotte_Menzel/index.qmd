@@ -1,0 +1,22 @@
+---
+title: "Charlotte Menzel" 
+url: https://infomgnt.org/members/charlotte-menzel
+description: Charlotte Menzel is a student assistant at the Chair of Information Management...
+listing:
+  contents: ../../../posts/
+  sort: "date desc"
+  type: default
+  include:
+    author: "Charlotte Menzel"
+image: Charlotte_Menzel_Profile.jpg
+---
+
+![](Charlotte_Menzel_Profile.jpg){fig-align="left"}
+
+Charlotte Menzel has been a student assistant in the Research Group for Information Management since September 2026. She has been studying Library and Information Science in combination with History since 2025.
+
+[Profile](https://www.ibi.hu-berlin.de/de/institut/personen/menzel) \@hu-berlin.de
+
+------------------------------------------------------------------------
+
+## Charlotte Menzel's Blogposts:
