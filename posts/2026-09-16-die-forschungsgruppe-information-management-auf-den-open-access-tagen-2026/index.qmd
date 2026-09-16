@@ -1,0 +1,83 @@
+---
+title: "Die Forschungsgruppe Information Management auf den Open Access Tagen 2026"
+author:
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science 
+  affiliation-url: https://ror.org/01hcx6992
+  ror: https://ror.org/01hcx6992
+- name: Jonas Höfting
+  url: https://infomgnt.org/members/Jonas_Höfting/
+  orcid: 0009-0003-4466-1775
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science 
+  affiliation-url: https://ror.org/01hcx6992
+  ror: https://ror.org/01hcx6992
+date: "2026-09-16"
+categories: [Research, Lab Life]
+citation:
+  url: https://infomgnt.org/posts/2026-09-16_die-forschungsgruppe-information-management-auf-den-open-access-tagen-2026
+license:
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+funder:
+- name: "Deutsche Forschungsgemeinschaft"
+  funder-id: https://ror.org/018mejw64
+  grant-number: "564392466"
+  program: "Open Access Szenarienanalysen (OASA)"
+- name: "Bundesministerium für Forschung, Technologie und Raumfahrt"
+  funder-id: https://ror.org/04pz7b180
+  grant-number: "16KOA001"
+  program: "Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)"
+- name: "Deutsche Forschungsgemeinschaft"
+  funder-id: https://ror.org/018mejw64
+  grant-number: "528958385"
+  program: "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs)"
+image: OAT.png
+---
+
+Vom 28. bis zum 30. September 2026 werden in Linz die [Open-Access-Tage 2026](https://open-access-tage.de/open-access-tage-2026-linz) – die zentrale jährliche Konferenz zum Thema Open Access und Open Science im deutschsprachigen Raum – stattfinden. Die Forschungsgruppe [Information Management](https://www.ibi.hu-berlin.de/de/forschung/infomanagement) freut sich, mit den Projekten [Infra Wiss Blogs](https://infrawissblogs.org/), [OASA](https://www.oasa.info/) und [Pro OAR DE](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de) auf den Open-Access-Tagen 2026 vertreten zu sein. Im Folgenden finden Sie die Beiträge unserer Forschungsgruppe.
+
+![](OAT.png)
+
+**Poster: Anforderungen an eine kooperative Informationsinfrastruktur zur Sicherstellung der langfristigen Verfügbarkeit von wissenschaftlichen Blogs**
+
+**Wann:** Dienstag, 29. September, 13:30 – 15:00 Uhr
+
+**Wo:** Learning Center, 3. OG
+
+**Wer:** Johanna Schielke, Catharina Ochsner und Heinz Pampel
+
+Wir freuen uns, mit dem Projekt [Infra Wiss Blogs](https://infrawissblogs.org/) auf der Postersession der Open Access Tage vertreten zu sein. Das Poster bietet einen Überblick über einen Anforderungskatalog für eine Informationsinfrastruktur für wissenschaftliche Blogs. Der Anforderungskatalog umfasst (1) funktionale Anforderungen an eine Informationsinfrastruktur, (2) datenschutzrechtliche Anforderungen, (3) Anforderungen an die Datenaggregation und (4) Anforderungen an Schnittstellen für den Import und Export von Daten.
+
+------------------------------------------------------------------------
+
+**Workshop: Szenarien der Open-Access-Transformation in DACH-Ländern**
+
+**Wann**: Dienstag, 29.09.2026, 9:00 – 10:30
+
+**Wo:** Seminarraum 003B, Management Zentrum EG
+
+**Wer:** Lisa Matthias, Heinz Pampel, Marc Lange, Jochen Schirrwagen, Henriette Rösch, Jonas Höfting
+
+Vor dem Hintergrund von steigenden Publikationskosten, Diskussionen über Transformationsverträge, Forderungen nach mehr Unterstützung des Diamond-Open-Access-Publikationsmodells entwickelt das von der Deutschen Forschungsgemeinschaft (DFG) geförderte Projekt [Open Access Szenarienanalysen (OASA)](https://www.oasa.info/) Szenarien für die Weiterentwicklung der Open-Access-Transformation in Deutschland. Der Workshop richtet sich an Mitarbeitende aus Bibliotheken, wissenschaftlichen Einrichtungen und Förderinstitutionen im DACH-Raum, die mit der strategischen Planung und Umsetzung von Open Access befasst sind. Ziel ist es, die im Projekt entwickelten Szenarien gemeinsam mit Expert:innen aus Wissenschaft und Praxis der DACH-Community kritisch zu prüfen, ihre Plausibilität, Abgrenzung und Vollständigkeit zu schärfen sowie ihre Implikationen für unterschiedliche Einrichtungstypen zu reflektieren.
+
+------------------------------------------------------------------------
+
+**Vortrag: Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland**
+
+**Wann:** Montag, 28.09.2026, 13:00 – 14:30 Uhr
+
+**Wo:** Hörsaal 16
+
+**Wer:** Jonas Höfting, Heinz Pampel, Lisa Matthias, Laura Rothfritz
+
+Institutionelle Repositorien (IRs) sind ein zentraler Bestandteil der sozio-technischen Informationsinfrastruktur vieler Forschungseinrichtungen. Mit der wachsenden Bedeutung von Open Science steigen auch die Anforderungen an den Betrieb von IRs. Zugleich stehen viele Einrichtungen vor grundlegenden Herausforderungen: Häufig fehlt es an einer klaren institutionellen Verankerung, an nachhaltiger Ressourcenabsicherung oder an eindeutigen Zuständigkeiten. Um diesen neuen Anforderungen und Herausforderungen begegnen zu können, werden in diesem Vortrag zehn strategische Empfehlungen vorgestellt, die im Rahmen des Projekts [Pro OAR DE](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de) erarbeitet wurden.
+
+Wir freuen uns auf die diesjährigen Open-Access-Tage und den Austausch mit Ihnen, sei es in Panels, der Postersession, den Pausen oder auch abends bei einem Kaltgetränk.
+
+------------------------------------------------------------------------
+
+Weitere Informationen zu unserem Lehrstuhl sind auf unserer [offiziellen Website](http://hu.berlin/infomgnt) zu finden.
+
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
