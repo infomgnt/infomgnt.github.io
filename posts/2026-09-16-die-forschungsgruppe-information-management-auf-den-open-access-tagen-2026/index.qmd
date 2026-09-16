@@ -16,7 +16,7 @@ author:
 date: "2026-09-16"
 categories: [Research, Lab Life]
 citation:
-  url: https://infomgnt.org/posts/2026-09-16_die-forschungsgruppe-information-management-auf-den-open-access-tagen-2026
+  url: https://doi.org/10.59350/z9mz0-ev073
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
