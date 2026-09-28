@@ -10,7 +10,7 @@ author:
 date: "2026-09-28"
 categories: [Research, Lab Life, Students]
 citation:
-  url: https://infomgnt.org/posts/2026-09-28-from-a-students-perspective-a-book-review-of-big-data-little-data-no-data
+  url: https://doi.org/10.59350/ptnyc-h9e62
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
