@@ -10,7 +10,97 @@
 <atom:link href="https://infomgnt.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research Group Information Management @ Humboldt-Universität zu Berlin</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 27 Sep 2026 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Rueckblick: Open-Access-Tage 2026</title>
+  <dc:creator>Jonas Höfting</dc:creator>
+  <dc:creator>Catharina Ochsner</dc:creator>
+  <link>https://infomgnt.org/posts/2026-10-16-rueckblick-open-access-tage-2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://infomgnt.org/posts/2026-10-16-rueckblick-open-access-tage-2026/poster_datei_rgb.jpg" class="img-fluid figure-img"></p>
+<figcaption>Poster „Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs“</figcaption>
+</figure>
+</div>
+<p>Vom 28. bis zum 30. September 2026 fand in Linz die zentrale jährliche Konferenz zu Open Access und Open Science im deutschsprachigen Raum statt – die <a href="https://open-access-tage.de/open-access-tage-2026-linz">Open-Access-Tage 2026</a>. Die Forschungsgruppe Information Management war mit den Projekten <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a>, <a href="https://www.oasa.info/">OASA</a> und <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de">Pro OAR DE</a> mit einem Vortrag, einem Workshop und einem Poster vertreten. In diesem Blogpost wollen wir einen Rückblick wagen: Was haben wir vorgestellt, was haben wir diskutiert, und was nehmen wir mit?</p>
+<section id="pro-oar-de-vortrag-empfehlungen-zur-professionalisierung-der-open-access-repositorien-infrastruktur-in-deutschland" class="level3">
+<h3 class="anchored" data-anchor-id="pro-oar-de-vortrag-empfehlungen-zur-professionalisierung-der-open-access-repositorien-infrastruktur-in-deutschland">Pro OAR DE: Vortrag „Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland</h3>
+<p>Den Auftakt machte am Montag, dem 28. September, der Vortrag „Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland“ von Jonas Höfting, Heinz Pampel, Lisa Matthias und Laura Rothfritz. Die Empfehlungen, die Jonas Höfting und Heinz Pampel in Linz vorgestellt haben, sind das Ergebnis des BMFTR-geförderten Projekts Pro OAR DE. Sie stellen das finale Projektergebnis dar und bündeln damit die drei vorhergehenden Projektteile Systematic Review <span class="citation" data-cites="rothfritz2026">(Rothfritz et al. 2026)</span>, Interview-Studie <span class="citation" data-cites="wrzesinski2026">(Wrzesinski et al. 2026)</span> und Vernetzungsforen. Aus der Synthese dieser Projektteile entstanden zehn strategische Empfehlungen, die sich an Leitungsebenen und Entscheider:innen richten und Handlungsfelder wie die strategische Verankerung, Sicherung von Ressourcen, und die Vielfalt wissenschaftlicher Publikationsformate adressieren. Die Empfehlungen wurden nach dem Request-for-Comments-Verfahren Ende September auf Zenodo veröffentlicht <span class="citation" data-cites="hoefting2026">(Höfting et al. 2026)</span>.</p>
+<p>Der Vortrag wurde eingebettet in die beiden anderen Vorträge der durch Olaf Siegert moderierten Session „Zukunftsperspektiven für Repositorien“. Vitali Peil (Universität Bielefeld) stellte die Arbeit von ihm und seinem Kollegen Andreas Czerniak zum Verhältnis von Repositorien zu KI-Bots und Crawlern vor, während Gernot Deinzer (Universität Regensburg) zu den heute schon bestehenden, äußerst beeindruckenden Möglichkeiten von Repositorien als Publikationsinfrastruktur referierte. Somit entstand ein umfassendes Bild des Zustands, der Chancen und Risiken, aber auch der Zukunftsperspektiven von Repositorien.</p>
+</section>
+<section id="oasa-szenarien-der-open-access-transformation-im-praxistest" class="level3">
+<h3 class="anchored" data-anchor-id="oasa-szenarien-der-open-access-transformation-im-praxistest">OASA: Szenarien der Open-Access-Transformation im Praxistest</h3>
+<p>Am Dienstag, dem 29. September, folgte der Workshop „Szenarien der Open-Access-Transformation in DACH-Ländern“ <span class="citation" data-cites="matthias2026">(Matthias et al. 2026)</span> des DFG-Projekts <a href="https://www.oasa.info/">Open Access Szenarienanalysen (OASA)</a>. Vor dem Hintergrund steigender Publikationskosten, der Debatte um Transformationsverträge und der Forderung nach mehr Unterstützung für Diamond Open Access entwickelt OASA datenbasierte Szenarien für die weitere Gestaltung der Transformation in Deutschland. Lisa Matthias (RTWH Aachen), Heinz Pampel, Jochen Schirrwagen (RTWH Aachen) und Jonas Höfting diskutierten mit den Teilnehmenden des Workshops vor diesem Hintergrund in vier Kleingruppen acht Szenarien, die je zu thematischen Paaren gebündelt waren. Die Szenarien reichten von der Fortschreibung des Status quo über den Rückzug aus Transformationsverträgen bis hin zur Stärkung des wissenschaftsgeleiteten Publizierens.</p>
+<p>Durch die diversen Hintergründe und Perspektiven der Teilnehmenden und ihre große Diskussionsfreude wurden die Szenarien kritisch-konstruktiv auf ihre Abgrenzung voneinander, auf ihre Voraussetzungen, auf ihre Eintrittswahrscheinlichkeit hin befragt. Während die kritische Perspektive auf die aktuelle Situation des Publikationswesens den meisten Teilnehmenden gemein war, gingen diese weit auseinander, was die Möglichkeit anderer Konfigurationen des wissenschaftlichen Publikationswesens anging. So wurde etwa diskutiert, welche Implikationen die Szenarien mit sich bringen und welche ökonomischen Konsequenzen damit verbunden sind. Auf Basis der Diskussionen dieses und weiterer Workshops werden wir die Szenarien im Projekt weiterentwickeln und so eine stabile Basis für die darauffolgenden quantitativen Projektionen herstellen.</p>
+</section>
+<section id="infra-wiss-blogs-anforderungen-an-eine-infrastruktur-für-wissenschaftliche-blogs" class="level3">
+<h3 class="anchored" data-anchor-id="infra-wiss-blogs-anforderungen-an-eine-infrastruktur-für-wissenschaftliche-blogs">Infra Wiss Blogs: Anforderungen an eine Infrastruktur für wissenschaftliche Blogs</h3>
+<p>In der Postersession am Dienstag, dem 29. September, wurde das im Projekt <a href="https://infrawissblogs.org/">Infra Wiss Blogs</a> entwickelte Poster „Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs“ vorgestellt. Das Posterdesign wurde von unserer Kollegin <a href="https://infomgnt.org/members/Johanna_Schielke/">Johanna Schielke</a> entworfen <span class="citation" data-cites="schielke2026">(Schielke 2026)</span> und gemeinsam mit Catharina Ochsner und Heinz Pampel basierend auf den Ergebnissen des Projekts erstellt.</p>
+<p>Die Anforderungen an eine Informationsinfrastruktur für die Langzeitverfügbarkeit von Wissenschaftsblogs sind unterteilt in vier Bereiche:</p>
+<ol type="1">
+<li>funktionale Anforderungen,</li>
+<li>datenschutzrechtliche Anforderungen,</li>
+<li>Anforderungen an die Datenaggregation sowie</li>
+<li>Anforderungen an Schnittstellen für den Import und Export von Daten.</li>
+</ol>
+<p>Gemeinsam beschreiben die Anforderungen Maßnahmen zur Sicherung von Blogposts.</p>
+<p>Wir freuen uns besonders darüber, dass dieses Poster den Poster-Preis für das beste Design gewonnen hat, und gratulieren Anna-Lena Eickermann, Kathrin Ganz, Laura Pfisterer und Sabrina Schotten zu den Poster-Preisen für „am meisten gelernt“ und „nettester Austausch“ für ihr Poster „KI-Tools in der Redaktionsarbeit des Open Gender Journals“. Für mehr Information zur Gestaltung des Posters hat Johanna Schielke ihren Arbeitsprozess in einem Blogpost festgehalten <span class="citation" data-cites="schielke2026">(Schielke 2026)</span>.</p>
+<p>Wir danken allen Teilnehmenden, die uns während der Postersession besucht haben, für den netten Austausch, ihre Fragen und ihr Feedback. Teilnehmende thematisierten wiederholt die Umsetzung des Katalogs in der Praxis. Plan ist, den Anforderungskatalog gemeinsam mit ausgewählten Informationsinfrastruktureinrichtungen und Blogs in der nächsten Projektphase von Infra Wiss Blogs zu implementieren und die im Katalog beschriebenen Workflows zu testen.</p>
+</section>
+<section id="unser-fazit" class="level3">
+<h3 class="anchored" data-anchor-id="unser-fazit">Unser Fazit</h3>
+<p>Die Open-Access-Tage schafften es auch dieses Jahr wieder, die ganze Breite der Diskussion um Open Access abzubilden. Dies begann bereits sehr eindrucksvoll mit der ersten Keynote von Theresa Hager und Stefan Pühringer (Johannes Kepler Universität Linz) mit dem Titel „Offen, aber um welchen Preis? Die Politische Ökonomie von Open Science“. Im Verlaufe der Konferenz wurde sich immer wieder positiv auf diese kritische Bestandsaufnahme bezogen, auch in den Diskussionen im Workshop von OASA. Selbstverständlich spiegelte sich auch auf den Open-Access-Tagen die Dominanz des Themas Diamond Open Access wider; viele Panels und Workshops beschäftigten sich mit diesem Thema. Dennoch zeigt etwas die Session zu Repositorien, von der wir mit unserem Vortrag aus Pro OAR DE Teil sein durften, dass auch der grüne Weg des Open Access weiterhin relevant ist und diskutiert wird. Auch die Vielfalt wissenschaftlicher Publikationsformate wurde immer wieder aufgegriffen, so auch durch das Poster von Infra Wiss Blogs. Ein ebenfalls viel diskutiertes Thema war das der Künstlichen Intelligenz (KI) und ihre Bedeutung für Open Access und das wissenschaftliche Publikationssystem. In diesem Zusammenhang freuen wir uns, dass wir in der Forschungsgruppe Information Management in dem am 01.10.2026 gestarteten DFG‑Projekt <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/aischolcomm">AIScholComm</a> einen Beitrag zu diesem wichtigen und aktuellen Forschungsthema leisten können. Das Projekt wird sich mit den Herausforderungen befassen, die durch KI-Verlagsstrategien, KI-Richtlinien von Fachzeitschriften und Verlagen und die Integration von KI-Tools in Verlagsservices entstehen.</p>
+</section>
+<section id="dank" class="level3">
+<h3 class="anchored" data-anchor-id="dank">Dank</h3>
+<p>Insbesondere wollen wir den Organisator:innen der Open-Access-Tage 2026 danken. Organisation und Ablauf vor Ort, die Inhalte der Sessions, Workshops und Keynotes, aber auch das Rahmenprogramm, die kulinarische Verpflegung und der tolle Campus der Kepler Universität Linz haben allesamt zu einer fantastischen Konferenz beigetragen. Ebenso danken wir allen, die in Panels, bei unserem und weiteren Workshops, bei der Postersession, in den Pausen und auf dem Konferenzdinner mit uns diskutiert und sich ausgetauscht haben. Dieser Austausch mit anderen Wissenschaftler:innen und Praktiker:innen stellt eine unverzichtbare Unterstützung für unsere Arbeit dar. Wir freuen uns jetzt schon, Sie und euch auch bei den Open-Access-Tagen 2027 wiederzusehen – dann in Braunschweig.</p>
+<hr>
+<p>Weitere Informationen zu unserem Lehrstuhl finden Sie auf unserer <a href="http://hu.berlin/infomgnt">Website</a>.</p>
+<p>Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
+<div id="ref-hoefting2026" class="csl-entry">
+Höfting, Jonas, Heinz Pampel, Lisa Matthias, Christopher Onzie Khamis, and Laura Rothfritz. 2026. <span>“Empfehlungen Zur <span>Professionalisierung</span> Der Institutionellen <span>Open</span>-<span>Access</span>-<span>Repositorien</span> in <span>Deutschland</span>.”</span> Zenodo. <a href="https://doi.org/10.5281/zenodo.22960176">https://doi.org/10.5281/zenodo.22960176</a>.
+</div>
+<div id="ref-matthias2026" class="csl-entry">
+Matthias, Lisa, Heinz Pampel, Marc Lange, Jochen Schirrwagen, Henriette Rösch, and Jonas Höfting. 2026. <span>“Workshop: <span>Szenarien</span> Für Die <span>Open</span>-<span>Access</span>-<span>Transformation</span>.”</span> <a href="https://doi.org/10.5281/zenodo.23056688">https://doi.org/10.5281/zenodo.23056688</a>.
+</div>
+<div id="ref-rothfritz2026" class="csl-entry">
+Rothfritz, Laura, Lisa Matthias, Heinz Pampel, and Marcel Wrzesinski. 2026. <span>“Current Challenges and Future Directions for Institutional Repositories: <span>A</span> Systematic Literature Review. <span>An</span> <span>Annual</span> <span>Review</span> of <span>Information</span> <span>Science</span> and <span>Technology</span> (<span>ARIST</span>) Paper.”</span> <em>Journal of the Association for Information Science and Technology</em> 77 (1): 301–22. <a href="https://doi.org/10.1002/asi.70016">https://doi.org/10.1002/asi.70016</a>.
+</div>
+<div id="ref-schielke2026" class="csl-entry">
+Schielke, Johanna. 2026. <span>“Entwicklung Eines <span>Posters</span> Zu <span>Anforderungen</span> an Die <span>Langzeitverfuegbarkeit</span> von <span>Wissenschaftsblogs</span>.”</span> <em>Front Matter</em>. <a href="https://doi.org/10.59350/7xfwq-w9r89">https://doi.org/10.59350/7xfwq-w9r89</a>.
+</div>
+<div id="ref-wrzesinski2026" class="csl-entry">
+Wrzesinski, Marcel, Heinz Pampel, Laura Rothfritz, and Christopher Onzie Khamis. 2026. <span>“Challenges and <span>Chances</span> for <span>Innovation</span> for the <span>Institutional</span> <span>Repository</span> <span>Landscape</span> in <span>Germany</span>: <span>Results</span> from an <span>Interview</span> <span>Study</span>.”</span> <em>Journal of Librarianship and Scholarly Communication</em> 14 (1). <a href="https://doi.org/10.31274/jlsc.19047">https://doi.org/10.31274/jlsc.19047</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">(View License)</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{höfting2026,
+  author = {Höfting, Jonas and Ochsner, Catharina},
+  title = {Rueckblick: {Open-Access-Tage} 2026},
+  date = {2026-10-13},
+  url = {https://infomgnt.org/posts/2026-10-16_rueckblick-open-access-tage-2026},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-höfting2026" class="csl-entry quarto-appendix-citeas">
+Höfting, Jonas, and Catharina Ochsner. 2026. <span>“Rueckblick:
+Open-Access-Tage 2026.”</span> October 13, 2026. <a href="https://infomgnt.org/posts/2026-10-16_rueckblick-open-access-tage-2026">https://infomgnt.org/posts/2026-10-16_rueckblick-open-access-tage-2026</a>.
+</div></div></section></div> ]]></description>
+  <category>Research</category>
+  <category>Lab Life</category>
+  <guid>https://infomgnt.org/posts/2026-10-16-rueckblick-open-access-tage-2026/</guid>
+  <pubDate>Mon, 12 Oct 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://infomgnt.org/posts/2026-10-16-rueckblick-open-access-tage-2026/OAT.png" medium="image" type="image/png" height="80" width="144"/>
+</item>
 <item>
   <title>From a Student’s Perspective: A Book Review of “Big Data, Little Data, No Data: Scholarship in the Networked World” by Christine L. Borgman</title>
   <dc:creator>Max Liebel</dc:creator>
@@ -1410,72 +1500,6 @@ Institutional Repositories.”</span> November 26, 2025. <a href="https://doi.or
   <guid>https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/</guid>
   <pubDate>Tue, 25 Nov 2025 23:00:00 GMT</pubDate>
   <media:content url="https://infomgnt.org/posts/2025-11-26-new-guide-on-publication-and-cost-monitoring/Blogpost_Monitoring_Handreichung.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Workshop Report: Resilience in Times of Crisis - Strengthening Open Science Against Geopolitical Pressures</title>
-  <dc:creator>Laura Rothfritz</dc:creator>
-  <dc:creator>Dorothea Strecker</dc:creator>
-  <link>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>On November 6 2025, we participated in the Workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures” at the CWTS in Leiden.</p>
-<p>The workshop made reference to the UNESCO Recommendation on Open Science <span class="citation" data-cites="noauthor_unesco_2021">(<span>“<span>UNESCO</span> <span>Recommendation</span> on <span>Open</span> <span>Science</span>”</span> 2021)</span>, which presented an extensive and inclusive vision for Open Science when they were published in 2021. In the geopolitical climate of 2025, the values in the UNESCO Recommendation on Open Science are threatened. Throughout the day, 20-30 participants discussed influences of geopolitics on Open Science, areas that require (more) awareness, and strategies to make Open Science more resilient.</p>
-<p>In her keynote, <a href="https://www.library.upenn.edu/staff/lynda-kellam">Lynda Kellam</a> from the University of Pennsylvania Libraries introduced the <a href="https://www.datarescueproject.org">Data Rescue Project</a>. Following the keynote, invited speakers offered their thoughts on the resilience of Open Science practices and infrastructures. <a href="https://pure.royalholloway.ac.uk/en/persons/hugh-shanahan/">Hugh Shanahan</a> from Royal Holloway, University of London talked about factors that can put preprint servers at risk: the strong involvement of US institutions and a reliance on commercial internet service providers. <a href="https://www.molly-hardy.com">Molly Hardy</a> from the Library Innovation Lab at Harvard Law School introduced the <a href="https://lil.law.harvard.edu/our-work/public-data-project/">Public Data Project</a>, which applies curation practices to data rescue initiatives. <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/teaminfomanagement">Laura Rothfritz</a> from our research group at the Berlin School of Library and Information Science at Humboldt-Universität zu Berlin presented results from her PhD thesis on the Data Rescue movement in 2017 and 2018 - read more about her contribution below. <a href="https://geotraces-gp15.com/joseph-gum/">Joseph Gum</a> discussed potential business models of open data infrastructures and risks associated with them. He also presented the <a href="https://doi.org/10.5281/zenodo.15208172">Repository Crisis Scorecard</a>, a tool that can be used to assess the resilience of a repository during a crisis. <a href="https://www.uu.nl/staff/JMBosman">Jeroen Bosman</a> from Utrecht University offered a categorization of threats to Open Science as well as strategies to increase resilience. His slides are published <a href="https://doi.org/10.5281/zenodo.17558233">here</a>.</p>
-<section id="laura-rothfritz---rescuing-data-resisting-loss" class="level2">
-<h2 class="anchored" data-anchor-id="laura-rothfritz---rescuing-data-resisting-loss">Laura Rothfritz - Rescuing data, resisting loss</h2>
-<p>In her lightning talk, Laura shared results from her PhD research <span class="citation" data-cites="rothfritzWhatHappensWhen2025">(Rothfritz 2025)</span> which focuses on the first Data Rescue movement in 2017/2018 and asked when actions that feel resilient actually build resilience. Drawing on interview material she has collected for her thesis, she framed earlier data rescue efforts as “emergency curation”, which she defines as a form of first aid data duplication. This practice offered relief from fears around supposed data deletion but often produced redundancies of datasets without their contextual information, leading to unsustainable data practices. In her research, and in this talk, she is making a point to stress the importance of the affective consequences this sort of data activism might have, defined as such by my interviewees. These consequences range from feeling empowered and regaining agency in (politically) taxing times, to overwhelm and burnout.</p>
-<p>In her research, Laura proposes the concept of anticipatory maintenance, defined as a preventive, future-oriented form of (infrastructural) care that turns imagined disruption into present routines aimed at sustaining continuity under uncertainty. She argues that in large parts this is what both iterations of the Data Rescue movement, in 2017/2018 and 2024/2025 respectively, might be seen as. In line with Jackson <span class="citation" data-cites="jacksonRethinkingRepair2014a">(2014)</span> and Rubio <span class="citation" data-cites="rubioIntroductionAvowingFragility2025c">(2025)</span>, she draws on broken-world thinking, which can be defined as a mindset of thinking with fragility and treating it as a normal, relational condition we live with. If fragility is seen as ordinary, then resilience is not a set goal but should be understood as a practice that must continually be negotiated. This is where future-oriented anticipatory maintenance might help with feeling resilient and simultaneously building resilience.</p>
-<p>The slides from Laura’s presentation are available on Zendodo at:</p>
-<p>Rothfritz, L. (2025, November 6). Rescuing Data, Resisting Loss - Emergency Curation, Anticipatory Maintenance And The Limits Of Feeling Resilient. Resilience in times of crisis: Strengthening Open Science against geopolitical pressures, Leiden, Netherlands. <a href="https://doi.org/10.5281/zenodo.17570709" class="uri">https://doi.org/10.5281/zenodo.17570709</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" class="img-fluid figure-img"></p>
-<figcaption>Laura Rothfritz presenting at the workshop “Resilience in Times of Crisis: Strengthening Open Science Against Geopolitical Pressures”</figcaption>
-</figure>
-</div>
-<p>Further information about our research group can be found on our <a href="http://hu.berlin/infomgnt">official website</a>.</p>
-<p>This text – excluding quotes and otherwise labelled parts – is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC BY 4.0 DEED</a>.</p>
-
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0">
-<div id="ref-jacksonRethinkingRepair2014a" class="csl-entry">
-Jackson, Steven J. 2014. <span>“Rethinking <span>Repair</span>.”</span> In <em>Media <span>Technologies</span></em>, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, 221–40. The MIT Press. <a href="https://doi.org/10.7551/mitpress/9042.003.0015">https://doi.org/10.7551/mitpress/9042.003.0015</a>.
-</div>
-<div id="ref-rothfritzWhatHappensWhen2025" class="csl-entry">
-Rothfritz, Laura. 2025. <span>“What Happens When Public Data Infrastructures Aren’t Save? <span>A</span> Look at Past and Current Developments in the <span>US</span> – <span>Research Group Information Management</span> @ <span>Humboldt-Universität</span> Zu <span>Berlin</span>.”</span> <a href="https://doi.org/10.59350/6g3km-9w70">https://doi.org/10.59350/6g3km-9w70</a>.
-</div>
-<div id="ref-rubioIntroductionAvowingFragility2025c" class="csl-entry">
-Rubio, Fernando Domínguez. 2025. <span>“Introduction: <span>Avowing Fragility</span>.”</span> In <em>Fragilities: <span>Essays</span> on the <span>Politics</span>, <span>Ethics</span>, and <span>Aesthetics</span> of <span>Maintenance</span> and <span>Repair</span></em>. The MIT Press. <a href="https://doi.org/10.7551/mitpress/14227.001.0001">https://doi.org/10.7551/mitpress/14227.001.0001</a>.
-</div>
-<div id="ref-noauthor_unesco_2021" class="csl-entry">
-<span>“<span>UNESCO</span> <span>Recommendation</span> on <span>Open</span> <span>Science</span>.”</span> 2021. UNESCO. <a href="https://doi.org/10.54677/MNMH8546">https://doi.org/10.54677/MNMH8546</a>.
-</div>
-</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{rothfritz2025,
-  author = {Rothfritz, Laura and Strecker, Dorothea},
-  title = {Workshop {Report:} {Resilience} in {Times} of {Crisis} -
-    {Strengthening} {Open} {Science} {Against} {Geopolitical}
-    {Pressures}},
-  date = {2025-11-19},
-  url = {https://doi.org/10.59350/js8da-36a98},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-rothfritz2025" class="csl-entry quarto-appendix-citeas">
-Rothfritz, Laura, and Dorothea Strecker. 2025. <span>“Workshop Report:
-Resilience in Times of Crisis - Strengthening Open Science Against
-Geopolitical Pressures.”</span> November 19, 2025. <a href="https://doi.org/10.59350/js8da-36a98">https://doi.org/10.59350/js8da-36a98</a>.
-</div></div></section></div> ]]></description>
-  <category>Lab Life</category>
-  <category>Research</category>
-  <guid>https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/</guid>
-  <pubDate>Tue, 18 Nov 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://infomgnt.org/posts/2025-11-19-workshop-report-resilience-in-time-of-crisis/2025_Leiden.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 </channel>
 </rss>

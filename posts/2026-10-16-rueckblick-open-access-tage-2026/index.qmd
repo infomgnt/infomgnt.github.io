@@ -1,0 +1,90 @@
+---
+title: "Rueckblick: Open-Access-Tage 2026"
+author:
+- name: Jonas Höfting
+  url: https://infomgnt.org/members/Jonas_Höfting/
+  orcid: 0009-0003-4466-1775
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science 
+  affiliation-url: https://ror.org/01hcx6992
+  ror: https://ror.org/01hcx6992
+- name: Catharina Ochsner
+  url: https://infomgnt.org/members/Catharina_Ochsner/
+  orcid: 0009-0005-3885-3951
+  affiliation: Humboldt-Universität zu Berlin, Berlin School of Library and Information Science 
+  affiliation-url: https://ror.org/01hcx6992
+  ror: https://ror.org/01hcx6992
+date: "2026-10-13"
+categories: [Research, Lab Life]
+citation:
+  url: https://infomgnt.org/posts/2026-10-16_rueckblick-open-access-tage-2026
+license:
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+funder:
+- name: "Deutsche Forschungsgemeinschaft"
+  funder-id: https://ror.org/018mejw64
+  grant-number: "564392466"
+  program: "Open Access Szenarienanalysen (OASA)"
+- name: "Bundesministerium für Forschung, Technologie und Raumfahrt"
+  funder-id: https://ror.org/04pz7b180
+  grant-number: "16KOA001"
+  program: "Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland (Pro OAR DE)"
+- name: "Deutsche Forschungsgemeinschaft"
+  funder-id: https://ror.org/018mejw64
+  grant-number: "528958385"
+  program: "Kooperative Informationsinfrastruktur für wissenschaftliche Blogs (Infra Wiss Blogs)"
+image: OAT.png
+bibliography: references_2026_10_13.bib
+---
+
+![Poster „Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs“](poster_datei_rgb.jpg)
+
+Vom 28. bis zum 30. September 2026 fand in Linz die zentrale jährliche Konferenz zu Open Access und Open Science im deutschsprachigen Raum statt – die [Open-Access-Tage 2026](https://open-access-tage.de/open-access-tage-2026-linz). Die Forschungsgruppe Information Management war mit den Projekten [Infra Wiss Blogs](https://infrawissblogs.org/), [OASA](https://www.oasa.info/) und [Pro OAR DE](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/pro-oar-de) mit einem Vortrag, einem Workshop und einem Poster vertreten. In diesem Blogpost wollen wir einen Rückblick wagen: Was haben wir vorgestellt, was haben wir diskutiert, und was nehmen wir mit?
+
+### Pro OAR DE: Vortrag „Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland
+
+Den Auftakt machte am Montag, dem 28. September, der Vortrag „Empfehlungen zur Professionalisierung der Open-Access-Repositorien-Infrastruktur in Deutschland“ von Jonas Höfting, Heinz Pampel, Lisa Matthias und Laura Rothfritz. Die Empfehlungen, die Jonas Höfting und Heinz Pampel in Linz vorgestellt haben, sind das Ergebnis des BMFTR-geförderten Projekts Pro OAR DE. Sie stellen das finale Projektergebnis dar und bündeln damit die drei vorhergehenden Projektteile Systematic Review [@rothfritz2026], Interview-Studie [@wrzesinski2026] und Vernetzungsforen. Aus der Synthese dieser Projektteile entstanden zehn strategische Empfehlungen, die sich an Leitungsebenen und Entscheider:innen richten und Handlungsfelder wie die strategische Verankerung, Sicherung von Ressourcen, und die Vielfalt wissenschaftlicher Publikationsformate adressieren. Die Empfehlungen wurden nach dem Request-for-Comments-Verfahren Ende September auf Zenodo veröffentlicht [@hoefting2026].
+
+Der Vortrag wurde eingebettet in die beiden anderen Vorträge der durch Olaf Siegert moderierten Session „Zukunftsperspektiven für Repositorien“. Vitali Peil (Universität Bielefeld) stellte die Arbeit von ihm und seinem Kollegen Andreas Czerniak zum Verhältnis von Repositorien zu KI-Bots und Crawlern vor, während Gernot Deinzer (Universität Regensburg) zu den heute schon bestehenden, äußerst beeindruckenden Möglichkeiten von Repositorien als Publikationsinfrastruktur referierte. Somit entstand ein umfassendes Bild des Zustands, der Chancen und Risiken, aber auch der Zukunftsperspektiven von Repositorien.
+
+### OASA: Szenarien der Open-Access-Transformation im Praxistest
+
+Am Dienstag, dem 29. September, folgte der Workshop „Szenarien der Open-Access-Transformation in DACH-Ländern“ [@matthias2026] des DFG-Projekts [Open Access Szenarienanalysen (OASA)](https://www.oasa.info/). Vor dem Hintergrund steigender Publikationskosten, der Debatte um Transformationsverträge und der Forderung nach mehr Unterstützung für Diamond Open Access entwickelt OASA datenbasierte Szenarien für die weitere Gestaltung der Transformation in Deutschland. Lisa Matthias (RTWH Aachen), Heinz Pampel, Jochen Schirrwagen (RTWH Aachen) und Jonas Höfting diskutierten mit den Teilnehmenden des Workshops vor diesem Hintergrund in vier Kleingruppen acht Szenarien, die je zu thematischen Paaren gebündelt waren. Die Szenarien reichten von der Fortschreibung des Status quo über den Rückzug aus Transformationsverträgen bis hin zur Stärkung des wissenschaftsgeleiteten Publizierens.
+
+Durch die diversen Hintergründe und Perspektiven der Teilnehmenden und ihre große Diskussionsfreude wurden die Szenarien kritisch-konstruktiv auf ihre Abgrenzung voneinander, auf ihre Voraussetzungen, auf ihre Eintrittswahrscheinlichkeit hin befragt. Während die kritische Perspektive auf die aktuelle Situation des Publikationswesens den meisten Teilnehmenden gemein war, gingen diese weit auseinander, was die Möglichkeit anderer Konfigurationen des wissenschaftlichen Publikationswesens anging. So wurde etwa diskutiert, welche Implikationen die Szenarien mit sich bringen und welche ökonomischen Konsequenzen damit verbunden sind. Auf Basis der Diskussionen dieses und weiterer Workshops werden wir die Szenarien im Projekt weiterentwickeln und so eine stabile Basis für die darauffolgenden quantitativen Projektionen herstellen.
+
+### Infra Wiss Blogs: Anforderungen an eine Infrastruktur für wissenschaftliche Blogs
+
+In der Postersession am Dienstag, dem 29. September, wurde das im Projekt [Infra Wiss Blogs](https://infrawissblogs.org/) entwickelte Poster „Anforderungskatalog für eine kooperative Informationsinfrastruktur für die langfristige Verfügbarkeit von Wissenschaftsblogs“ vorgestellt. Das Posterdesign wurde von unserer Kollegin [Johanna Schielke](https://infomgnt.org/members/Johanna_Schielke/) entworfen [@schielke2026] und gemeinsam mit Catharina Ochsner und Heinz Pampel basierend auf den Ergebnissen des Projekts erstellt.
+
+Die Anforderungen an eine Informationsinfrastruktur für die Langzeitverfügbarkeit von Wissenschaftsblogs sind unterteilt in vier Bereiche:
+
+1.  funktionale Anforderungen,
+2.  datenschutzrechtliche Anforderungen,
+3.  Anforderungen an die Datenaggregation sowie
+4.  Anforderungen an Schnittstellen für den Import und Export von Daten.
+
+Gemeinsam beschreiben die Anforderungen Maßnahmen zur Sicherung von Blogposts.
+
+Wir freuen uns besonders darüber, dass dieses Poster den Poster-Preis für das beste Design gewonnen hat, und gratulieren Anna-Lena Eickermann, Kathrin Ganz, Laura Pfisterer und Sabrina Schotten zu den Poster-Preisen für „am meisten gelernt“ und „nettester Austausch“ für ihr Poster „KI-Tools in der Redaktionsarbeit des Open Gender Journals“. Für mehr Information zur Gestaltung des Posters hat Johanna Schielke ihren Arbeitsprozess in einem Blogpost festgehalten [@schielke2026].
+
+Wir danken allen Teilnehmenden, die uns während der Postersession besucht haben, für den netten Austausch, ihre Fragen und ihr Feedback. Teilnehmende thematisierten wiederholt die Umsetzung des Katalogs in der Praxis. Plan ist, den Anforderungskatalog gemeinsam mit ausgewählten Informationsinfrastruktureinrichtungen und Blogs in der nächsten Projektphase von Infra Wiss Blogs zu implementieren und die im Katalog beschriebenen Workflows zu testen.
+
+### Unser Fazit
+
+Die Open-Access-Tage schafften es auch dieses Jahr wieder, die ganze Breite der Diskussion um Open Access abzubilden. Dies begann bereits sehr eindrucksvoll mit der ersten Keynote von Theresa Hager und Stefan Pühringer (Johannes Kepler Universität Linz) mit dem Titel „Offen, aber um welchen Preis? Die Politische Ökonomie von Open Science“. Im Verlaufe der Konferenz wurde sich immer wieder positiv auf diese kritische Bestandsaufnahme bezogen, auch in den Diskussionen im Workshop von OASA. Selbstverständlich spiegelte sich auch auf den Open-Access-Tagen die Dominanz des Themas Diamond Open Access wider; viele Panels und Workshops beschäftigten sich mit diesem Thema. Dennoch zeigt etwas die Session zu Repositorien, von der wir mit unserem Vortrag aus Pro OAR DE Teil sein durften, dass auch der grüne Weg des Open Access weiterhin relevant ist und diskutiert wird. Auch die Vielfalt wissenschaftlicher Publikationsformate wurde immer wieder aufgegriffen, so auch durch das Poster von Infra Wiss Blogs. Ein ebenfalls viel diskutiertes Thema war das der Künstlichen Intelligenz (KI) und ihre Bedeutung für Open Access und das wissenschaftliche Publikationssystem. In diesem Zusammenhang freuen wir uns, dass wir in der Forschungsgruppe Information Management in dem am 01.10.2026 gestarteten DFG‑Projekt [AIScholComm](https://www.ibi.hu-berlin.de/de/forschung/infomanagement/projekte/aischolcomm) einen Beitrag zu diesem wichtigen und aktuellen Forschungsthema leisten können. Das Projekt wird sich mit den Herausforderungen befassen, die durch KI-Verlagsstrategien, KI-Richtlinien von Fachzeitschriften und Verlagen und die Integration von KI-Tools in Verlagsservices entstehen.
+
+### Dank
+
+Insbesondere wollen wir den Organisator:innen der Open-Access-Tage 2026 danken. Organisation und Ablauf vor Ort, die Inhalte der Sessions, Workshops und Keynotes, aber auch das Rahmenprogramm, die kulinarische Verpflegung und der tolle Campus der Kepler Universität Linz haben allesamt zu einer fantastischen Konferenz beigetragen. Ebenso danken wir allen, die in Panels, bei unserem und weiteren Workshops, bei der Postersession, in den Pausen und auf dem Konferenzdinner mit uns diskutiert und sich ausgetauscht haben. Dieser Austausch mit anderen Wissenschaftler:innen und Praktiker:innen stellt eine unverzichtbare Unterstützung für unsere Arbeit dar. Wir freuen uns jetzt schon, Sie und euch auch bei den Open-Access-Tagen 2027 wiederzusehen – dann in Braunschweig.
+
+------------------------------------------------------------------------
+
+Weitere Informationen zu unserem Lehrstuhl finden Sie auf unserer [Website](http://hu.berlin/infomgnt).
+
+Dieser Text – mit Ausnahme von Zitaten und anderweitig gekennzeichneten Teilen – steht unter der [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.de).
+
+---
+nocite: |
+  @*
+---
