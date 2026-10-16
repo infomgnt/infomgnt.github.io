@@ -16,7 +16,7 @@ author:
 date: "2026-10-13"
 categories: [Research, Lab Life]
 citation:
-  url: https://infomgnt.org/posts/2026-10-16_rueckblick-open-access-tage-2026
+  url: https://doi.org/10.59350/fj23d-1f197
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
