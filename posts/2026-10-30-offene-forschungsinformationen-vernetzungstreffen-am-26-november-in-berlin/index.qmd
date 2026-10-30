@@ -16,7 +16,7 @@ author:
 date: "2026-10-30"
 categories: [Research, Lab Life]
 citation:
-  url: https://infomgnt.org/posts/2026-10-30_offene-forschungsinformationen-vernetzungstreffen-am-26-november-in-berlin
+  url: https://doi.org/10.59350/hc6h5-wv879
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
