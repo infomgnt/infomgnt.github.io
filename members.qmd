@@ -1,7 +1,39 @@
 ---
 title: "Members"
 listing: 
+- id: current-members  
   contents: members # all Quarto docs in the `posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  exclude:
+    title: 
+      - "Johanna Schielke"
+      - "Lisa Matthias"
+  image-height: 300px
+- id: previous-members
+  contents: members
+  type: grid
+  exclude:
+    title: 
+      - "Catharina Ochsner"
+      - "Charlotte Menzel"
+      - "Christopher Onzie Khamis"
+      - "Dorothea Strecker"
+      - "Heinz Pampel"
+      - "Jannis Köster"
+      - "Jonas Höfting"
+      - "Laura Rothfritz"
+      - "Max Liebel"
   image-height: 300px
 ---
+
+### Current Members
+
+::: {#current-members}
+:::
+
+------------------------------------------------------------------------
+
+### Previous Members
+
+::: {#previous-members}
+:::
