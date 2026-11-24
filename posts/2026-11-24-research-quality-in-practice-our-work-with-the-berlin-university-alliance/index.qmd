@@ -80,9 +80,9 @@ For the research group Information Management, the BUA is most valuable in exact
 
 ------------------------------------------------------------------------
 
-Further information about the research group can be found on our \[official website\](http://hu.berlin/infomgnt).
+Further information about the research group can be found on our [official website](https://hu.berlin/infomgnt).
 
-This text – excluding quotes and otherwise labelled parts – is licensed under the \[CC BY 4.0 DEED\](<https://creativecommons.org/licenses/by/4.0/deed.de>).
+This text – excluding quotes and otherwise labelled parts – is licensed under the [CC BY 4.0 DEED](<https://creativecommons.org/licenses/by/4.0/deed.de>).
 
 ---
 nocite: |
