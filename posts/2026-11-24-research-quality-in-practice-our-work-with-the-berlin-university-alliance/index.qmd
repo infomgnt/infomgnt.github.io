@@ -28,7 +28,7 @@ author:
 date: "2026-11-24"
 categories: [Research, Lab Life] 
 citation:
-  url: https://infomgnt.org/posts/2026-11-24-research-quality-in-practice-our-work-with-the-berlin-university-alliance
+  url: https://doi.org/10.59350/3psqg-ggg69
 license:
   name: CC BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
